@@ -32,6 +32,13 @@ python corr_system.py --human_score HUMAN_SCORE --metric_score METRIC_SCORE --sy
 - `METRIC_SCORE` The file of evaluation metric scores for each system in `score/metric` directory. Please create evaluation score files for the target metrics. All scores should be sorted alphabetically.
 - `SYSTEMS` Set of systems to consider for meta-evaluation. The default is set to `base`. To consider fluently corrected sentences, use `+REF-F_GPT-3.5`. To consider uncorrected sentences, use `INPUT`. Specify `all` to use all 15 systems.
 
+To conduct system-level window analysis, simply run:
+```
+python window_analysis_system.py --human_score HUMAN_SCORE --metric_score METRIC_SCORE --window_size WINDOW_SIZE
+```
+- `WINDOW_SIZE` The number of systems to use for window analysis.
+
+
 ### Sentece-level meta-evaluation
 ...
 
