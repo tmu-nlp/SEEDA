@@ -21,15 +21,15 @@ If you use this code, please cite our paper:
 ## Meta-evaluate evaluation metrics using SEEDA
 ### System-level meta-evaluation
 
-First, evaluate the sentences in the outputs directory with the evaluation metric you want to meta-evaluate, calculate the evaluation scores for each system. Then, calculate the correlation using the system scores provided by humans (Table 2).[^1]
+First, evaluate the sentences in `outputs/subset` at the system level with the evaluation metric you want to meta-evaluate. Then, calculate the correlation using the system scores provided by humans (Table 2).[^1]
 
 To conduct system-level meta-evaluation, simply run:
 ```
 python corr_system.py --human_score HUMAN_SCORE --metric_score METRIC_SCORE --systems SYSTEMS
 ```
-- `HUMAN_SCORE` The file of human evaluation scores for each system in `score/human` directory. The system scores are arranged alphabetically as follows:
+- `HUMAN_SCORE` The file of human evaluation scores for each system in `scores/human` directory. The system scores are arranged alphabetically as follows:
 1: BART, 2: BERT-fuse, 3: GECToR_BERT, 4: GECToR_ens, 5: GPT-3.5, 6: INPUT, 7: LM-Critic, 8: PIE, 9: REF-F, 10: REF-M, 11: Riken-Tohoku, 12: T5, 13: TemplateGEC, 14: TransGEC, 15: UEDIN-MS.
-- `METRIC_SCORE` The file of evaluation metric scores for each system in `score/metric` directory. Please create evaluation score files for the target metrics. All scores should be sorted alphabetically.
+- `METRIC_SCORE` The file of evaluation metric scores for each system in `scores/metric` directory. Please create system-level evaluation score files for the target metrics. All scores should be sorted alphabetically.
 - `SYSTEMS` Set of systems to consider for meta-evaluation. The default is set to `base`. To consider fluently corrected sentences, use `+REF-F_GPT-3.5`. To consider uncorrected sentences, use `INPUT`. Specify `all` to use all 15 systems.
 
 To conduct system-level window analysis, simply run:
@@ -40,7 +40,16 @@ python window_analysis_system.py --human_score HUMAN_SCORE --metric_score METRIC
 
 
 ### Sentece-level meta-evaluation
-...
+First, evaluate the sentences in `outputs/subset` at the sentence level with the evaluation metric you want to meta-evaluate. Then, calculate the correlation using the sentence scores provided by humans.
+
+To conduct sentence-level meta-evaluation, simply run:
+```
+python corr_sentence.py --human_score HUMAN_SCORE --metric_score METRIC_SCORE --order ORDER --systems SYSTEMS
+```
+- `HUMAN_SCORE` The xml file of human evaluation scores for each sentence in `data` directory. Consider the evaluation granularity of the metric (edit or sentence) when making your selection.
+- `METRIC_SCORE` The file of evaluation metric scores for each sentence in `scores/metric/sentence_score` directory. Please create evaluation score files for the target metrics.
+- `ORDER` If a higher metric score indicates better system performance, choose `higher`; otherwise, choose `lower`.
+- `SYSTEMS` Set of systems to consider for meta-evaluation. The default is set to `base`. To consider fluently corrected sentences, use `+REF-F_GPT-3.5`. To consider uncorrected sentences, use `INPUT`. Specify `all` to use all 15 systems.
 
 
 ## Evaluation scores for each system
