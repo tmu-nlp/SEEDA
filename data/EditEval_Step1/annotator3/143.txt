@@ -1,0 +1,10 @@
+<Source with context>
+We may in actual fact communicating with a hoax Facebook acccount of a cyber friend , which we assume to be real but in reality , it is a fake account .
+<t>Photos and [informations] retrieved from their profile page may be fabricated to suit [] certain personal agenda .</t>
+Thus , the lack of face-to-face human contact through social media restricts actual interaction which can be stimulated through the media .
+
+<Correction>
+<s1>Photos and informations retrieved from their profile page may be fabricated to suit certain personal [agenda→agendas|True] .</s1>
+<s2>Photos and [informations→information|True] retrieved from their profile page may be fabricated to suit [→a|True] certain personal agenda .</s2>
+<s3>Photos and [informations→information|True] retrieved from their profile page may be fabricated to suit certain personal agenda .</s3>
+<s4>Photos and [informations→information|True] retrieved from their profile page may be fabricated to suit certain personal [agenda→agendas|True] .</s4>

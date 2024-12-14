@@ -1,0 +1,10 @@
+<Source with context>
+We all know that life is priceless and we have no right to judge a person 's death .
+<t>With [the] improvements [of] technology , [a new life with genetic risk can be detected] .</t>
+Genetic refers the chance of inheriting a disorder or disease .
+
+<Correction>
+<s1>With [the→|True] improvements [of→in|True] technology , a new life with [→a|True] genetic risk can be detected .</s1>
+<s2>With the improvements [of→in|True] technology , a new life with genetic risk can be detected .</s2>
+<s3>With the [improvements→advancement|True] of technology , a new life with genetic [risk→risks|True] can be detected .</s3>
+<s4>With [the→|True] improvements [of→in|True] technology , a new life [with→possessing|True] [→a|True] genetic risk can be detected .</s4>

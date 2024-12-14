@@ -1,0 +1,11 @@
+<Source with context>
+With the help of social media site , people are able to upload their new discoveries and funny scene on it and they can be updated the new information of their friends .
+<t>Personally I am [study] [in] [oversea] , [] busy study life keeps me [away] from [contact] my old [friend] .</t>
+Using a common social media site with my friends to help me know what are their statuses nowadays .
+
+<Correction>
+<s1>Personally I am [study→studying|True] [in→|True] [oversea→overseas|True] , [→but my|False] busy study life keeps me away from [contact→contacting|True] my old friend .</s1>
+<s2>Personally I am [study→studying|True] [in→|True] [oversea→overseas|True] [, busy→. Busy|True] study life keeps me away from contact [→with|False] my old friend .</s2>
+<s3>Personally I am [study→studying|True] [in→|True] [oversea→overseas|True] , [→and a|True] busy study life keeps me away from [contact→contacting|True] my old [friend→friends|True] .</s3>
+<s4>Personally [→,|True] I am [study→studying|True] in [oversea→overseas|True] , busy study life keeps me away from contact my old friend .</s4>
+<s5>Personally [→,|True] I am [study→studying|True] [in→|True] [oversea→overseas|True] [, busy→. Busy|True] study life keeps me away from [contact→contacting|True] my old friend .</s5>

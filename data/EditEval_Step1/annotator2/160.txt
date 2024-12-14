@@ -1,0 +1,11 @@
+<Source with context>
+The auto correction software is so effective when using electronic device until we did not realize the importance of writing .
+<t>Writing is an essential skill of [person] who express their own feelings and opinions .</t>
+'Privacy ' , this is the word that popular in these few decades .
+
+<Correction>
+<s1>Writing is an essential skill [of→for|True] [person→people|True] [who→to|True] express their [own→|True] feelings and opinions .</s1>
+<s2>Writing is an essential skill [of→for|True] [person→people|True] who express their own feelings and opinions .</s2>
+<s3>Writing is an essential skill of [→a|True] person who [express→expresses|True] their own feelings and opinions .</s3>
+<s4>Writing is an essential skill [of→for|True] [→a|True] person who [express→expresses|True] their own feelings and opinions .</s4>
+<s5>Writing is an essential skill of [person→people|True] who express their own feelings and opinions .</s5>

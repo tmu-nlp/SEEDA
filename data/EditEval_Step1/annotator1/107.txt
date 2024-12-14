@@ -1,0 +1,11 @@
+<Source with context>
+This will then could lead to stress as these students are not able to cope with their studies because they were distracted .
+<t>In my opinion , every individual has to take responsibility [of] their own lives by [making a right decision] .</t>
+There are advantages and disadvantages in using social media sites , however in this case striking balance between social media and lives is the most important thing to do .
+
+<Correction>
+<s1>In my opinion , every individual has to take responsibility [of→for|True] their own [lives→life|False] by making [a→the|True] right decision .</s1>
+<s2>In my opinion , every individual has to take responsibility [of→for|True] their own lives by making [a→the|True] right decision .</s2>
+<s3>In my opinion , every individual has to take responsibility of their own lives by making a right decision .</s3>
+<s4>In my opinion , every individual has to take responsibility [of→for|True] their own lives by making [a→the|True] right [decision→decisions|True] .</s4>
+<s5>In my opinion , every individual has to take responsibility [of→for|True] their own [lives→life|True] by making [a→the|True] right [decision→decisions|True] .</s5>

@@ -1,0 +1,11 @@
+<Source with context>
+The certainty of what is being shared or expressed could not be proven physically as media limits this physical interaction , except when using a webcam to chat .
+<t>We can not be certain [for sure] the reliabilty or truth of some posts or information we received through the [Inetrnet] .</t>
+We may in actual fact communicating with a hoax Facebook acccount of a cyber friend , which we assume to be real but in reality , it is a fake account .
+
+<Correction>
+<s1>We can not be certain for sure the [reliabilty→reliability|True] or truth of some posts or information we received through the [Inetrnet→Internet|True] .</s1>
+<s2>We can not be certain for sure the reliabilty or truth of some posts or information we received through the [Inetrnet→Internet|True] .</s2>
+<s3>We can not be certain for sure the reliabilty or truth of some posts or information we received through [the→|False] Inetrnet .</s3>
+<s4>We can not be certain for sure the [reliabilty→reliability|True] or [→the|True] truth of some posts or information we received through the Inetrnet .</s4>
+<s5>We can not be certain for sure [→about|True] the [reliabilty→reliability|True] or truth of some posts or information we received through the [Inetrnet→Internet|True] .</s5>

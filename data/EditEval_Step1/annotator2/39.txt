@@ -1,0 +1,10 @@
+<Source with context>
+To some extent , this makes our life more luxry and blundering .
+<t>For myself , I am [long] to some places after I saw those [beatiful] pictures taken by my [firneds] .</t>
+Sometimes I even canoot sleep well because of excitement .
+
+<Correction>
+<s1>For myself , I am long to some places after I saw those [beatiful→beautiful|True] pictures taken by my [firneds→friends|True] .</s1>
+<s2>For myself , I [am→|True] long to [→visit|True] some places after I saw those [beatiful→beautiful|True] pictures taken by my [firneds→friends|True] .</s2>
+<s3>For myself , I [am→|True] long to some places after I [saw→see|False] those [beatiful→beautiful|True] pictures taken by my [firneds→friends|True] .</s3>
+<s4>For myself , I am [long→longing to go|True] to some places after I saw those [beatiful→beautiful|True] pictures taken by my [firneds→friends|True] .</s4>

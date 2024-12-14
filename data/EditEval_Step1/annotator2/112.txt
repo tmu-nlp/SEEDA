@@ -1,0 +1,10 @@
+<Source with context>
+While social media brings convenience to people life , people are more and more willing to use social media for chatting instead of face-to-face chatting which has a time and place requirement .
+<t>People who are not good at public [chatting] may be more reluctant to talk to people , and their interpersonal skills can never be improved [under] this situation .</t>
+Secondly , people 's over-addition may avoidably , to some degree , exacerbate social alienation , and this kind of alienation causes some social media users to suffer from the over-dependence of virtual social networking .
+
+<Correction>
+<s1>People who are not good at public chatting may be more reluctant to talk to people , and their interpersonal skills can never be improved [under→in|True] this situation .</s1>
+<s2>People who are not good at public [chatting→speaking|True] may be more reluctant to talk to people , and their interpersonal skills can never be improved under this situation .</s2>
+<s3>People who are not good at [public chatting→speaking with others|True] may be more reluctant to talk to people , and their interpersonal skills can never be improved [under→in|True] this situation .</s3>
+<s4>People who are not good at public chatting may be more reluctant to talk to people , and their interpersonal skills can never be improved under this situation .</s4>

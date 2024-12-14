@@ -1,0 +1,10 @@
+<Source with context>
+Moreover , telling their family members the truth is the fastest and easiest way to get their support .
+<t>Without the support of loved ones , patients ' [life] [is] no better than death .</t>
+Family members , as one the closest group of people from whom they can get comfort , is a crucial factor for them to successfully get over any possible troubles as a result of genetic disorder .
+
+<Correction>
+<s1>Without the support of loved ones , [→a|False] patients ' life is no better than death .</s1>
+<s2>Without the support of loved ones , patients ' [life→lives|True] is no better than death .</s2>
+<s3>Without the support of loved ones , patients ' [life→lives|True] [is→are]|True no better than death .</s3>
+<s4>Without the support of loved ones , [→a|True] [patients '→patient 's|True] life is no better than death .</s4>

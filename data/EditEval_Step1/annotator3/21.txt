@@ -1,0 +1,10 @@
+<Source with context>
+Such patients are still emotionally volatile or they may be unaware of the consequences of such genetic disorder due to their young age .
+<t>Furthermore [] the act of informing others without the consent [from] their parents or the patients [itself] could harm the psychological state of the affected family .</t>
+Thus , much thought need to put on the immediate family as it could caused a stir of unwanted events from the patient or the family members itself .
+
+<Correction>
+<s1>Furthermore [→,|True] the act of informing others without the consent [from→of|True] their parents or the [patients→patient|True] itself could harm the psychological state of the affected family .</s1>
+<s2>Furthermore [→,|True] the act of informing others without the consent [from→of|True] their parents or the patients [itself→themselves|True] could harm the psychological state of the affected family .</s2>
+<s3>Furthermore [→,|True] the act of informing others without the consent [from→of|True] their parents or the [patients→patient|True] [itself→herself|True] could harm the psychological state of the affected family .</s3>
+<s4>Furthermore [→,|True] the act of informing others without the consent from their parents or the patients itself could harm the psychological state of the affected family .</s4>

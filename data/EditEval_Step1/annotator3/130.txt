@@ -1,0 +1,7 @@
+<Source with context>
+More and more young people tend to live in social media world most of their time and reduce face-to-face human contact , which can affect interpersonal skills and relationships in social life .
+<t>First and foremost , we should realize that [] social media world is not trustworthy [and] real .</t>
+Everyone can easily make up the personality and characteristics they want .
+
+<Correction>
+<s1>First and foremost , we should realize that [→the|True] social media world is not trustworthy and real .</s1>

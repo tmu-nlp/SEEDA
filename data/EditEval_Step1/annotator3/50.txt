@@ -1,0 +1,10 @@
+<Source with context>
+Secondly , the carrier of a known genetic risk may destroy the peace of a family even broken the relation between children with the adult .
+<t>Once his or her family or relatives know that [] the person [does] not have [the] [relation] with them [] .</t>
+However happy they were before , there would be some barrier appears which will truly destroy the family gradually .
+
+<Correction>
+<s1>Once his or her family or relatives know that the person does not have the [relation→relationship|True] with them .</s1>
+<s2>Once [his or→|True] [her→their|True] family or relatives know that the person does not have [the→a|True] [relation→relationship|True] with them .</s2>
+<s3>Once his or her family or relatives know that the person does not have [the→a|True] relation with them .</s3>
+<s4>Once [his or→|True] [her→their|True] family [or relatives→members|True] [know→find|True] [that→out|True] [→,|True] [the→they|True] [person does→may|True] not have [the→a|True] [relation→relationship|True] with [them→that person anymore|True] .</s4>

@@ -1,0 +1,9 @@
+<Source with context>
+In a nutshell , a carrier of a known genetic risk has the responsibility to tell his or her relatives .
+<t>On the one hand , it can tell members of the carrier 's family the possible [disease] they may have [and] can perform treatment in time [] if possible .</t>
+On the other hand , it may pass the disease to the next generation if the carrier hides the truth .
+
+<Correction>
+<s1>On the one hand , it can tell members of the carrier 's family [→about|True] the possible [disease→diseases|True] they may have and can [perform→provide timely|True] treatment [in time→|True] if possible .</s1>
+<s2>On the one hand , [it can tell→informing relatives will|True] [members of→let|True] the carrier 's family [→members know about|True] the [possible→|True] [disease→diseases|True] they may have [→so|True] [and→that|True] [→they|True] can perform treatment in time [→,|True] if possible .</s2>
+<s3>On the one hand , it can tell members of the carrier 's family the possible disease they may have and can perform treatment in time if possible .</s3>

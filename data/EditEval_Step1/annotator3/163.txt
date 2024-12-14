@@ -1,0 +1,11 @@
+<Source with context>
+She or he does not want to be the source of unhappiness in thefamily .
+<t>However , we will never know whether [this] negative effects will happen [when] the carrier [decide] to tell his or her family of [the] his or her condition .</t>
+In conclusion , personally I feel that it is better for the carrier to inform her family members about the issue .
+
+<Correction>
+<s1>However , we will never know whether [this→these|True] negative effects will happen when the carrier [decide→decides|True] to tell his or her family of [the→|True] his or her condition .</s1>
+<s2>However , we will never know whether [this→these|True] negative effects will happen when the carrier [decide→decides|True] to tell his or her family of [the his or→|True] [her→their|True] condition .</s2>
+<s3>However , we will never know whether [this→these|True] negative effects will happen when the carrier [decide→decides|True] to tell his or her family of the his or her condition .</s3>
+<s4>However , we will never know whether this negative effects will happen when the carrier [decide→decides|True] to tell his or her family of [the→|True] his or [her→his|False] condition .</s4>
+<s5>However , we will never know whether this negative effects will happen when the carrier [decide→decides|True] to tell his or her family of [the→|True] his or her condition .</s5>

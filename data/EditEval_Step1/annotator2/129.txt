@@ -1,0 +1,10 @@
+<Source with context>
+This approaches help the parents to communicate with their children and know what kind of activities that their children have when they are overseas .
+<t>[The] social media is beneficial as it [connect] you and your loved [one] even though you are separated by [the] distance .</t>
+It might not be able to replace the joy that you have when you are with your family but it could help to reduce the sadness of being away from your family .
+
+<Correction>
+<s1>[The social→Social|True] media is beneficial as it [connect→connects|True] you and your loved one even though you are separated by the distance .</s1>
+<s2>[The social→Social|True] media is beneficial [as→since|True] it [connect→connects|True] you [and→with|True] your loved [one→ones|True] even though you are separated by [the→|True] distance .</s2>
+<s3>[The social→Social|True] media is beneficial as it [connect→connects|True] you and your loved one even though you are separated by [the→|True] distance .</s3>
+<s4>[The social→Social|True] media is beneficial as it [connect→connects|True] you and your loved [one→ones|True] even though you are separated by the distance .</s4>

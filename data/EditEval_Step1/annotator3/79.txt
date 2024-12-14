@@ -1,0 +1,11 @@
+<Source with context>
+This is due to people spending comparatively more time on social networking than time on reading newpapers .
+<t>Furthermore , with [the] current technology , smartphones are able to [get] access [to] social media sites [] which have made [] easier for consumers to use .</t>
+Hence , social media has benefited the masses by equipping them with a powerful tool to disseminate information almost immediate to the people around them .
+
+<Correction>
+<s1>Furthermore , with the current technology , smartphones are able to get access to social media sites [→,|True] which have made [→it|True] easier for consumers to use .</s1>
+<s2>Furthermore , with [the→|True] current technology , smartphones are able to get access to social media sites which have made [→it|True] easier for consumers to use .</s2>
+<s3>Furthermore , with [the→|True] current technology , smartphones are able to [get→|True] access [to→|True] social media sites [which have→,|True] [made→making it|True] easier for consumers to use .</s3>
+<s4>Furthermore , with the current technology , [smartphones→smartphone|False] are able to get access to social media sites which have made [→them|True] easier for consumers to use .</s4>
+<s5>Furthermore , with [the→|True] current technology , smartphones [are able to get→can|True] access [to→|True] social media sites [which have→,|True] [made→making it even|True] easier for consumers to use [→them|True] .</s5>

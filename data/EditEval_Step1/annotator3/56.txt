@@ -1,0 +1,10 @@
+<Source with context>
+To put it in the nutshell , I believe that people should have the obligation to tell their relatives about the genetic testing result for the good of their health .
+<t>It can be very difficult for them [] but [] necessary for the carriers and their [family] .</t>
+In addition , emotional preparations and the ways you explain your genetic condition is also important so that you can convey the correct information to your family and relatives and if necessary to guide them if he/she wish to conduct a similar genetic testing .
+
+<Correction>
+<s1>It can be very difficult for them but [→it is|True] necessary for the carriers and their family .</s1>
+<s2>It can be very difficult for them but necessary for the carriers and their [family→families|True] .</s2>
+<s3>It can be very difficult for them [→,|True] but necessary for the carriers and their [family→families|True] .</s3>
+<s4>It can be very difficult for them but necessary for the carriers and their family .</s4>

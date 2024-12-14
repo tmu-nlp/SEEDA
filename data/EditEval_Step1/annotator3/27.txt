@@ -1,0 +1,10 @@
+<Source with context>
+Nowadays , the study in the genetic field has gone further and further due to the high-velocity technological advancement .
+<t>Not long ago , the human genome project sponsored by several large multinational corporations ( MNCs ) [has been] started .</t>
+In comparison , in the field of genetic testing which enables people to be aware of the risk of a possible genetic disorder , as the technology has been very mature already , an even more popular topic arises .
+
+<Correction>
+<s1>Not long ago , the human genome project sponsored by several large multinational corporations ( MNCs ) has [been→|True] started .</s1>
+<s2>Not long ago , the human genome project sponsored by several large multinational corporations [( MNCs )→|True] [has been→was|True] started .</s2>
+<s3>Not long ago , the human genome project sponsored by several large multinational corporations ( MNCs ) [has been→was|True] started .</s3>
+<s4>Not long ago , the human genome project sponsored by several large multinational corporations ( MNCs ) [has been→|True] started .</s4>

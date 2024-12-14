@@ -1,0 +1,10 @@
+<Source with context>
+With no close relationship in real life but only close cyber friends , one is more possibly to feel lonely because the physiological need of human beings is to feel the bond with others by our five senses .
+<t>With the [willing] of people to become the best among others , social network [site] [] now become a place to show off .</t>
+Some people will to post their expensive thing or the oversea places of interest they have been on the social network and get a feeling of satisfaction by doing so .
+
+<Correction>
+<s1>With the willing of people to become the best among others , [→a|True] social network site [→has|True] now become a place to show off .</s1>
+<s2>With the [willing→willingness|False] of people to become the best among others , social [network→networking|True] [site→sites|True] [→have|True] now become a place to show off .</s2>
+<s3>With the [willing→desire|True] of people to become the best among others , social network [site→sites|True] [→have|True] now become a place to show off .</s3>
+<s4>With the [willing→desire|True] of people to become the best among others , social network [site→sites|True] now become a place to show off .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+As I mentioned in the beginning , there is also disadvantages of social media tools .
+<t>One of them is that [it] reduce the level of concentration [] especially [among] [the] [youngsters] .</t>
+This is because it is part of everyone 's habit to check their facebook 's page as their friends will post something new every second .
+
+<Correction>
+<s1>One of them is that it [reduce→reduces|True] the level of concentration especially among the youngsters .</s1>
+<s2>One of them is that it [reduce→reduces|True] [the→concentration|True] [level→levels|True] [of concentration→,|True] especially [among the youngsters→in young people|True] .</s2>
+<s3>One of them is that it [reduce→reduces|True] the level of concentration [→,|True] especially among the youngsters .</s3>
+<s4>One of them is that it [reduce→reduces|True] the level of concentration [→,|True] especially among [the→|True] youngsters .</s4>

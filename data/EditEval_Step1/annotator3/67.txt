@@ -1,0 +1,10 @@
+<Source with context>
+The emotional depression that the carrier might get and the sense of guilty can be more than expected and could be a burden in mind for the rest of the life .
+<t>On the other hand , without knowing [] [any] genetic disorder and accepting the fact , the family will stay positive and work together to overcome the [diability] .</t>
+I think the family will stay mentally healty as it is , without having emtional stress .
+
+<Correction>
+<s1>On the other hand , without knowing [→about|True] any genetic disorder and accepting the fact , the family will stay positive and work together to overcome the [diability→disability|True] .</s1>
+<s2>On the other hand , without knowing any genetic disorder and accepting the fact , the family will stay positive and work together to overcome the [diability→liability|False] .</s2>
+<s3>On the other hand , without knowing any genetic disorder and accepting the fact , the family will stay positive and work together to overcome the [diability→disability|True] .</s3>
+<s4>On the other hand , without knowing [→about|True] any genetic disorder and [accepting→having to accept|True] the fact [→of it|True] , the family will stay positive and work together to overcome the [diability→disability|True] .</s4>

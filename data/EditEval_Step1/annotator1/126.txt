@@ -1,0 +1,11 @@
+<Source with context>
+Though social media do create relationships , relationships and friendships are only firm and real if people have gone through experiences and communication in face-to-face interaction .
+<t>There is a story of a girl who [lives] in social media world every night [in eight] years .</t>
+In the chat room , she created a close relationship with eight people .
+
+<Correction>
+<s1>There is a story of a girl who [lives→has lived|True] in [→the|True] social media world every night [in→for|True] eight years .</s1>
+<s2>There is a story of a girl who [lives→has lived|True] in [→the|True] social media world [every night in→for|True] eight years [→every night|True] .</s2>
+<s3>There is a story of a girl who [lives→lived|True] in [→the|True] social media world every night [in→for|True] eight years .</s3>
+<s4>There is a story [of→about|True] a girl who lives in [→a|False] social media world every night in eight years .</s4>
+<s5>There is a story of a girl who lives in [→the|True] social media world every night [in→for|True] eight years .</s5>

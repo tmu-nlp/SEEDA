@@ -1,0 +1,8 @@
+<Source with context>
+The idea seems great , and nowadays most people even the older generation will have at least one social media platform like Facebook .
+<t>[The parents] are now the " friends " of their kids , and they can now " follow " their kids more closely and [on] real time .</t>
+People post about their random thoughts or daily activities via Twitter and post different kinds of photos on Facebook frequently , to be connected with their so called friends .
+
+<Correction>
+<s1>[The parents→Parents|True] are now [the→|True] " friends " [of→with|True] their kids [,→|True] and they can [now→|True] " follow " their kids more closely and [on→in|True] real time .</s1>
+<s2>The parents are now the " friends " of their kids , and they can now " follow " their kids more closely and [on→in|True] real time .</s2>

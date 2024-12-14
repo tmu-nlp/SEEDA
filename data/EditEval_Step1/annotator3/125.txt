@@ -1,0 +1,11 @@
+<Source with context>
+This type of communication does not help forging interpersonal relationships .
+<t>In real life , establishing [friendship] requires [the] [all-rounded] understanding [in] one another and [the] caring for one another .</t>
+The latter requires face to face interaction where we can show our emotions to the other .
+
+<Correction>
+<s1>In real life , establishing friendship requires the all-rounded understanding [in→of|True] one another and the caring for one another .</s1>
+<s2>In real life , establishing friendship requires the [all-rounded→all - rounded|False] understanding [in→of|True] one another and [the→|True] caring for one another .</s2>
+<s3>In real life , establishing friendship requires [the→an|True] all-rounded understanding [in→of|True] one another and the caring for one another .</s3>
+<s4>In real life , establishing friendship requires [→all|False] [the→-|False] [all-rounded→round|False] understanding [in→of|True] one another and [the→|True] caring for one another .</s4>
+<s5>In real life , establishing friendship requires [the→an|True] all-rounded understanding [in→of|True] one another and [the→|True] caring for one another .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+You can see people playing Facebook , Twitter through their smart phones or ipad on buses or on trains .
+<t>Some may say that the appearance [for] these modern media will reduce the chance for people to communicate face to face .</t>
+This essay will illustrate the pros and cons of using social media in modern society .
+
+<Correction>
+<s1>Some may say that the [appearance→prevalence|True] [for→of|True] these modern media will reduce the chance for people to communicate face to face .</s1>
+<s2>Some may [say→claim|True] that the appearance [for→of|True] these modern media will reduce the chance for people to communicate face to face .</s2>
+<s3>Some may say that the appearance [for→of|True] [these→|True] modern media will reduce the chance for people to communicate face to face .</s3>
+<s4>Some may say that the appearance [for→of|True] these modern media will reduce the chance for people to communicate face to face .</s4>

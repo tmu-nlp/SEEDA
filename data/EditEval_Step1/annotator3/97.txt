@@ -1,0 +1,7 @@
+<Source with context>
+A lot of fresh graduates can find jobs thanks to Facebook and Twitter .
+<t>Young people can widen their relationships , meet new friends [] and learn wonderful things in many parts of the world .</t>
+In business area , social media is a good tool to develop and advertise products and services .
+
+<Correction>
+<s1>Young people can widen their relationships , meet new friends [→,|True] and learn wonderful things in many parts of the world .</s1>

@@ -1,0 +1,10 @@
+<Source with context>
+People indeed go to great length to make their words as shorter as they can .
+<t>[While] , once they are communicating with people [in their face] , expressing themselves appropriately [become] [really a] big problem .</t>
+Social media also provides people huge brunch information about people and things that they interests .
+
+<Correction>
+<s1>While , once they are communicating with people in their face , expressing themselves appropriately [become→becomes|True] really a big problem .</s1>
+<s2>[While→However|True] , once they are communicating with people in their face , expressing themselves appropriately [become→becomes|True] [really a→a really|True] big problem .</s2>
+<s3>While , once they are communicating with people [in their face→face-to-face|True] , expressing themselves appropriately [become→becomes|True] [really→|True] a big problem .</s3>
+<s4>While , once they are communicating with people [in→on|False] their [face→faces|False] , expressing themselves appropriately [→has|True] become really a big problem .</s4>

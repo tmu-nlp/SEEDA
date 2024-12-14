@@ -1,0 +1,10 @@
+<Source with context>
+Firstly , when people rely on the social media to communicate with their friends and parents , they will accustom to communicate by typing and not talking .
+<t>People even prefer [talk] to their friends and meet their friends online and gradually reject face-to-face communication .</t>
+Therefore , the social media truly limit the interpersonal skills such that people lose the chance and the ability to practice talking and connect the relation between him and their friends .
+
+<Correction>
+<s1>People even prefer [talk→talking|True] to their friends and [meet→meeting|True] their friends online and gradually reject face-to-face communication .</s1>
+<s2>People even prefer [→to|True] talk to their friends and meet their friends online and gradually reject [face-to-face→face - to - face|True] communication .</s2>
+<s3>People even [→come to|False] prefer [→to|True] talk to their friends and meet their friends online [→,|True] and gradually reject face-to-face communication .</s3>
+<s4>People even prefer [→to|True] talk to their friends and meet their friends online and gradually reject face-to-face communication .</s4>

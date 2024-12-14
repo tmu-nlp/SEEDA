@@ -1,0 +1,10 @@
+<Source with context>
+It could possibly causes a problem in a family due to the fact and creates more unhappiness int the family .
+<t>Overall , I [belive] that it entirely depends on the carrier to share the hard facts and face it with relatives but [he] has no obligation to tell [still] .</t>
+In fact , I strongly think that the carrier should weigh both the positive and negative consequences of taking the genetic testing and tak an appropriate action to the results .
+
+<Correction>
+<s1>Overall , I [belive→believe|True] that it entirely depends on the carrier to share the hard facts and face [it→them|True] with relatives [→,|True] but he [→still|True] has no obligation to tell [still→|True] .</s1>
+<s2>Overall , I [belive→believe|True] that it entirely depends on the carrier to share the hard facts and face [it→them|True] with relatives [→,|True] but [→still ,|True] he has no obligation to tell [still→|True] .</s2>
+<s3>Overall , [I→Ili|False] [belive→believes|False] that it entirely depends on the carrier to share the hard facts and face it with relatives but he [→still|True] has no obligation to tell still .</s3>
+<s4>Overall , I [belive→believe|True] that it entirely depends on the carrier to share the hard facts and face it with relatives [→,|True] but he has no obligation to tell still .</s4>

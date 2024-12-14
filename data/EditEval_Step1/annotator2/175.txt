@@ -1,0 +1,10 @@
+<Source with context>
+While most people agree that each individual has his own right to decide whether to undergo a genetic test or not , they have different stands in whether it is the patient 's responsibility or freedom to share the result with his or her relatives .
+<t>In my opinion , the patients , which are carriers of some known genetic risk are supposed to share the truth with their family members .</t>
+Admittedly , it is a social obligation to be responsible for the life of other people .
+
+<Correction>
+<s1>In my opinion , [the→|True] patients , [which→who|True] are carriers of some known genetic risk [→,|True] are supposed to share the truth with their family members .</s1>
+<s2>In my opinion , the patients [,→|True] [which→who|True] are carriers of some known genetic risk are supposed to share the truth with their family members .</s2>
+<s3>In my opinion , the patients , [which→who|True] are carriers of some known genetic risk [→,|True] are supposed to share the truth with their family members .</s3>
+<s4>In my opinion , [the→|True] patients [,→|True] [which→who|True] are carriers of some known genetic risk are supposed to share the truth with their family members .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+For an example , one is able to send notifications and other information we use to have them in hardcopy previously , over the web and the process takes seconds .
+<t>The [receipent,will] then receive the information almost immediately depending on the quality of the network .</t>
+This covenience can be percieved as almost in realtime .
+
+<Correction>
+<s1>The receipent,will then [receive→receives|False] the information almost immediately depending on the quality of the network .</s1>
+<s2>The [receipent,will→receiver will|True] then receive the information almost immediately depending on the quality of the network .</s2>
+<s3>The [receipent,will→receipt will|False] then receive the information almost immediately depending on the quality of the network .</s3>
+<s4>The [receipent,will→receipent|False] [→will|True] then receive the information almost immediately depending on the quality of the network .</s4>

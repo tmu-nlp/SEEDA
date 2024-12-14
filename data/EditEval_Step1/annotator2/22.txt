@@ -1,0 +1,11 @@
+<Source with context>
+Any individual at risk for a disorder has the right to undergo genetic testing , but whether the results should be informed to others , especially close family or relatives , is the topic that worth discussing .
+<t>This is an issue [] need to be addressed as [] family-related ethical dilemma is involved .</t>
+In this essay , few arguments will be pointed out in the support of view for any carrier of that known genetic risk to tell his or her relatives .
+
+<Correction>
+<s1>This is an issue [→that|True] [need→needs|True] to be addressed [→,|True] as [→there is a|True] family-related ethical dilemma [is→|True] involved .</s1>
+<s2>This is an issue [→that|True] [need→needs|True] to be addressed as [family-related→family - related|False] ethical dilemma is involved .</s2>
+<s3>This is an issue [→that|True] [need→needs|True] to be addressed as [→a|True] family-related ethical dilemma is involved .</s3>
+<s4>This is an issue [→that|True] [need→needs|True] to be addressed as [→a|True] [family-related→family - related|False] ethical dilemma is involved .</s4>
+<s5>This is an issue [→that|True] [need→needs|True] to be addressed as family-related ethical dilemma is involved .</s5>

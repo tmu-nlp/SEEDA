@@ -1,0 +1,11 @@
+<Source with context>
+It is our responsibility to identify the advantages and disadvantages of social media sites .
+<t>To utilize the technology well , we should [do] our effort to not only balance the pros and cons but also lengthen the pros and shorten the cons .</t>
+Thus , the new technology will be able to bring a prosperous future for our and next generation .
+
+<Correction>
+<s1>To utilize [the→|False] technology well , we should do our effort to not only balance the pros and cons but also lengthen the pros and shorten the cons .</s1>
+<s2>To utilize the technology well , we should [do→make] [our→an|True] effort to not only balance the pros and cons but also [lengthen→maximize|True] the pros and [shorten→minimize|True] the cons .</s2>
+<s3>To utilize [the→|False] technology well , we should [do→make|True] [our→an|True] effort to not only balance the pros and cons but also lengthen the pros and shorten the cons .</s3>
+<s4>To utilize the technology well , we should [do→make|True] [our→an|True] effort to not only balance the pros and cons but also lengthen the pros and shorten the cons .</s4>
+<s5>To utilize the technology well , we should [do→make|True] our effort to not only balance the pros and cons but also lengthen the [pros→pro|False] and shorten the cons .</s5>

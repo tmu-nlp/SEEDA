@@ -1,0 +1,10 @@
+<Source with context>
+I think the family will stay mentally healty as it is , without having emtional stress .
+<t>Debates have been around for years [,] [that] [should] a carrier for a known genetic risk [] be obligated to inform his or her relatives .</t>
+Any individual at risk for a disorder has the right to undergo genetic testing , but whether the results should be informed to others , especially close family or relatives , is the topic that worth discussing .
+
+<Correction>
+<s1>Debates have been around for years , that should a carrier [for→of|True] a known genetic risk be obligated to inform his or her relatives .</s1>
+<s2>Debates have been around for years [,→|True] [that→as|True] [should→to whether|True] a carrier for a known genetic risk [→should|True] be obligated to inform [his or→|True] [her→their|True] relatives .</s2>
+<s3>Debates have been around for years [,→|True] [that→about|True] [should→whether|True] a carrier for a known genetic risk [→should|True] be obligated to inform his or her relatives .</s3>
+<s4>Debates have been around for years , [that→about|True] should a carrier for a known genetic risk be obligated to inform his or her relatives .</s4>

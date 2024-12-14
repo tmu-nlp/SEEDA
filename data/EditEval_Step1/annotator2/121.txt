@@ -1,0 +1,11 @@
+<Source with context>
+Social network sites provides us many convenience .
+<t>Without hanging out with friends or talking with friends [through] [] phone , we can [know] his of her latest news by [scaning] the webpage .</t>
+It can help us know more about each other .
+
+<Correction>
+<s1>Without hanging out with friends or talking with friends [through→over|True] [→the|True] phone , we can [know→keep|True] [his→up|True] [of→with|True] [her→their|True] latest news by [scaning→scanning|True] the webpage .</s1>
+<s2>Without hanging out with friends or talking with friends through [→the|True] phone , we can [know→learn|False] his of her latest news by [scaning→scanning|True] the webpage .</s2>
+<s3>Without hanging out with friends or talking with friends through [→the|True] phone , we can [know his of→find out|True] her latest news by [scaning→scanning|True] the webpage .</s3>
+<s4>Without hanging out with friends or talking with friends through [→the|True] phone , we can [know→find out|True] his [of→or|True] her latest news by [scaning→scanning|True] the webpage .</s4>
+<s5>Without hanging out with friends or talking with friends [through→over|True] [→the|True] phone , we can know his of her latest news by [scaning→scanning|True] the webpage .</s5>

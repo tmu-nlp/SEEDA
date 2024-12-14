@@ -1,0 +1,10 @@
+<Source with context>
+This had caused panic among the people who had flooded the local police department with numerous phone calls , and this had resulted temporarily closed of schools .
+<t>The spreading of false information can be a potential psychological threat to everyone , given that social media can disseminate information [in] a [realtively] fast speed .</t>
+Nevertheless , there are cyber polices who roam around these social networking platforms to prevent these hoaxes spreading around .
+
+<Correction>
+<s1>The spreading of false information can be a potential psychological threat to everyone , given that social media can disseminate information [in→at|True] a [realtively→relatively|True] fast speed .</s1>
+<s2>The spreading of false information can be a potential psychological threat to everyone , given that social media can disseminate information [in→at|True] a [realtively→really|True] fast speed .</s2>
+<s3>The spreading of false information can be a potential psychological threat to everyone , given that social media can disseminate information [in→at|True] a realtively fast speed .</s3>
+<s4>The [spreading→spread|True] of false information can be a [potential→|True] psychological threat to [everyone→anyone|True] [,→|False] given [that→how quickly|True] social media can disseminate information [in a realtively fast speed→|True] .</s4>

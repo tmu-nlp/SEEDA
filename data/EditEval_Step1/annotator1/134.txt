@@ -1,0 +1,10 @@
+<Source with context>
+People can also get to know their friends ' state and mood by looking at their posts on line .
+<t>Moreover , people can be aware of what is going on in [social situation] and see the comments online and share their opinions on these websites .</t>
+These social media makes people 's life much more colorful and provide a lot of fun .
+
+<Correction>
+<s1>Moreover , people can be aware of what is going on in social [situation→situations|True] [and→,|True] see the comments online [→,|True] and share their opinions on these websites .</s1>
+<s2>Moreover , people can be aware of what is going on in [→a|True] social situation and see the comments online and share their opinions on these websites .</s2>
+<s3>Moreover , people can be aware of what is going on in [→the|False] social situation and see the comments online and share their opinions on these websites .</s3>
+<s4>Moreover , people can be aware of what is going on in social [situation→situations|True] and see the comments online and share their opinions on these websites .</s4>

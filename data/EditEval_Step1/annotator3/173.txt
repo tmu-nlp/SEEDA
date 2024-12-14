@@ -1,0 +1,11 @@
+<Source with context>
+Secondly , although social network takes time for people to chat online but not face to face , they may still decide a time online to meet others face to face in the daily life .
+<t>In this case , the social network helps people [to] increase the frequency of [talk] .</t>
+For example , if social network does not exist , the business people need to meet each other face to face and it is other time consuming , even sometimes with business that is not so important , it still takes a lot time on travel which is a wastage .
+
+<Correction>
+<s1>In this case , [the→|True] social [network→networks|True] [helps→help|True] people to increase the frequency of talk .</s1>
+<s2>In this case , the social network helps people to increase the frequency of talk .</s2>
+<s3>In this case , the social network helps people to increase the frequency of [talk→talking|True] .</s3>
+<s4>In this case , the social network helps people to increase the frequency of [talk→communication|True] .</s4>
+<s5>In this case , [the→|True] social [network→networks|True] [helps→help|True] people to [increase→talk|True] [the→more|True] [frequency→frequently|True] [of talk→|True] .</s5>

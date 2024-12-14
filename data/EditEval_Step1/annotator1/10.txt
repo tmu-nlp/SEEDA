@@ -1,0 +1,10 @@
+<Source with context>
+With the families ' support , there must be more energy to fight against with the demon .
+<t>[Demon] is [not easily to be defeated] and [it is required much of energy] and psychological support .</t>
+Families give you the courage and support which you can not retrieve by yourself .
+
+<Correction>
+<s1>[Demon→A demon|True] is not easily to be defeated and it [is required→requires|True] [much→a lot|True] of energy and psychological support .</s1>
+<s2>[Demon→This demon|True] is not easily [to be→|True] defeated and it [is required→requires|True] much [of→|True] energy and psychological support .</s2>
+<s3>[Demon→Demons|True] [is→are|True] not easily [to be→|True] defeated [→easily|True] and [it→they|True] [is required→require|True] [much→a lot|True] of energy and psychological support .</s3>
+<s4>Demon is not easily [to be→|True] defeated and it [is required→requires|True] [much→a lot|True] of energy and psychological support .</s4>

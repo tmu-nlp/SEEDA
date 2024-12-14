@@ -1,0 +1,8 @@
+<Source with context>
+Compared to face-to-face interaction , online conversation is easier for strangers to open their mouth to each other .
+<t>Since some of the information has already been revealed on the home page , it is also easier to find some common topics to talk about .</t>
+Moreover , people usually like to share boldly about their real feelings online with their masks in reality being taken off .
+
+<Correction>
+<s1>Since some of the information has already been revealed on the home page , it is also easier to find some common topics to talk about .</s1>
+<s2>Since some [of the→|True] information has already been revealed on [the→a|True] [→person 's|True] home page , it is also easier to find some common topics to talk about .</s2>

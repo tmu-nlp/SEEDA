@@ -1,0 +1,10 @@
+<Source with context>
+Nevertheless , it will depend on what kind of genetic diseases , given in the context of current medical technology .
+<t>For example , breast cancer is a genetic disease and it can be cured if it is being [realised] in the early stage .</t>
+Hence , with the knowledge of having genetic risk , the relatives of this genetic disease will do a medical check-up , which might save them in realising it at a earlier stage .
+
+<Correction>
+<s1>For example , breast cancer is a genetic disease and it can be cured if it is being realised [in→at|True] [the→an|True] early stage .</s1>
+<s2>For example , breast cancer is a genetic disease [and→|True] [it→that|True] can be cured if it is [being realised→discovered|True] in [the→its|True] early [stage→stages|True] .</s2>
+<s3>For example , breast cancer is a genetic disease and it can be cured if it is [being→|True] realised in the early stage .</s3>
+<s4>For example , breast cancer is a genetic disease and it can be cured if it is being realised in the early [stage→stages|True] .</s4>

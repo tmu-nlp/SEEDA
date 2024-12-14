@@ -1,0 +1,9 @@
+<Source with context>
+Every family member has their human right to know what is going on with them .
+<t>If they do not even know that they are at risk for a genetic disorder , how can [this] [explain] their right ?</t>
+For instance , John is informed by his doctor that he is at risk for a genetic disorder but he does not tell his sibling , James about this .
+
+<Correction>
+<s1>If they do not even know that they are at risk for a genetic disorder , how can this explain their [right→plight|False] ?</s1>
+<s2>If they do not even know that they are at risk for a genetic disorder , how can this explain their right ?</s2>
+<s3>If they do not even know that they are at risk for a genetic disorder , how can [this→they|True] [explain→have|True] their right ?</s3>

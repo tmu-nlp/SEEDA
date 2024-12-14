@@ -1,0 +1,11 @@
+<Source with context>
+The appearance of those social media sites causes those problems to be solved .
+<t>People connecting through the social media sites [can spend] no money on the communication , and [also take] only one or a few seconds for the message to reach .</t>
+Therefore , this advantage of social media sites saves money and time , and also provides convenience for many people .
+
+<Correction>
+<s1>People connecting through [the→|True] social media sites can spend no money on [the→|True] communication , and [→it|True] also [take→takes|True] only one or a few seconds for the message to reach .</s1>
+<s2>People connecting through the social media sites can spend no money on [the→|True] communication , and [also→it only|True] [take→takes|True] [only one or→|True] a few seconds for the message to reach .</s2>
+<s3>People connecting through the social media sites can spend no money on the communication , and [→it|True] also [take→takes|True] only one or a few seconds for the message to [reach→arrive|True] .</s3>
+<s4>People connecting through [the→|True] social media sites can spend no money on the communication , and also take only one or a few seconds for the message to reach .</s4>
+<s5>People connecting through [the→|True] social media sites [can→communicate without|True] [spend→spending|True] [no→|True] money [on the communication→|True] , and [also→it only|True] [take→takes|True] [only one or→|True] a few seconds for [the→|True] [message→messages|True] to [reach→be received|True] .</s5>

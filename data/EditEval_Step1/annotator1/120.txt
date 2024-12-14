@@ -1,0 +1,11 @@
+<Source with context>
+However , they behave quite boring when I talk to them in real life .
+<t>Teenagers are developing their interpersonal skills and social skills [when] they are growing up .</t>
+If they spend too much time on these social media , it may cause some problems to their mental development .
+
+<Correction>
+<s1>Teenagers are developing their interpersonal [skills→|True] and social skills [when→as|True] they are growing up .</s1>
+<s2>Teenagers are developing their interpersonal skills and social skills when they are growing up .</s2>
+<s3>Teenagers [are developing→develop|True] their interpersonal skills and social skills when they are growing up .</s3>
+<s4>Teenagers are developing their interpersonal skills and social skills when they are growing [up→|False] .</s4>
+<s5>Teenagers are developing their interpersonal [skills→|True] and social skills when they are growing up .</s5>

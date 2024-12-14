@@ -1,0 +1,10 @@
+<Source with context>
+Undeniable , it becomes more addicting when we spend more time busy socialising and interacting virtually .
+<t>We spend [majority] of our time on sites like Facebook , Twitter and it affects our daily work productivity and performance .</t>
+In corporate world , employers often block social media network to prevent employees to spend their office time on their personal leisure than concentrating on their work .
+
+<Correction>
+<s1>We spend [→the|True] majority of our time on sites like Facebook [→and|True] [, Twitter→Twitter ,|True] and it affects our daily work productivity and performance .</s1>
+<s2>We spend [→the|True] majority of our time on sites like Facebook , Twitter [→,|True] and it affects our daily work productivity and performance .</s2>
+<s3>We spend [→the|True] majority of our time on sites like Facebook [,→and|True] Twitter and it affects our daily work productivity and performance .</s3>
+<s4>We spend [→the|True] majority of our time on sites like Facebook , Twitter and it affects our daily work productivity and performance .</s4>

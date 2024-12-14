@@ -1,0 +1,10 @@
+<Source with context>
+However , is it the same when we keep in touch with someone virtually compared to when we meet them personally ?
+<t>I do think there is difference in it and I believe many of us will agree .</t>
+When we write or communicate virtually , we can hide our through feelings and many not become ourselves since we do not want the other party to judge us .
+
+<Correction>
+<s1>I do think there is [→a|True] difference in it and I believe many of us will agree .</s1>
+<s2>I do think there is [→a|True] difference in it [→,|True] and I believe many of us will agree .</s2>
+<s3>I do think there is [→a|True] difference [in→|True] [it→,|True] and I believe many of us will agree .</s3>
+<s4>I do think there is [→a|True] difference [in→to|False] it and I believe many of us will agree .</s4>

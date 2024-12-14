@@ -1,0 +1,11 @@
+<Source with context>
+Getting connected on social media such as facebook and twitter has become a main trend as well as daily work nowadays .
+<t>With this situation , both advantages and disadvantages of using social media apply to our daily life .</t>
+On one side , it is obvioualy that many advantages have been brought to our lives .
+
+<Correction>
+<s1>With this situation , both [→the|True] advantages and disadvantages of using social media apply to our daily life .</s1>
+<s2>With this situation , both advantages and disadvantages of using social media apply to our daily [life→lives|True] .</s2>
+<s3>[With→In|True] this situation , both [→the|True] advantages and disadvantages of using social media apply to our daily [life→lives|True] .</s3>
+<s4>[With→In|True] this situation , both advantages and disadvantages of using social media apply to our daily life .</s4>
+<s5>With this situation , both advantages and disadvantages of using social media apply to our daily life .</s5>

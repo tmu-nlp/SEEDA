@@ -1,0 +1,8 @@
+<Source with context>
+What we can do is to cautiously manage our time spent online and manage our words used online .
+<t>With the regulation [of] government and relevant authorities , the virtual world would be a better world .</t>
+Social media sites ' role in connecting people around the world is undeniable .
+
+<Correction>
+<s1>With the regulation of government and relevant authorities , the virtual world would be a better [world→place|True] .</s1>
+<s2>With the regulation of [→the|True] government and relevant authorities , the virtual world would be a better world .</s2>

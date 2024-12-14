@@ -1,0 +1,10 @@
+<Source with context>
+More and more illness are discovered to be related to some genes with the development of the medical technology .
+<t>People will know about whether they carry a disease [on] their genes after they have done the genetic test .</t>
+If there is no problem , that will be wonderful .
+
+<Correction>
+<s1>People will know about whether they carry a disease [on→in|True] their genes after they have done the genetic test .</s1>
+<s2>People will know [about→|True] whether they carry a disease [on→in|True] their genes after they have done the genetic test .</s2>
+<s3>People will know [about→|True] whether they carry a disease [on→in|True] their genes after they have [done→had|True] the genetic test .</s3>
+<s4>People will know [about→|True] whether they carry a disease [on→with|False] their genes after they have done the genetic test .</s4>

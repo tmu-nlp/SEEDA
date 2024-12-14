@@ -1,0 +1,11 @@
+<Source with context>
+Some people spend a lot of time in it and forget their real life .
+<t>Actually , I have seen some people [are] very funny and interesting when I am chatting with them online .</t>
+However , they behave quite boring when I talk to them in real life .
+
+<Correction>
+<s1>Actually , I have seen [→that|True] some people are very funny and interesting when I am chatting with them online .</s1>
+<s2>Actually , I have seen some people are very funny and interesting when I am chatting with them online .</s2>
+<s3>Actually , I have seen some people [→who|True] are very funny and interesting when I [am chatting→chat|True] with them online .</s3>
+<s4>Actually , I have seen some people [→who|True] are very funny and interesting when I am chatting with them online .</s4>
+<s5>Actually , I have seen some people [are→be|True] very funny and interesting when I am chatting with them online .</s5>

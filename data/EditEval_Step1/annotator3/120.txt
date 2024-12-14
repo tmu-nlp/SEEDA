@@ -1,0 +1,9 @@
+<Source with context>
+However , there are also some disadvantages occur due to the social media which are concerned in the society .
+<t>Therefore , this article is written to explain the pros and cons of using social media in our daily life .</t>
+First , with the function of social media sites that connects the people , everyone is able to interact and communicate with friends and families , or even strangers without any time and place constraints .
+
+<Correction>
+<s1>Therefore , this article is written to explain the pros and cons of using social media in our daily life .</s1>
+<s2>Therefore , this article is written to explain the pros and cons of using social media in our daily [life→lives|True] .</s2>
+<s3>[Therefore , this→This|True] article is written to explain the pros and cons of using social media in our daily [life→lives|True] .</s3>

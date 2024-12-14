@@ -1,0 +1,11 @@
+<Source with context>
+Despite one may argue that it 's still up to the individual to disclose such health issue or to bear it within him/herself , it 's certainly helpful to share with close relatives , for a proper discussion for solutions .
+<t>By doing so , one will [feel less stressful in facing such disorder risk] .</t>
+Relatives will certainly be supportive and show more caring towards the carrier of a known genetic risk .
+
+<Correction>
+<s1>By doing so , one will feel less [stressful→stressed|True] [in→when|True] facing such disorder risk .</s1>
+<s2>By doing so , one will feel less stressful in facing such [→a|True] disorder risk .</s2>
+<s3>By doing so , one will feel less [stressful→stressed|True] in facing such [disorder→|True] risk [→of disorder|True] .</s3>
+<s4>By doing so , one will feel less stressful [in→|True] facing such [→a|True] disorder risk .</s4>
+<s5>By doing so , one will feel less [stressful→stressed|True] in facing such disorder risk .</s5>

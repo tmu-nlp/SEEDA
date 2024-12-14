@@ -1,0 +1,10 @@
+<Source with context>
+For example , does the carrier only need to tell his or her direct relatives like parents and brothers and sisters or does he also need to tell relatives like his grandmother 's sister 's son 's daughter 's nephew ?
+<t>If you say [] only need to tell direct relatives , it will be against the fairness of law .</t>
+Other relatives may have the same possibilities to have such kind of disease .
+
+<Correction>
+<s1>If you say only need to tell direct relatives , it will be against the fairness [of→|True] law .</s1>
+<s2>If you say [→they|True] only need to tell direct relatives , it will be against the fairness of law .</s2>
+<s3>If you say only need to tell direct relatives , it will be against the fairness of [→the|True] law .</s3>
+<s4>If you say [→you|True] only need to tell direct relatives , it will be against the fairness of [→the|True] law .</s4>

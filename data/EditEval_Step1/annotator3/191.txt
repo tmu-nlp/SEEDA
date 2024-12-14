@@ -1,0 +1,11 @@
+<Source with context>
+How do social media help change our lives ?
+<t>[As] the development of [the] technology , social media [becomes] more and more significant role in the [whole] world .</t>
+Everyone in the world can not stop using it every day to express their feelings or ideas and a log of other stuff which helps their friends know their lives better .
+
+<Correction>
+<s1>As [the development of the→|True] technology [→develops|True] , social media [becomes→has taken|True] [more→on|True] [and→an|True] [more→increasingly|True] significant role in the [whole→|True] world .</s1>
+<s2>As the development of [the→|True] technology , social media [becomes→plays|True] [→a|True] more and more significant role in the whole world .</s2>
+<s3>As [the development of the→|True] technology [→develops|True] , social media [becomes→plays|True] [→a|True] more and more significant role in the whole world .</s3>
+<s4>As the development of [the→|True] technology , social media becomes [→a|True] more and more significant role in the whole world .</s4>
+<s5>[As→With|True] the development of the technology , social media [becomes→has become|True] more and more significant [role→|True] in the [whole→|True] world .</s5>

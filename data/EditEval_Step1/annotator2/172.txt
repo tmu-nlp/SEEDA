@@ -1,0 +1,10 @@
+<Source with context>
+Therefore , people may not contact with the faraway friends and relatives unless there are something important .
+<t>However , people now can contact [with] anyone all over the world who can use [] computer at any time , and there is no time delay [of] messages .</t>
+The other advantage is that it is easier to know about others by social media .
+
+<Correction>
+<s1>However , people [now can→can now|True] contact [with→|True] anyone all over the world who can use [→a|True] computer at any time , and there is no time delay [of→for|True] messages .</s1>
+<s2>However , people now can contact [with→|True] anyone all over the world who can use [→a|True] computer at any time , and there is no time delay of messages .</s2>
+<s3>However , people now can contact [with→|True] anyone all over the world who can use [→a|True] computer at any time , and there is no time delay [of→with|True] messages .</s3>
+<s4>However , people now can contact [with→|True] anyone all over the world who can use [→a|True] computer at any time , and there is no [time→|True] delay [of→in|True] messages .</s4>

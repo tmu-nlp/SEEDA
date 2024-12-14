@@ -1,0 +1,10 @@
+<Source with context>
+The first one is the importance of being responsible for your self-wellness and health of your relatives and the second one is being responsible for the next generations .
+<t>The awareness of your relatives and [families] about your genetic risk is good for your self-wellness and [] health of your relatives .</t>
+Because if you are carrying that genetic risk , then there is great possibility that your relatives like parents or siblings are carrying the same genetic risk as well .
+
+<Correction>
+<s1>The awareness of your relatives and [families→family|True] about your genetic risk is good for your [self-wellness→self - wellness|False] and [→the|True] health of your relatives .</s1>
+<s2>The awareness of your relatives and families about your genetic risk is good for your self-wellness and health [→(|False] of your relatives [→)|False] .</s2>
+<s3>The awareness of your relatives and families about your genetic risk is good for your self-wellness and health of [your→|False] relatives .</s3>
+<s4>The awareness of your relatives and families about your genetic risk is good for your self-wellness and [→the|True] health of your relatives .</s4>

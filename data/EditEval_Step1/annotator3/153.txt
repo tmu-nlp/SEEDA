@@ -1,0 +1,10 @@
+<Source with context>
+In most of the countries , there is an emergence of social media sites such as Facebook and Twitter .
+<t>Many people think that [the] social media sites [have] [benefits] [on] [the] communication between people while [some] others argue that there are several negative impacts [for] the society .</t>
+One of the advantages which are carried by those social media sites is that they can connect us more closely than before .
+
+<Correction>
+<s1>Many people think that [the→|True] social media sites have benefits on [the→|True] communication between people [→,|True] while some others argue that there are several negative impacts for [the→|True] society .</s1>
+<s2>Many people think that [the→|True] social media sites have benefits on the communication between people while some others argue that there are several negative impacts [for→on|True] [the→|True] society .</s2>
+<s3>Many people think that [the→|True] social media sites [have→|True] [benefits→benefit|True] [on→|True] the communication between people while [some→|True] others argue that [there→they|True] [are→have|True] several negative impacts [for→on|True] [the→|True] society .</s3>
+<s4>Many people think that [the→|True] social media sites have benefits on [the→|True] communication between people while some others argue that there are several negative impacts [for→on|True] [the→|True] society .</s4>

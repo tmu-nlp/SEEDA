@@ -1,0 +1,9 @@
+<Source with context>
+Social media sites suppose be a very useful and convenient tool to use and bring people get closer in this globalised world .
+<t>The use of social media has largely influenced our ways [in] communicating with one another .</t>
+Online friends became real life friends and real life friends communicate with one another online .
+
+<Correction>
+<s1>The use of social media has largely influenced our ways [in→of|True] communicating with one another .</s1>
+<s2>The use of social media has [largely→greatly|True] influenced our ways [in→of|True] communicating with one another .</s2>
+<s3>The use of social media has largely influenced our ways in communicating with one another .</s3>

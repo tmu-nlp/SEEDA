@@ -1,0 +1,10 @@
+<Source with context>
+For an example , if we change our contact numbers , we will not send SMS to each of individual any longer .
+<t>Instead , we will post a [seed] and tag our friends to inform [] this kind of [changments] .</t>
+And if you are not on it , you will just get lost .
+
+<Correction>
+<s1>Instead , we [will→can] [post→write|True] a [seed→post|True] and tag our friends to inform [→them of|True] this kind of [changments→change|True] .</s1>
+<s2>Instead , we will post a seed and tag our friends to inform this kind of [changments→change|True] .</s2>
+<s3>Instead , we will post a seed and tag our friends to inform this kind of [changments→changes|False] .</s3>
+<s4>Instead , we will post a seed and tag our friends to inform [this→these|True] [kind→kinds|True] [of→|False] [changments→ofangments|False] .</s4>

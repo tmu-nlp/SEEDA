@@ -1,0 +1,10 @@
+<Source with context>
+Hence , it is undeniable that these sites play an important role in our global inter-connected world .
+<t>However , social media sites also have [its] [second] [side] [of] negative impact on [human] .</t>
+Undeniable , it becomes more addicting when we spend more time busy socialising and interacting virtually .
+
+<Correction>
+<s1>However , social media sites also have [its→their|True] second side of negative impact on [human→humans|True] .</s1>
+<s2>However , social media sites also have its second side of negative impact on [human→humans|True] .</s2>
+<s3>However , social media sites also have [its second side of→a|True] negative impact on [human→humans|True] .</s3>
+<s4>However , social media sites also have [its→their|True] second [side of→|False] negative impact on [human→humans|True] .</s4>

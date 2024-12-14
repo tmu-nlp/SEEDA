@@ -1,0 +1,11 @@
+<Source with context>
+It is still early for parents to decide whether they can foster a new life that are not able to work and may suffer the pain in the entire life .
+<t>The other reason [that] parents should know the baby they have is a carrier of genetic risk is for [a nation 's good] .</t>
+There are always newspaper report that a new born baby has be abandoned at hospital after they realized the baby have diseases that need a huge amount of money to secure .
+
+<Correction>
+<s1>The other reason that parents should know the baby they have is a carrier of genetic risk is for a nation 's good .</s1>
+<s2>The other reason that parents should know the baby they have is a carrier of [→a|True] genetic risk is for a nation 's good .</s2>
+<s3>The other reason that parents should know the baby they have is a carrier of genetic risk is for [a→the|True] nation 's good .</s3>
+<s4>The other reason that parents should know the baby they have is [→that|True] [a→the|True] carrier of genetic risk is for a nation 's good .</s4>
+<s5>The other reason that parents should know [→whether|True] the baby they have is a carrier of genetic risk is for a nation 's good .</s5>

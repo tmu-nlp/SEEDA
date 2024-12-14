@@ -1,0 +1,11 @@
+<Source with context>
+There are more intangible advantages that could support the stand of informing the relatives once the results are known after the test conducted .
+<t>In conclusion , in order to avoid [the] family-related ethical dilemma , it is best for any carrier of known genetic risk to inform his/her relatives .</t>
+The benefits of doing so are able to outweigh its disadvantages .
+
+<Correction>
+<s1>In conclusion , in order to avoid the family-related ethical dilemma , it is best for any carrier of known genetic risk to inform [his/her→his / her|False] relatives .</s1>
+<s2>In conclusion , in order to avoid [the→|True] family-related ethical [dilemma→dilemmas|True] , it is best for any carrier of known genetic risk to inform [his/her→their|True] relatives .</s2>
+<s3>In conclusion , in order to avoid the [family-related→family - related|False] ethical dilemma , it is best for any carrier of known genetic risk to inform [his/her→his / her|False] relatives .</s3>
+<s4>In conclusion , in order to avoid [→family|False] [the→-|False] [family-related→related|False] ethical dilemma , it is best for any carrier of known genetic risk to inform [his/her→his / her|False] relatives .</s4>
+<s5>In conclusion , in order to avoid [the→a|True] family-related ethical dilemma , it is best for any carrier of [→a|True] known genetic risk to inform [his/her→his|True] [→or|True] [→her|True] relatives .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+In conclusion , although the unsafe online environment , spend too much time on internet may be the potential negative factors of using online social networks .
+<t>It provides people with [] more convenient [contact] environment and [improve] the frequency of meeting [with] each [others] .</t>
+It also helps people to develop their interpersonal skills through online chating .
+
+<Correction>
+<s1>It provides people with [→a|True] more convenient contact environment and [improve→improves|True] the frequency of [meeting→meetings|False] [with each others→|False] .</s1>
+<s2>It provides people with more convenient contact [environment→environments|True] and [improve→improves|True] the frequency of meeting [with→|True] each [others→other|True] .</s2>
+<s3>It provides people with [→a|True] more convenient contact environment and [improve→improves|True] the frequency of meeting with each [others→other|True] .</s3>
+<s4>It provides people with [→a|True] more convenient contact environment and [improve→improves|True] the frequency of [meeting→meetings|False] with each [others→other|True] .</s4>

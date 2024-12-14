@@ -1,0 +1,10 @@
+<Source with context>
+It is hereditary .
+<t>[Do] one who [suffered] from this disease keep it a secret [of] infrom their relatives ?</t>
+In retrospect , its is also ones duty to ensure that he or she undergo periodic healthchecks in their own .
+
+<Correction>
+<s1>[Do→Does|True] one who suffered from this disease keep it a secret [of infrom→from|True] their relatives ?</s1>
+<s2>[Do→Should|True] one who [suffered→suffers|True] from this disease keep it a secret [of infrom→from|True] their relatives ?</s2>
+<s3>Do [one→people|True] who [suffered→suffer|True] from this disease keep it a secret [of infrom→from|True] their relatives ?</s3>
+<s4>[Do→Does|True] one who suffered from this disease keep it a secret [of→to|True] infrom their relatives ?</s4>

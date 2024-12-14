@@ -1,0 +1,10 @@
+<Source with context>
+It is not a heavy job for the family if they have prepare their mental first by disclosing the information of the probability that their children may suffer from the genetic disorder .
+<t>In this modern world , [the] [technologies] [were] improved a lot compared with the last century .</t>
+Particularly , in the medical field , there is a great improvement in many treatments for many formally incurable diseases , and genetic testing is one of the methods which were used to diagnose an individual at risk for a genetic disorder .
+
+<Correction>
+<s1>In this modern world , the technologies [were→|True] improved a lot compared with the last century .</s1>
+<s2>In this modern world , [the→|True] [technologies→technology|True] [were→has|True] improved a lot compared with the last century .</s2>
+<s3>In this modern world , [the→|True] technologies [were→have|True] improved a lot compared with the last century .</s3>
+<s4>In this modern world , [the→|True] technologies were improved a lot compared with the last century .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+Some of them may have changed their phone numbers and addresses , and we are not able to find them through a phone or a letter .
+<t>If [phone and letter] are the only way to contact them , we [would probably not able] to find them .</t>
+Facebook and Twitter can serve as an alternative route to make connection between us and our old friends .
+
+<Correction>
+<s1>If phone and [letter→letters|True] are the only way to contact them , we would probably not [→be|True] able to find them .</s1>
+<s2>If phone and letter [are→were|True] the only way to contact them , we would probably not [→be|True] able to find them .</s2>
+<s3>If [→the|True] phone and letter [are→were|True] the only way to contact them , we would probably not [→be|True] able to find them .</s3>
+<s4>If phone and letter are the only way to contact them , we would probably not [→be|True] able to find them .</s4>
+<s5>If phone [→calls|True] and [letter→letters|True] are the only way [→we had|True] to contact them , we would probably not [→be|True] able to find them .</s5>

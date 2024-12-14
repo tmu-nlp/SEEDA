@@ -1,0 +1,10 @@
+<Source with context>
+I do think there is difference in it and I believe many of us will agree .
+<t>When we write or communicate virtually , we can hide our [through] feelings and [many] not [become] ourselves since we do not want the other party to judge us .</t>
+Other than that , sometimes the message of one party can not be delivered properly to the other one since the communication is done through written language , and thus the 'tone ' of the message sent and when it is received may be different .
+
+<Correction>
+<s1>When we write or communicate virtually , we can hide our [through→true|True] feelings and [many→may|True] not become ourselves since we do not want the other party to judge us .</s1>
+<s2>When we write or communicate virtually , we can hide our [through→|True] feelings and many [not→other|False] [become ourselves since we→people|False] do not want [the other→another|False] party to judge us .</s2>
+<s3>When we write or communicate virtually , we can hide our [through→|True] feelings and [many→may|True] not become ourselves since we do not want the other party to judge us .</s3>
+<s4>When we write or communicate virtually , we can hide our [through→|True] feelings and many not become ourselves since we do not want the other party to judge us .</s4>

@@ -1,0 +1,8 @@
+<Source with context>
+People who aware of having such disorder can prevent the disorder to happen by adapting a healthy lifestyle , including having a balanced diet and at least having exercise for 30 minutes every day .
+<t>To sum up , a carrier of a known genetic risk should be obligated to tell his or her relatives .</t>
+This is their human right to know about that , and this may also save their lives by preventing the disorder to happen .
+
+<Correction>
+<s1>To sum up , a carrier of a known genetic risk should be obligated to tell [his or→|True] [her→their|True] relatives .</s1>
+<s2>To sum up , a carrier of a known genetic risk should be obligated to tell his or her relatives .</s2>

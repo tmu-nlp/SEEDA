@@ -1,0 +1,10 @@
+<Source with context>
+Many of the teenagers today claimed that they are able to keep in touch with their friends through social media , regardless of their location .
+<t>In the past , people used to [writing] letters to their friends and it [will] take [] relatively long time to send [the] [letter] [over] .</t>
+Therefore , with the help of technology , people are able to catch up wth each other conveniently .
+
+<Correction>
+<s1>In the past , people used to [writing→write|True] letters to their friends and it [will→would|True] take [→a|True] relatively long time to send the letter [over→|True] .</s1>
+<s2>In the past , people used to [writing→write|True] letters to their friends and it [will→would|True] take relatively [→a|True] long time to send [the→a|True] letter over .</s2>
+<s3>In the past , people used to writing letters to their friends and it [will→would|True] take [→a|True] relatively long time to send the letter over .</s3>
+<s4>In the past , people used to [writing→write|True] letters to their friends and it will take [→a|True] relatively long time to send the letter over .</s4>

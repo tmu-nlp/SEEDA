@@ -1,0 +1,11 @@
+<Source with context>
+We should know that although we may affect their lives , we can still let them make correct choices in the future .
+<t>It is only after we tell them [will] they start paying attention to their health .</t>
+They will consider whether to give a birth to a new baby because of this genetic problem and they will start finding ways to try to avoid their baby to carry this genetic risk as well .
+
+<Correction>
+<s1>It is only after we tell them will [→that|False] they start paying attention to their health .</s1>
+<s2>It is only after we tell them [will they→they will|False] start paying attention to their health .</s2>
+<s3>It is only after we tell them will they start paying attention to their health .</s3>
+<s4>It is only after we tell them [will→that|True] they start paying attention to their health .</s4>
+<s5>It is only after we tell them [→that|True] [will they→they will|True] start paying attention to their health .</s5>

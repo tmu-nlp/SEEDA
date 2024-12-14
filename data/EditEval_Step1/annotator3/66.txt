@@ -1,0 +1,11 @@
+<Source with context>
+I personally think this ist he right purpose of going through the genetic testing , so that a family who can not afford to have a disabled kid do not have to give birth to their child and make the entire family suffer .
+<t>However , I [belive] that the carrier has [] right not to [] [obligate] to tell anyone but has [] responsibility to take [an] action to prevent any ethical dilemma .</t>
+If the result turned out something that the carrier can not accept then it would have been better not knowing the truth .
+
+<Correction>
+<s1>However , I [belive→believe|True] that the carrier has [→the|True] right not to obligate to tell anyone but has responsibility to take an action to prevent any ethical dilemma .</s1>
+<s2>However , I [belive→believe|True] that the carrier has [→the|True] right not to obligate to tell anyone but has responsibility to take [an→|True] action to prevent any ethical dilemma .</s2>
+<s3>However , I [belive→believe|True] that the carrier has [→the|True] right not to obligate to tell anyone but has [→the|True] responsibility to take [an→|True] action to prevent any ethical dilemma .</s3>
+<s4>However , I [belive→believe|True] that the carrier has [→a|True] right not to obligate to tell anyone but has responsibility [to→for|True] [take→taking|True] [an→|True] action to prevent any ethical dilemma .</s4>
+<s5>However , I [belive→believe|True] that the carrier has [→the|True] right not to [obligate→be obligated|True] to tell anyone but has [→the|True] responsibility to take [an→|True] action to prevent any ethical dilemma .</s5>

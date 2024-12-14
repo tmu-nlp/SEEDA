@@ -1,0 +1,9 @@
+<Source with context>
+As many people realize , a genetic disorder can be related to the carrier 's relatives , that is , one of the family members is at risk for a genetic disorder means that other family members also have almost the equally risk to have it , so this problem should be treated seriously by the family .
+<t>Every family member has [their] [human] right to know what is going on with them .</t>
+If they do not even know that they are at risk for a genetic disorder , how can this explain their right ?
+
+<Correction>
+<s1>Every family member has [their→a|True] human right to know what is going on with them .</s1>
+<s2>Every family member has their [human→own|True] right to know what is going on with them .</s2>
+<s3>Every family member has their human right to know what is going on with them .</s3>

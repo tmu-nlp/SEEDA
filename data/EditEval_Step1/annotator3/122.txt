@@ -1,0 +1,11 @@
+<Source with context>
+So , we should never forget to think of and calculate the benefit and loss of every decision that we make .
+<t>Nowadays , the advancement of [technologies] [] [improves] the [life] of many people [a lot] .</t>
+In most of the countries , there is an emergence of social media sites such as Facebook and Twitter .
+
+<Correction>
+<s1>Nowadays , [the→technological|True] [advancement→advancements|True] [of technologies→greatly|True] [improves→improve|True] the [life→lives|True] of many people [a lot→|True] .</s1>
+<s2>Nowadays , the advancement of [technologies→technology|True] improves the life of many people a lot .</s2>
+<s3>Nowadays , the advancement of [technologies→technology|True] improves the [life→lives|True] of many people a lot .</s3>
+<s4>Nowadays , the advancement of technologies improves the life of many people a lot .</s4>
+<s5>Nowadays , the advancement of [technologies→technology|True] [→has greatly|True] [improves→improved|True] the [life→lives|True] of many people [a lot→|True] .</s5>

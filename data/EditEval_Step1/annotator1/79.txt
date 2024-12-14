@@ -1,0 +1,10 @@
+<Source with context>
+Nevertheless , there are cyber polices who roam around these social networking platforms to prevent these hoaxes spreading around .
+<t>But , there will still be unreliable sources spreading false information on social media sites despite high security to control almost every [social networking] movement .</t>
+Social media are able to improve relationship and make new friends , provided that there is mutual trust and mutual understanding between both parties .
+
+<Correction>
+<s1>[But→However|True] , there will still be unreliable sources spreading false information on social media sites despite high security to control almost every social [networking→media|True] movement .</s1>
+<s2>[But→Despite high security|True] , there will still be unreliable sources spreading false information on social media sites [despite high security→|True] to control almost every [social networking→social-network|True] movement .</s2>
+<s3>But , there will still be unreliable sources spreading false information on social media sites despite high security to control almost every social networking movement .</s3>
+<s4>But , there will still be unreliable sources spreading false information on social media sites despite [→the|False] high security to control almost every social networking movement .</s4>

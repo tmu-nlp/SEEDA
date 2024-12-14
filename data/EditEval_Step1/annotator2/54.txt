@@ -1,0 +1,10 @@
+<Source with context>
+In certain aspects , social media has brought us quite a lot of convenience .
+<t>It is becoming even more [convinient] than talking [throught] the phone since it is free .</t>
+We discuss every thing we like and we have more personal space.Our friends also got more access to know what we are doing and what we like .
+
+<Correction>
+<s1>It is becoming even more [convinient→convenient|True] than talking [throught→over|True] the phone since it is free .</s1>
+<s2>It is becoming even more [convinient→convenient|True] than talking [throught→on|True] the phone [→,|True] since it is free .</s2>
+<s3>It is becoming even more [convinient→convenient|True] than talking [throught→through|False] the phone since it is free .</s3>
+<s4>It is becoming even more [convinient→convenient|True] than talking [throught→on|True] the phone since it is free .</s4>

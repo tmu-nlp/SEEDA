@@ -1,0 +1,7 @@
+<Source with context>
+In conclude , socia media benefits people in several ways but in the same time harms people .
+<t>People should avoid the misuse of [socia] media and use it in the proper way .</t>
+With the aids of social media , people bonds globally , information flows rapidly , and human lives happily .
+
+<Correction>
+<s1>People should avoid the misuse of [socia→social|True] media and use it in the proper way .</s1>

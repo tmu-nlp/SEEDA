@@ -1,0 +1,11 @@
+<Source with context>
+Socia media allows them to explain to or inform people what is going on .
+<t>And actually lots of [rescuing] jobs are done with the help of social media like looking for people [] [get] lost and so on .</t>
+With more convinient and humanian communications , the relationship between government and people get largely improved .
+
+<Correction>
+<s1>And actually lots of [rescuing→rescue|True] jobs are done with the help of social media like looking for people [→who|True] get lost and so on .</s1>
+<s2>And actually [→,|True] lots of rescuing jobs are done with the help of social media like looking for people get lost and so on .</s2>
+<s3>And actually lots of rescuing jobs are done with the help of social media like looking for people [→who|True] get lost and so on .</s3>
+<s4>And actually lots of rescuing jobs are done with the help of social media [→,|True] like looking for people [→to|True] get lost and so on .</s4>
+<s5>And actually lots of rescuing jobs are done with the help of social media like looking for people [→to|True] get lost and so on .</s5>

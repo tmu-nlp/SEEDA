@@ -1,0 +1,10 @@
+<Source with context>
+One of them is that it reduce the level of concentration especially among the youngsters .
+<t>This is because it is part of everyone 's habit to check their [facebook 's] page as their friends will post something new every second .</t>
+Thus , you can see that some students will browse facebook while attending lectures .
+
+<Correction>
+<s1>This is because it is part of everyone 's habit to check their [facebook 's→Facebook|True] page as their friends will post something new every second .</s1>
+<s2>This is because it is part of everyone 's habit to check their facebook ['s→|False] page as their friends will post something new every second .</s2>
+<s3>This is because it is part of everyone 's habit [to→of|True] [check→checking|True] their [facebook 's→Facebook|True] page as their friends will post something new every second .</s3>
+<s4>This is because it is [part of→|True] [everyone 's→their|True] habit to check [their→|False] [facebook 's→Facebook] [page→|True] as their friends will post something new every second .</s4>

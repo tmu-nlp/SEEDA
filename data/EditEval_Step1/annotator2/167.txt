@@ -1,0 +1,11 @@
+<Source with context>
+Social media also provides people huge brunch information about people and things that they interests .
+<t>For example , on Twitter , it is exciting to follow people that you adore like famous movie and [series] stars , [business men] and entrepreneurs .</t>
+It makes people feel extreme close to their admirers ' lives and works .
+
+<Correction>
+<s1>For example , on Twitter , it is exciting to follow people that you adore [→,|True] like famous [→stars from|False] movie and [→TV|True] series [stars→|True] , business men [→,|True] and entrepreneurs .</s1>
+<s2>For example , on Twitter , it is exciting to follow people that you adore [→,|True] like famous [movie→movies|False] and series stars , [business men→businessmen|True] and entrepreneurs .</s2>
+<s3>For example , on Twitter , it is exciting to follow people that you adore [→,|True] like famous movie and series stars , [business men→businessmen|True] and entrepreneurs .</s3>
+<s4>For example , on Twitter , it is exciting to follow people that you [adore like→admire such as|True] famous movie and series stars , [business men→businessmen|True] and entrepreneurs .</s4>
+<s5>For example , on Twitter , it is exciting to follow people that you adore [→,|True] like famous movie and series stars , business men and entrepreneurs .</s5>

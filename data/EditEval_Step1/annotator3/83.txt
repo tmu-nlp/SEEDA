@@ -1,0 +1,11 @@
+<Source with context>
+Nonetheless , what seems to make us connected can be the cause that falls us apart .
+<t>The obvious disadvantage of using social media is [that] the time reduction [on] face-to-face contact .</t>
+This subsequently leads to the poor interpersonal skills that inhibit the growth of our real social circle .
+
+<Correction>
+<s1>The obvious disadvantage of using social media is [that→|True] the time reduction on face-to-face contact .</s1>
+<s2>The obvious disadvantage of using social media is [that→|True] the time reduction [on→in|True] face-to-face contact .</s2>
+<s3>The obvious disadvantage of using social media is that the time reduction on [face-to-face→face - to - face|False] contact .</s3>
+<s4>The obvious disadvantage of using social media is that the time reduction [on→in|True] face-to-face contact .</s4>
+<s5>The obvious disadvantage of using social media is [that→|True] the time reduction on [face-to-face→face - to - face|False] contact .</s5>

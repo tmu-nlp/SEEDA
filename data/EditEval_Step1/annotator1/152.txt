@@ -1,0 +1,10 @@
+<Source with context>
+Many advantages are given to the users .
+<t>Let us [take example] from Facebook and Twitter , two of the most famous social media sites .</t>
+Through Facebook , peope are able to maintain relationship with their old acquaintances .
+
+<Correction>
+<s1>Let us take [→an|True] example from Facebook and Twitter , two of the most famous social media sites .</s1>
+<s2>Let us take [example→examples|True] from Facebook and Twitter , two of the most famous social media sites .</s2>
+<s3>Let us take example [from→of|False] Facebook and Twitter , two of the most famous social media sites .</s3>
+<s4>[Let→As an example , let|True] [us→'s|True] [take example from→look at|True] Facebook and Twitter , two of the most [famous→popular|True] social media sites .</s4>

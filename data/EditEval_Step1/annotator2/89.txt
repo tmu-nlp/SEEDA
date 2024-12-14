@@ -1,0 +1,10 @@
+<Source with context>
+Lastly , it is easy for people to waste a lot of time using social media .
+<t>Again , there is a trend for them to suffer from social media [addition] and their study and work may be greatly influenced .</t>
+Since we can see both advantages and disadvantages of using social media , and we can not deny the huge benefits that have been brought to us , this main trend of using social media may be still lasting for a long time .
+
+<Correction>
+<s1>Again , there is a trend for them to suffer from social media [addition→addiction] [and→, which may greatly harm|True] their [study→education|True] and work [may be greatly influenced→|True] .</s1>
+<s2>Again , there is a trend for them to suffer from social media [addition→addiction|True] and their study and work may be greatly influenced .</s2>
+<s3>Again , there is a trend for them to suffer from social media addition [and→to|True] their study and work may be greatly influenced .</s3>
+<s4>Again , there is a trend for them to suffer from social media [addition→addiction|True] and their [study→studies|True] and work may be greatly influenced .</s4>

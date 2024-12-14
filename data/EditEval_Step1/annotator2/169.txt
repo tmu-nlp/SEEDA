@@ -1,0 +1,10 @@
+<Source with context>
+Everyone in the world can not stop using it every day to express their feelings or ideas and a log of other stuff which helps their friends know their lives better .
+<t>However , it also raised [the] concerns about whether it brings us more benefits or a human disaster .</t>
+Although it helps to connect us with our friends wherever we are , it at the same time reduces the chance for us to talk to our friends face to face which may affect our interpersonal skills .
+
+<Correction>
+<s1>However , it also raised the concerns about whether it brings us more benefits or a human disaster .</s1>
+<s2>However , it also raised [the→|True] concerns about whether it [brings→will bring|True] us more benefits or a human disaster .</s2>
+<s3>However , it also [raised→raises|True] the concerns about whether it brings us more benefits [→,|True] or a [human→|True] disaster .</s3>
+<s4>However , it also raised [the→|True] concerns about whether it brings us more benefits or a human disaster .</s4>

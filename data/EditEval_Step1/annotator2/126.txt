@@ -1,0 +1,11 @@
+<Source with context>
+Whenever they need to use social media , they have to use a phone or internet .
+<t>Generally people need [they] eyes to look at the display screen of their phone or computer and fingers to manipulate the corresponding device .</t>
+As a result , they will lose eyes to contact and hands to express their feeling to people nearby them , which means they have lost the tools they need for face-to-face contact communicating .
+
+<Correction>
+<s1>Generally [→,|True] people need [they→|True] eyes to look at the display screen of their phone or computer and fingers to manipulate the corresponding device .</s1>
+<s2>Generally [→,|True] people need they eyes to look at the display screen of their phone or computer and fingers to manipulate the corresponding device .</s2>
+<s3>Generally people need [they→their|True] eyes to look at the display [screen→|True] of their phone or computer and [→their|True] fingers to manipulate the [corresponding→|True] device .</s3>
+<s4>Generally people need [they→their|True] eyes to look at the display screen of their phone or computer and fingers to manipulate the corresponding device .</s4>
+<s5>Generally [→,|True] people need [they→their|True] eyes to look at the display screen of their phone or computer and fingers to manipulate the corresponding device .</s5>

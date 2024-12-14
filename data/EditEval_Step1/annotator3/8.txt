@@ -1,0 +1,11 @@
+<Source with context>
+This information may not be known by the mother if she does n't tell her relatives regarding her condition .
+<t>[More] people ( relatives ) know [] her problem , [] more information [channel] [is] provided .</t>
+If all efforts have been made but the children still suffer from the syndrome then the family have to accept this fact and do whatever they can to bring a good environment for their children 's growth .
+
+<Correction>
+<s1>[More→The more|True] people ( relatives ) [→who|True] know [→about|True] her problem , [→the|True] more information [channel→channels|True] [is→are|True] provided .</s1>
+<s2>[More→If more|True] people [( relatives )→that|False] know [→about|True] her problem , [→there will be|True] more [information channel→channels|True] [is→to|True] [provided→receive information|True] .</s2>
+<s3>More people ( relatives ) know her problem , more information [channel→channels|True] [is→are|True] provided .</s3>
+<s4>[More→If more|True] people ( relatives ) know her problem , more information [channel→channels|True] [is→are|True] provided .</s4>
+<s5>[More→The more|True] people ( relatives ) know [→about|True] her problem , [→the|True] more information [channel→channels|True] [is→are|True] provided .</s5>

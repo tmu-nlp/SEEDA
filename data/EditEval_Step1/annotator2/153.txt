@@ -1,0 +1,9 @@
+<Source with context>
+However , in order for people to maintain their relationship as well as making new friends , it requires mutual trust and understanding between both parties .
+<t>It might not be accurate to judge the other party 's feelings over social media as one may cover up their emotions while on social media .</t>
+In addition , there are also chances for people to miscommunicate with each other as they can not sense the tone of the other party over social media platforms .
+
+<Correction>
+<s1>It might not be accurate to judge the other party 's feelings over social media as one may cover [up→|False] their emotions while on social media .</s1>
+<s2>It might not be accurate to judge [the other party→another person|True] 's feelings over social media [as→since|True] [one→people|True] [may→can|True] [cover up→hide|True] their [→true|True] emotions [while on social media→online|True] .</s2>
+<s3>It might not be accurate to judge the other party 's feelings over social media as one may cover up their emotions while on social media .</s3>

@@ -1,0 +1,10 @@
+<Source with context>
+Despite the luxury that is offered by social media , there are also harmful side effects which people may not realize it beforehand .
+<t>[Researches] show that [] face-to-face meeting frequency among people that are addicted to social media sites has been decreasing .</t>
+As the consequence , it affects their interpersonal skills .
+
+<Correction>
+<s1>Researches show that [face-to-face→face - to - face|False] meeting frequency among people that are addicted to social media sites has been decreasing .</s1>
+<s2>[Researches→Research|True] [show→shows|True] that face-to-face meeting frequency among people that are addicted to social media sites has been decreasing .</s2>
+<s3>[Researches→Researchers|False] show that face-to-face meeting frequency among people that are addicted to social media sites has been decreasing .</s3>
+<s4>[Researches→Research|True] [show→shows|True] that [face-to-face meeting frequency among→|True] people [that→who|True] are addicted to social media sites [has been→meet|True] [→face-to-face with|True] decreasing [→frequency|True] .</s4>

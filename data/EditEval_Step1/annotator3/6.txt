@@ -1,0 +1,10 @@
+<Source with context>
+Thus , advice from hospital plays the important role for this .
+<t>[Carrier] is responsible [to] [balance] his or her own [interest] [and] [the benefits] of [] family and even society .</t>
+It is a hard decision to make but with the most appropriate way , it will create great circumstances for the carrier and families in the future .
+
+<Correction>
+<s1>[Carrier→Carriers|True] [is→are|True] responsible [to→for|True] [balance→balancing|True] his or her own [interest→interests|True] and the benefits of family and even society .</s1>
+<s2>[Carrier→The carrier|True] is responsible to balance his or her own [interest→interests|True] and the benefits of family and even society .</s2>
+<s3>[Carrier→The carrier|True] is responsible [to→for|True] [balance→balancing|True] his or her own [interest→interests|True] and [the benefits→those|True] of [→the|True] family and even society .</s3>
+<s4>[Carrier→The carrier|True] is responsible [to→for|True] [balance→balancing|True] his or her own [interest→interests|True] and the benefits of family and even society .</s4>

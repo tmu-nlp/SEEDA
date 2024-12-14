@@ -1,0 +1,7 @@
+<Source with context>
+Awareness of having a genetic disorder may help in diagnosing a genetic disorder for a person , and therefore , this may make the prevention of a certain disorder possible .
+<t>For example , hypertension is partially due to genetic factors , but environmental factors also play an important role .</t>
+People who aware of having such disorder can prevent the disorder to happen by adapting a healthy lifestyle , including having a balanced diet and at least having exercise for 30 minutes every day .
+
+<Correction>
+<s1>For example , hypertension is partially due to genetic factors , but environmental factors also play an important role .</s1>

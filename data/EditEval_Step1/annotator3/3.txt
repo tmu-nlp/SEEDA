@@ -1,0 +1,10 @@
+<Source with context>
+Generally , the clinic or hospital will not tell the carrier 's families without the agreement of carrier .
+<t>It is the [ethic] [] of staff in [hospital] to keep the secret of [any] patients .</t>
+We can not blame them that they are liable to the undesired consequences .
+
+<Correction>
+<s1>It is the ethic of staff in [hospital→hospitals|True] to keep the secret of any patients .</s1>
+<s2>It is the [ethic→ethical|True] [→duty|True] of [staff in→|True] hospital [→staff|True] to keep the secret of any patients .</s2>
+<s3>It is the ethic of staff in [hospital→hospitals|True] to keep the secret [of→from|False] any patients .</s3>
+<s4>It is the ethic of [staff in→|True] hospital [→staff|True] to keep [the→|False] [secret→secrets|True] of [any→all|True] patients .</s4>

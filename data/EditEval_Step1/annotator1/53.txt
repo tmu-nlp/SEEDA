@@ -1,0 +1,9 @@
+<Source with context>
+They will consider whether to give a birth to a new baby because of this genetic problem and they will start finding ways to try to avoid their baby to carry this genetic risk as well .
+<t>They always have a choice about whether to undergo the genetic test or not .</t>
+Maybe after we tell them , they will go for it and know more about themselves .
+
+<Correction>
+<s1>They [always→also|False] have a choice about whether to undergo the genetic test or not [→themselves|False] .</s1>
+<s2>They always have a choice about whether to undergo [the→a|True] genetic test or not .</s2>
+<s3>They always have a choice about whether to undergo the genetic test or not .</s3>

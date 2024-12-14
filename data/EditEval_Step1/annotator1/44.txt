@@ -1,0 +1,11 @@
+<Source with context>
+There might be a possibility that the genetic disorder could also affect their relatives and any other families within the same family tree .
+<t>The importance of informing relatives of [such genetic disease] is vital as it may help to raise awareness and prevention [towards] the genetic disorder .</t>
+Also , this known information will help their relatives to make informed decisions and tosimilarly undergo genetic testingto find out about the outcome .
+
+<Correction>
+<s1>The importance of informing relatives of such [→a|True] genetic disease is vital as it may help to raise awareness and prevention towards the genetic disorder .</s1>
+<s2>The importance of informing relatives of such genetic [disease→diseases|True] is vital [→,|True] as it may help to raise awareness and prevention towards the genetic [disorder→disorders|True] .</s2>
+<s3>The importance of informing relatives of such genetic disease is vital as it may help to raise awareness and prevention [towards→of|True] [the→|True] genetic [disorder→disorders|True] .</s3>
+<s4>The importance of informing relatives of [such→a|True] genetic disease is vital [→,|True] [as→because|True] it may help to raise awareness and prevention [towards→of|True] the genetic disorder .</s4>
+<s5>The importance of informing relatives of such genetic disease is vital as it may help to raise awareness and prevention [towards→of|True] [the→|True] genetic disorder .</s5>

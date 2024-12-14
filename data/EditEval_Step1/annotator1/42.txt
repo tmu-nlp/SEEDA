@@ -1,0 +1,9 @@
+<Source with context>
+It is a long time discussion that whether a carrier of a known genetic risk should be obligated to tell his or her relatives that his or her disease is caused by gene .
+<t>From the legal aspect , the answer is no but from the ethical aspect [,] the answer should be yes .</t>
+We ca n't make a law to push a carrier of a known genetic risk to tell his or her relatives about his genetic problem .
+
+<Correction>
+<s1>From the legal aspect , the answer is no [→(|False] but from the ethical aspect [→)|False] , the answer should be yes .</s1>
+<s2>From [the→a|True] legal aspect , the answer is no [→,|True] but from [the→an|True] ethical aspect , the answer should be yes .</s2>
+<s3>From the legal aspect , the answer is no [→,|True] but from the ethical aspect , the answer should be yes .</s3>

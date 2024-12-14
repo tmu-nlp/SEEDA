@@ -1,0 +1,10 @@
+<Source with context>
+Ultimately , one must bring attention to who may benefit from such information and assisting those at risk to make considered decisions about disclosure .
+<t>Whose duty it is to inform [at risk] relatives or not greatly depends on [the] personal [moral] and [the nature of] how ['directive '] the risk is to them .</t>
+People with close blood relationship generally carry some similar genes .
+
+<Correction>
+<s1>Whose duty it is to inform [at risk→at-risk|True] relatives or not greatly depends on the personal moral and the nature of how 'directive ' the risk is to them .</s1>
+<s2>Whose duty it is to inform at risk relatives or not greatly depends on the personal moral and the nature of how ['directive→'direct|True] ' the risk is to them .</s2>
+<s3>Whose duty it is to inform [at risk→at-risk|True] relatives or not greatly depends on [the→|True] personal [moral→morals|True] and the nature of how ['directive '→direct|True] the risk is to them .</s3>
+<s4>Whose duty it is to inform [at risk→at-risk|True] relatives or not greatly depends on [the→their|True] personal [moral→morality|True] and the nature of how ['directive→' directive|False] ' the risk is to them .</s4>

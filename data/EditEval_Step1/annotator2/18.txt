@@ -1,0 +1,10 @@
+<Source with context>
+However , if they already know they have a gene that may make them have higher possibilities to get hypertention .
+<t>They can build a daily habit [to] [eat] less salt and fat and thus [to] avoid hypertension .</t>
+In a nutshell , our society ca n't push genetic problem carrier to tell his or her disease to his or her relatives but he or she should be willing to tell his or her relatives about his or her genetic problem .
+
+<Correction>
+<s1>They can build a daily habit [to→of] [eat→eating|True] less salt and fat and thus [to→|True] avoid hypertension .</s1>
+<s2>They can build a daily habit to eat less salt and fat and thus [to→|True] avoid hypertension .</s2>
+<s3>They can build a daily habit [to→of|True] [eat→eating|True] less salt and fat and thus to avoid hypertension .</s3>
+<s4>[They→However , if they already know they have a gene that may make them have a higher possibility of getting hypertension , they|True] can build a daily habit [to→of|True] [eat→eating|True] less salt and fat [→,|True] and thus [to→|True] avoid hypertension .</s4>

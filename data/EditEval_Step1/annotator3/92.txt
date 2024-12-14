@@ -1,0 +1,11 @@
+<Source with context>
+We should take the advantages of the creatures we create and try to avoid the negative effects .
+<t>Social media sites [] [suppose] [] be a very useful and convenient tool to [use] [and] bring people [get] closer in this globalised world .</t>
+The use of social media has largely influenced our ways in communicating with one another .
+
+<Correction>
+<s1>Social media sites suppose [→to|True] be a very useful and convenient tool to use and bring people [get→|True] closer in this globalised world .</s1>
+<s2>Social media sites [suppose→are supposed|True] be a very useful and convenient tool to use and bring people get closer in this globalised world .</s2>
+<s3>Social media sites [suppose→are supposed to|True] be a very useful and convenient tool to use and bring people get closer in this globalised world .</s3>
+<s4>Social media sites [suppose→are supposed to|True] be a very useful and convenient tool to use and [→to|False] bring people [get→|True] closer in this globalised world .</s4>
+<s5>Social media sites [suppose→are supposed to|True] be a very useful and convenient tool to use and bring people [get→|True] closer in this globalised world .</s5>

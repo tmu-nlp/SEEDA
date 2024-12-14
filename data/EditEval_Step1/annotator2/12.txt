@@ -1,0 +1,11 @@
+<Source with context>
+First of all , it can be an alert for the family members of the patient and let them be aware of the possible disease that they may also have .
+<t>As we all know , genetic risk carriers are likely to pass the genetics to their family members .</t>
+Once one person in the family is found to be carrying risky genetic , other members in his or her family may also have the risk of disease .
+
+<Correction>
+<s1>As we all know , genetic risk carriers are likely to pass the genetics to their family members .</s1>
+<s2>As we all know , genetic risk carriers are likely to pass the genetics [→on|True] to their family members .</s2>
+<s3>As we all know , genetic risk carriers are likely to pass [the→|True] genetics [→on|True] to their family members .</s3>
+<s4>As we all know , genetic risk carriers are likely to pass [the→|True] genetics to their family members .</s4>
+<s5>As we all know , genetic risk carriers are likely to [pass→share|False] [the→|False] [genetics→genes|True] [to→with|False] their family members .</s5>

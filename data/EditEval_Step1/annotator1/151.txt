@@ -1,0 +1,10 @@
+<Source with context>
+Even when people are thousands of miles apart , social media make it possible to have interaction by keep writing comments .
+<t>When our phones are accidentally [done] , we can also use the social media to [get contact] with our friends .</t>
+Some people who are try to talk in the public can also actively take part in the group chatting via social media .
+
+<Correction>
+<s1>When our phones are accidentally [done→out of battery|True] , we can [also→|True] use [the→|True] social media to get [contact→in touch|True] with our friends .</s1>
+<s2>When our phones are accidentally [done→stolen|False] , we can also use [the→|True] social media to get [→in|True] contact with our friends .</s2>
+<s3>When our phones are accidentally [done→broken|True] , we can also use [the→|True] social media to get [→in|True] contact with our friends .</s3>
+<s4>When our phones are accidentally done , we can also use [the→|True] social media to get [→into|False] contact with our friends .</s4>

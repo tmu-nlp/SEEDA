@@ -1,0 +1,8 @@
+<Source with context>
+The profile picture may not be the person who that user says he or she really is .
+<t>The reason might just be that he or she [just] wants to " decorate " his or her face .</t>
+But there is possibility that the person on the other side is deceiving you in order to obtain your information against you .
+
+<Correction>
+<s1>The reason might just be that [he or she just→they|True] [wants→want|True] to " decorate " [his or→|True] [her→their|True] face .</s1>
+<s2>The reason might just be that he or she just wants to " decorate " his or her face .</s2>

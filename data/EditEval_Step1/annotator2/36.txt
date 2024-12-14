@@ -1,0 +1,11 @@
+<Source with context>
+We can not deny that the genetic testing really helps people a lot when they face the disorder problem .
+<t>However , I thought that the genetic information is one person 's personal [privacy] which should be protected by [the] law .</t>
+Therefore , I thought a known genetic risk should not be obligated to tell his or her family or relatives .
+
+<Correction>
+<s1>However , I thought that [the→|True] genetic information is one person 's personal privacy which should be protected by the law .</s1>
+<s2>However , I [thought→think|True] that [the→|True] genetic information is one person 's personal privacy which should be protected by the law .</s2>
+<s3>However , I thought that the genetic information is one person 's personal privacy which should be protected by the law .</s3>
+<s4>However , I thought that [the→|True] genetic information is [one→a|True] person 's personal privacy which should be protected by the law .</s4>
+<s5>However , I thought that [the→|True] genetic information [is→was|True] one person 's personal privacy which should be protected by the law .</s5>

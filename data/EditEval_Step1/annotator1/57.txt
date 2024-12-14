@@ -1,0 +1,10 @@
+<Source with context>
+However happy they were before , there would be some barrier appears which will truly destroy the family gradually .
+<t>The relationship between [the parents] and their children should not be tested only in [the genetic way] ; it is something much deeper and tighter .</t>
+The parents give knowledge and love to the children , meanwhile they feel happy with the accompany of the children .
+
+<Correction>
+<s1>The relationship between the parents and their children should not be tested only in the genetic way ; it is something much deeper and tighter .</s1>
+<s2>The relationship between [the→|True] parents and their children should not be tested only in the genetic way ; it is something much deeper and tighter .</s2>
+<s3>The relationship between [the→|True] parents and their children should not be tested [only→based|True] [in→on|True] [the→|True] [genetic→genetics|True] [way→|True] ; it is something much deeper and tighter .</s3>
+<s4>The relationship between [the→|True] parents and their children should not be tested only [in the→|True] [genetic→genetically|True] [way→|True] ; it is something much deeper and tighter .</s4>

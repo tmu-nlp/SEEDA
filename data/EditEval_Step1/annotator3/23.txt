@@ -1,0 +1,10 @@
+<Source with context>
+Also , this known information will help their relatives to make informed decisions and tosimilarly undergo genetic testingto find out about the outcome .
+<t>Thus , [having the knowledge] that such genetic disorder is benign would be [beneficial towards] their [emotinal] thoughts .</t>
+And if the results turn out to be otherwise , then the family can be prepared emotionally and psychologically of the future outcome and aid them in making upcoming decisions .
+
+<Correction>
+<s1>Thus , having the knowledge that such genetic disorder is benign would be beneficial towards their [emotinal→emotional|True] thoughts .</s1>
+<s2>Thus , having the knowledge that such [→a|True] genetic disorder is benign would be beneficial towards their emotinal thoughts .</s2>
+<s3>Thus , having the knowledge that such [→a|True] genetic disorder is benign would be beneficial [towards→to|True] their [emotinal→emotional|True] thoughts .</s3>
+<s4>Thus , having [the→|True] knowledge that such [→a|True] genetic disorder is benign would be beneficial towards their emotinal thoughts .</s4>

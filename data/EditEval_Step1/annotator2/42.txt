@@ -1,0 +1,9 @@
+<Source with context>
+And of course , he or she will think of not having any child after getting married , and the same thought goes to the cousins as well .
+<t>As a result , the family generation stops [by] the moment the adult carrier announces [his] issue .</t>
+In China , the older generation with traditional culture background , will always think of having more children as well as grandchildren , to make the family liven up and stronger .
+
+<Correction>
+<s1>As a result , the family generation stops [by→at|True] the moment the adult carrier announces his issue .</s1>
+<s2>As a result , the family [generation→tree|True] [stops by→ends|True] the moment the adult carrier announces his issue .</s2>
+<s3>As a result , the family [generation→|True] stops by the moment the adult carrier announces his issue .</s3>

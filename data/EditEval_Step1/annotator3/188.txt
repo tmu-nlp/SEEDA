@@ -1,0 +1,11 @@
+<Source with context>
+One of the disadvantage that many people concerns is that people loss the interest of face-to-face communication .
+<t>Many people like to use language to pretend [] [themselves] , and [lost] confidence when they talk to each other .</t>
+Although not everyone is good at public relationship even without the existence of the social media sites , we can not deny that it do affect some people in their ability of interpersonal skills .
+
+<Correction>
+<s1>Many people like to use language to pretend [→to be|True] themselves , and [lost→lose|True] confidence when they talk to each other .</s1>
+<s2>Many people like to use language to [→create|True] pretend [themselves→identities|True] , and [lost→lose|True] confidence when they talk to each other .</s2>
+<s3>Many people like to use language to pretend themselves , and [lost→lose|True] confidence when they talk to each other .</s3>
+<s4>Many people like to use language to pretend [→to|True] themselves , and [lost→lose|True] confidence when they talk to each other .</s4>
+<s5>Many people like to use language to pretend [themselves→|True] , and [lost→lose|True] confidence when they talk to each other .</s5>

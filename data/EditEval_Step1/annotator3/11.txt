@@ -1,0 +1,9 @@
+<Source with context>
+The medical authorities claimed that only the individual who is at risk for a genetic disorder can make the decision to undergo genetic testing .
+<t>However , once a test has been conducted and the results are known , a family-related ethical dilemma is born .</t>
+The question is whether a carrier of a known genetic risk should tell his or her relatives .
+
+<Correction>
+<s1>However , once a test has been conducted and the results are known , a family-related ethical dilemma is born .</s1>
+<s2>However , once a test has been conducted and the results are known , a [family-related→family - related|False] ethical dilemma is born .</s2>
+<s3>However , once a test has been conducted and the results are known , a family-related ethical dilemma [is born→arises|True] .</s3>

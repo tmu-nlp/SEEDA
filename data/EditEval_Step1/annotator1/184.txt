@@ -1,0 +1,10 @@
+<Source with context>
+The reason why it is so addictive is , that the more people get into the social media , they seek attention from their friends .
+<t>However , such sparks of sudden attention [is] extremely [short-termed] and gone [eaily] thus [does] not add any value or meaning to the user 's life .</t>
+Also , according to a research , it has been proven that the users feel more sad after using the Facebook and this is because users unknowingly compare their lives with other people 's lives .
+
+<Correction>
+<s1>However , such sparks of sudden attention [is→are|True] extremely short-termed and gone [eaily→easily|True] thus [does→do|True] not add any value or meaning to the user 's life .</s1>
+<s2>However , such sparks of sudden attention [is→are|True] extremely [short-termed→short-term|True] and [→easily|True] gone [eaily→,|True] thus [does→|True] not [add→adding|True] any value or meaning to the user 's life .</s2>
+<s3>However , such sparks of sudden attention [is→are|True] extremely short-termed and gone eaily thus [→,|True] does not add any value or meaning to the user 's life .</s3>
+<s4>However , such sparks of sudden attention [is→are|True] extremely short-termed and gone eaily thus does not add any value or meaning to the user 's life .</s4>

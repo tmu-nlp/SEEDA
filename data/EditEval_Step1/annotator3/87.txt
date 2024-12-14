@@ -1,0 +1,9 @@
+<Source with context>
+If phone and letter are the only way to contact them , we would probably not able to find them .
+<t>Facebook and Twitter can serve as an alternative route to make [connection] [between] [us] [and] our old friends .</t>
+Hence , the social media sites serves as a platform for the connection .
+
+<Correction>
+<s1>Facebook and Twitter can serve as an alternative route to make [→a|True] connection between us and our old friends .</s1>
+<s2>Facebook and Twitter can serve as an alternative route to make [connection→connections|True] [between→with|True] [us→|True] [and→|True] our old friends .</s2>
+<s3>Facebook and Twitter can serve as an alternative route to make [connection→connections|True] between us and our old friends .</s3>

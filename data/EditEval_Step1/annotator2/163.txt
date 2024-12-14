@@ -1,0 +1,9 @@
+<Source with context>
+Last but not least , social media sites also link people together through allowing us to create our own groups , pages or sites to share our hobbies , interests and studies in particular subjects .
+<t>Hence , it is undeniable that these sites play an important role in our [global] inter-connected world .</t>
+However , social media sites also have its second side of negative impact on human .
+
+<Correction>
+<s1>Hence , it is undeniable that these sites play an important role in our global [inter-connected→inter - connected|False] world .</s1>
+<s2>Hence , it is undeniable that these sites play an important role in our global inter-connected world .</s2>
+<s3>[Hence→Thus|True] , it is undeniable that these sites play an important role in our [global→globally|True] [inter-connected→interconnected|True] world .</s3>

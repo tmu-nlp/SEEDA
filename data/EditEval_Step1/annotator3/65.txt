@@ -1,0 +1,11 @@
+<Source with context>
+However , we will never know whether this negative effects will happen when the carrier decide to tell his or her family of the his or her condition .
+<t>In conclusion , personally [] I feel that it is better for the carrier to inform [her] family members about the issue .</t>
+The carrier should be honest with his or her feeling and I find that it is the right of the family member to know what is going on to his or her life .
+
+<Correction>
+<s1>In conclusion , personally I feel that it is better for the carrier to inform [her→their|True] family members about the issue .</s1>
+<s2>In conclusion , [personally→|True] I [feel→believe|True] that it is better for the carrier to inform her family members about the issue .</s2>
+<s3>In conclusion , personally I feel that it is better for the carrier to inform her family members about the issue .</s3>
+<s4>In conclusion , [personally I→I personally|True] feel that it is better for the carrier to inform her family members about the issue .</s4>
+<s5>In conclusion , personally [→,|True] I feel that it is better for the carrier to inform her family members about the issue .</s5>

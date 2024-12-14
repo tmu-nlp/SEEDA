@@ -1,0 +1,8 @@
+<Source with context>
+It also brings many negative effects such as loss of face-to-face communicating skills which is important in their working place .
+<t>This essay will discuss [about] the advantages and disadvantages of using social media in our daily life .</t>
+One of the significant advantages of using a popular social media site is that people can reach other easily , even without contact for a long time .
+
+<Correction>
+<s1>This essay will discuss [about→|True] the advantages and disadvantages of using social media in our daily life .</s1>
+<s2>This essay will discuss [about→|True] the advantages and disadvantages of using social media in our daily [life→lives|True] .</s2>

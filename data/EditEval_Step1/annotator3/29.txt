@@ -1,0 +1,11 @@
+<Source with context>
+It is easier for people to accept it morally .
+<t>Therefore [] I believe [the] parents have [their] right to know the [healthiness] of their child .</t>
+Many people may support with a theory that every people have their right to enjoy the world , especially people with religions .
+
+<Correction>
+<s1>Therefore [→,|True] I believe [the→|True] parents have their right to know the [healthiness→health|True] of their child .</s1>
+<s2>Therefore [→,|True] I believe the parents have [their→the|True] right to know the [healthiness→health|True] of their child .</s2>
+<s3>Therefore I believe the parents have their right to know the healthiness of their child .</s3>
+<s4>Therefore I believe [the→|True] parents have [their→the|True] right to know the healthiness of their child .</s4>
+<s5>Therefore [→,|True] I believe the parents have their right to know the healthiness of their child .</s5>

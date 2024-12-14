@@ -1,0 +1,11 @@
+<Source with context>
+Family members , as one the closest group of people from whom they can get comfort , is a crucial factor for them to successfully get over any possible troubles as a result of genetic disorder .
+<t>A study [of] New York University in 2010 [shown] that patients with family members around generally [recovers] 2-4 days faster than those taken care by professional nurses .</t>
+Even for those patients with terminal diseases , the duration of their survival is 30 % longer due to the family support .
+
+<Correction>
+<s1>A study [of→from|True] New York University in 2010 [shown→showed|True] that patients with family members around generally [recovers→recover|False] [2-4→2 - 4|False] days faster than those taken care by professional nurses .</s1>
+<s2>A study of New York University in 2010 [shown→showed|True] that patients with family members around generally [recovers→recover|False] 2-4 days faster than those taken care [→of|True] by professional nurses .</s2>
+<s3>A study [of→at|False] New York University in 2010 shown that patients with family members around generally [recovers→recover|False] [2-4→2 - 4|False] days faster than those taken care [→of|True] by professional nurses .</s3>
+<s4>A study [of→from|True] New York University in 2010 [shown→showed|True] that patients with family members around generally [recovers→recovered|True] 2-4 days faster than those taken care [→of|True] by professional nurses .</s4>
+<s5>A study of New York University in 2010 [shown→showed|True] that patients with family members [around→nearby|False] generally [recovers→recovered|True] [2-4→2–4|False] days faster than those taken care [→of|True] by professional nurses .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+Do one who suffered from this disease keep it a secret of infrom their relatives ?
+<t>In retrospect , [its] is also ones duty to ensure that he or she [undergo] periodic [healthchecks] [in] their own .</t>
+Sometimes some family structure and cultural beliefs can influence the pattern of communication .
+
+<Correction>
+<s1>In retrospect , [its→it|True] is also [ones→one 's|True] duty to ensure that he or she undergo periodic [healthchecks in their own→health checks|True] .</s1>
+<s2>In retrospect , [its→it|True] is also [ones→one|False] duty to ensure that he or she [undergo→undergoes|True] periodic healthchecks [in→on|True] their own .</s2>
+<s3>[In retrospect ,→|False] [its→It|False] is also [ones→one 's|True] duty to ensure that he or she undergo periodic healthchecks [in→on|True] [their→one 's|True] own .</s3>
+<s4>In retrospect , [its→it|True] is also [ones→one 's|True] duty to ensure that he or she [undergo→undergoes|True] periodic [healthchecks→health checks|True] [in→on|True] their own .</s4>

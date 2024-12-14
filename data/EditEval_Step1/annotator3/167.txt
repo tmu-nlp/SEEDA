@@ -1,0 +1,10 @@
+<Source with context>
+If a person is obliged to tell his/her relatives , he or she might be discriminated by those who do not carry this gene .
+<t>He or she might even be [adviced] not to get married or have children .</t>
+For example , if an unmarried person has gene Aa and gene aa is sufficient for a very seriou disease .
+
+<Correction>
+<s1>He or she might even be [adviced→advised|True] not to get married or have children .</s1>
+<s2>[He→|True] [or→|True] [she→They|True] might even be [adviced→advised|True] not to get married or have children .</s2>
+<s3>He or she might even be [adviced→advice|False] not to get married or have children .</s3>
+<s4>He or she might even be [adviced→advised|True] not to get married or [→to|False] have children .</s4>

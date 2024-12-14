@@ -1,0 +1,10 @@
+<Source with context>
+These advantages also comes in handy as most of these social media sites are accessible through mobile application in our smartphones .
+<t>Despite the luxury that is offered by social media , there are also harmful side effects which people may not realize [it] beforehand .</t>
+Researches show that face-to-face meeting frequency among people that are addicted to social media sites has been decreasing .
+
+<Correction>
+<s1>Despite the [luxury that is→luxuries|True] offered by social media , there are also harmful side effects which people may not realize [it→|True] beforehand .</s1>
+<s2>Despite the [luxury that is→benefits|True] offered by social media , there are also harmful side effects [which→that|True] people may not [realize→be aware|True] [it→of|True] beforehand .</s2>
+<s3>Despite the luxury that is offered by social media , there are also harmful side effects which people may not realize [it→|True] beforehand .</s3>
+<s4>Despite the luxury that is offered by social media , there are also harmful side effects which people may not realize [it→about|False] beforehand .</s4>

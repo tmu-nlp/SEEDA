@@ -1,0 +1,11 @@
+<Source with context>
+On the other hand , if the genetic risk is kept as a secret , although it may benefit the carrier to a certain extend and help to keep the privacy , but it has much larger negative impacts to the family members and relatives .
+<t>First , [for] the case of [marrige] , people should be honest and tell [his/her] [spouce] [] they may carry [] certain genetic risk that may affect their [offsprings] .</t>
+It is better to let the other party know the fact than after the baby is born and certain type of genetic disease is found .
+
+<Correction>
+<s1>First , [for→in|True] the case of marrige , people should be honest and tell [his/her→his / her|False] spouce they may carry certain genetic risk that may affect their [offsprings→offspring|True] .</s1>
+<s2>First , [for→in|True] the case of [marrige→marriage|True] , people should be honest and tell [his/her→their|True] [spouce→spouse|True] they may carry certain genetic [risk→risks|True] that may affect their [offsprings→offspring|True] .</s2>
+<s3>First , for the case of [marrige→marriage|True] , people should be honest and tell his/her spouce they may carry certain genetic [risk→risks|True] that may affect their [offsprings→offspring|True] .</s3>
+<s4>First , [for→in|True] the case of [marrige→marriage|True] , people should be honest and tell [his/her→their|True] [spouce→spouse|True] [→that|True] they may carry certain genetic [risk→risks|True] that may affect their [offsprings→offspring|True] .</s4>
+<s5>First , [for→in|True] the case of [marrige→marriage|True] , people should be honest and tell his/her [spouce→spouses|True] they may carry [→a|True] certain genetic risk that may affect their [offsprings→offspring|True] .</s5>

@@ -1,0 +1,8 @@
+<Source with context>
+No matter it is a party , dinner or just simply get-together , there always are some people bow their head and playing their phones even their family and friends are in front of them .
+<t>In [a] conclusion , there are both advantages and disadvantages of using social media in daily life .</t>
+People should enjoy the advantages of social media while be aware of the disadvantages of that and try their best to avoid the disadvantages happen to them and their friends and family .
+
+<Correction>
+<s1>In [a→|True] conclusion , there are both advantages and disadvantages of using social media in daily life .</s1>
+<s2>In [a→|True] conclusion , there are both advantages and disadvantages [of→to|False] using social media in daily life .</s2>

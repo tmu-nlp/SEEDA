@@ -1,0 +1,8 @@
+<Source with context>
+In the chat room , she created a close relationship with eight people .
+<t>She talked with them every night , [trust] them and [share] her life with them .</t>
+Then eventually , she discovered that eight people became one as he was using eight different identities to chat with her all the time .
+
+<Correction>
+<s1>She talked with them every night , [trust→trusted|True] them and [share→shared|True] her life with them .</s1>
+<s2>She talked with them every night , [trust→trusted|True] them [→,|True] and [share→shared|True] her life with them .</s2>

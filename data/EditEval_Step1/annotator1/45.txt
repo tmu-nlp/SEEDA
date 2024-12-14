@@ -1,0 +1,11 @@
+<Source with context>
+However , I belive that the carrier has right not to obligate to tell anyone but has responsibility to take an action to prevent any ethical dilemma .
+<t>If the result [turned out] something that the carrier can not accept then it [would have been] better not knowing the truth .</t>
+I belive that even the carrier has the right not to know the true fact .
+
+<Correction>
+<s1>If the result turned out [→to be|True] something that the carrier can not accept then it would have been better not knowing the truth .</s1>
+<s2>If the result turned out [→to be|True] something that the carrier [can→could|True] not accept [→,|True] then it would have been better not [knowing→to know|True] the truth .</s2>
+<s3>If the result turned out something that the carrier [can→could|True] not accept [→,|True] then it would have been better not knowing the truth .</s3>
+<s4>If the result turned out [→to be|True] something that the carrier can not accept [→,|True] then it would have been better not [knowing→to know|True] the truth .</s4>
+<s5>If the result turned out [→to be|True] something that the carrier can not accept then it would have been better not [knowing→to know|True] the truth .</s5>

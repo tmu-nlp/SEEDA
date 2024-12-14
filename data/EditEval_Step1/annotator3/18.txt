@@ -1,0 +1,10 @@
+<Source with context>
+If a law requires someone to tell others ' his or her privacy especially when the one is not willing to do so .
+<t>It is [againt] his or her human rights [] and it is against the [law 's spirit] .</t>
+The law 's spirit also include the fairness .
+
+<Correction>
+<s1>It is [againt→against|True] his or her human rights [→,|True] and it is against the law 's spirit .</s1>
+<s2>It is [againt→against|True] his or her human rights [→,|True] and it is against the [law 's→|True] spirit [→of the law|True] .</s2>
+<s3>It is [againt→against|True] his or her human rights and it is against the law 's spirit .</s3>
+<s4>It is [againt→again|False] his or her human rights and it is against the law 's spirit .</s4>

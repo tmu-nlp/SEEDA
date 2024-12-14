@@ -1,0 +1,10 @@
+<Source with context>
+But overall , the advantages far outweigh its disadvantage .
+<t>So [] we need to make [] best use of these social media and make it a fun way of adding some excitement when life is boring .</t>
+And try to bypass the shortcomings .
+
+<Correction>
+<s1>So [→,|True] we need to make [→the|True] best use of these social media and make it a fun way of adding some excitement when life is boring .</s1>
+<s2>So we need to make [→the|True] best use of [these→|True] social media and make it a fun way of adding some excitement when life is boring .</s2>
+<s3>So we need to make [→the|True] best use of these social media and make it a fun way of adding some excitement when life is boring .</s3>
+<s4>So we need to make [→the|True] best use of these social media [→sites|True] and make it a fun way of adding some excitement when life is boring .</s4>

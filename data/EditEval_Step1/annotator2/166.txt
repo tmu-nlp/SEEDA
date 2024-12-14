@@ -1,0 +1,8 @@
+<Source with context>
+Nowadays , what people need to do is just typing in front of the computer in their own rooms .
+<t>And people on the other side will only need a second to receive the message .</t>
+Distance and time are no longer the problems , which is convenient especially when instant chat is needed .
+
+<Correction>
+<s1>And people on the other side will only [need→take|False] a second to receive the message .</s1>
+<s2>And people on the other side will only need a second to receive the message .</s2>

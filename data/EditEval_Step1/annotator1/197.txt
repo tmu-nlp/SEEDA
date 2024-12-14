@@ -1,0 +1,10 @@
+<Source with context>
+We are actively " presenting " fa ç ades of our lifes in front of others .
+<t>We tend to post pictures with the best looks , [status] that are funny .</t>
+We broadcast these facades of us to others .
+
+<Correction>
+<s1>We tend to post pictures with the best looks [,→and|True] status that are funny .</s1>
+<s2>We tend to post pictures with the best looks , [→and|True] [status→statuses|True] that are funny .</s2>
+<s3>We tend to post pictures with the best looks [,→and|True] [status→statuses|True] that are funny .</s3>
+<s4>We tend to post pictures with [the→our|True] best looks [,→and|True] [status→statuses|True] that are funny .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+As they are so used to having an online avatar , they may lose their self-identity in real life and may not realise how to interact people in real-life .
+<t>Another problem with social media is that , the benefits from investing such [enormous] time and energy [is] [not relfected as something positive to the users] .</t>
+The reason why it is so addictive is , that the more people get into the social media , they seek attention from their friends .
+
+<Correction>
+<s1>Another problem with social media is that [,→|True] the benefits from investing such [→an|True] enormous time and energy [is→are|True] not relfected as something positive to the users .</s1>
+<s2>Another problem with social media is that [,→|True] the benefits from investing such [→an|True] enormous [→amount of|True] time and energy is not [relfected→reflected|True] as something positive to the users .</s2>
+<s3>Another problem with social media is that [,→|True] the benefits from investing such enormous time and energy [is→are|True] not [relfected→reflected|True] as something positive to the users .</s3>
+<s4>Another problem with social media is that [,→|True] the benefits from investing such [→an|True] enormous [→amount of|True] time and energy [is→are|True] not relfected as something positive to the users .</s4>
+<s5>Another problem with social media is that [,→|True] the benefits from investing such enormous time and energy [is→are|True] not [relfected→perceived|True] as something positive to the users .</s5>

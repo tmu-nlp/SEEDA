@@ -1,0 +1,10 @@
+<Source with context>
+On the other hand , without knowing any genetic disorder and accepting the fact , the family will stay positive and work together to overcome the diability .
+<t>I think the family will stay mentally [healty] as it is , without having [emtional] stress .</t>
+Debates have been around for years , that should a carrier for a known genetic risk be obligated to inform his or her relatives .
+
+<Correction>
+<s1>I think the family will stay mentally [healty→healthy|True] as it is , without having [emtional→immediate|False] stress .</s1>
+<s2>I think the family will stay mentally [healty→healthy|True] as it is , without having [emtional→emotional|True] stress .</s2>
+<s3>I think the family will stay mentally [healty→healthy|True] as it is , without [having→|True] [emtional→emotional|True] stress .</s3>
+<s4>I think the family will stay mentally [healty→healthy|True] [as it is ,→|True] without having [emtional→emotional|True] stress .</s4>

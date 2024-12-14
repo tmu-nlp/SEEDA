@@ -1,0 +1,10 @@
+<Source with context>
+Therefore , the social media truly limit the interpersonal skills such that people lose the chance and the ability to practice talking and connect the relation between him and their friends .
+<t>Secondly , without [the truly communication] in the real life , people lose the ability to see the truth and false .</t>
+There are many people in the social media with beautiful image and good content in their pages , however in real life , he or she may do not have jobs or live poorly .
+
+<Correction>
+<s1>Secondly , without the [truly→true|True] communication in [the→|True] real life , people lose the ability to see the truth and false .</s1>
+<s2>Secondly , without [the truly→meaningful|True] communication in [the→|True] real life , people lose the ability to [see→distinguish|True] [the→between|True] truth and [false→falsehood|True] .</s2>
+<s3>[Secondly→Second|False] , without [the truly→|True] communication in [the→|True] real life , people lose the ability to see [the truth→what is true|True] and false .</s3>
+<s4>Secondly , without [the truly→true|True] communication in [the→|True] real life , people lose the ability to see [the→|True] truth and [false→falseness|True] .</s4>

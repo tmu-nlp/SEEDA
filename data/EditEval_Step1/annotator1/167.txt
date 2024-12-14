@@ -1,0 +1,7 @@
+<Source with context>
+The audience is not some specific person , but everyone we might know , or even the entire world .
+<t>There is an element of seeking out [for attention] rather than expressing one 's true opinion on social networks .</t>
+On the other hand , the viewers , are not the listeners .
+
+<Correction>
+<s1>There is an element of seeking out [for→|True] attention rather than expressing one 's true opinion on social networks .</s1>

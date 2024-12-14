@@ -1,0 +1,10 @@
+<Source with context>
+The social network may also creat some negative impacts for the people .
+<t>The largest negative impact is that [] due to the online network , some people [start] to use and rely on [] [internet] every minute .</t>
+They take too much time of using online social network and thus do not have time to have their daily meeting with people in their real life .
+
+<Correction>
+<s1>The largest negative impact is that [→,|True] due to the online network , some people start to use and rely on [→the|True] [internet→Internet|True] every minute .</s1>
+<s2>The largest negative impact is that [→,|True] due to the online network , some people [start→have started|True] to use and rely on [→the|True] [internet→Internet|True] every minute .</s2>
+<s3>The largest negative impact is that [→,|True] due to the online network , some people start to use and rely on [→the|True] internet every minute .</s3>
+<s4>The largest negative impact is that [→,|True] [due→because|True] [to the online→of social|True] [network→networks|True] , some people start to use and rely on [→the|True] internet every minute [→of every day|False] .</s4>

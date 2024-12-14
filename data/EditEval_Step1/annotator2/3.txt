@@ -1,0 +1,11 @@
+<Source with context>
+Therefore , the decision to inform relatives of such genetic disorder will be dependent of the situation and backgroung of the affected family , with the liberty of choice given to them in making the decision of informing others .
+<t>A person with a disorder , regardless of [] mental or physical disorder , is always easy to be [awared] by his or her [families] .</t>
+When things come to genetic issues , it is not that simple anymore .
+
+<Correction>
+<s1>A person with a disorder , regardless of mental or physical disorder , is always easy to be awared by his or her [families→family|True] .</s1>
+<s2>A person with a disorder , regardless of mental or physical disorder , is always easy to be [awared→aware|True] by his or her [families→family|True] .</s2>
+<s3>A person with a disorder , regardless of mental or physical disorder , is always easy to be [awared→informed|True] by his or her [families→family|True] .</s3>
+<s4>A person with a disorder , regardless of mental or physical disorder , is always easy to be [awared→aware|True] [→of|True] by his or her [families→family|True] .</s4>
+<s5>A person with a disorder , regardless of [→whether it is a|True] mental or [→a|False] physical disorder , is always [easy→easily|True] [to be awared→known|True] by his or her [families→family|True] .</s5>

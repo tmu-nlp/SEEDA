@@ -1,0 +1,9 @@
+<Source with context>
+It might not be able to replace the joy that you have when you are with your family but it could help to reduce the sadness of being away from your family .
+<t>As I mentioned in the beginning , there [is] also disadvantages of social media tools .</t>
+One of them is that it reduce the level of concentration especially among the youngsters .
+
+<Correction>
+<s1>As I mentioned in the beginning , there [is→are|True] also disadvantages [of→to|True] social media tools .</s1>
+<s2>As I mentioned in the beginning , there [is→are|True] also disadvantages of social media tools .</s2>
+<s3>As I mentioned in the beginning , [there is also disadvantages of→|True] social media tools [→also have disadvantages|True] .</s3>

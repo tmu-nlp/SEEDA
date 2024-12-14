@@ -1,0 +1,10 @@
+<Source with context>
+Overall , there are more benefits than the costs .
+<t>The [wolrd] is [incresingly] becoming [flat] by all kinds of social network website such as facebook and twitter .</t>
+We can even know what a friend who leave thousands of miles away eat for lunch though these kinds of social media .
+
+<Correction>
+<s1>The [wolrd→world|True] is [incresingly→increasingly|True] becoming flat by all kinds of social network [website→websites|True] such as [facebook→Facebook|True] and [twitter→Twitter|True] .</s1>
+<s2>The [wolrd→word|True] is [incresingly→increasingly|True] becoming flat by all kinds of social network [website→websites|True] such as [facebook→Facebook|True] and [twitter→Twitter|True] .</s2>
+<s3>The [wolrd→world|True] is [incresingly→increasingly|True] becoming flat by all kinds of social network [website→websites|True] such as facebook and twitter .</s3>
+<s4>The [wolrd→world|True] is [incresingly→increasingly|True] becoming flat [by→with|True] all kinds of social [network→networking|True] [website→websites|True] such as facebook and twitter .</s4>

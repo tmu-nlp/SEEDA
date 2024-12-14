@@ -1,0 +1,11 @@
+<Source with context>
+As we all know , the interpersonal skills are essential for us to communicate with each other and to present our views and ideas .
+<t>The [lost] of interpersonal skills results in the inability [for] people [to well present] their ideas .</t>
+As a result , they will gradually decrease in their ability to compete with each other in the society .
+
+<Correction>
+<s1>The [lost→loss|True] of interpersonal skills results in the inability for people to [well→|True] present their ideas .</s1>
+<s2>The [lost→loss|True] of interpersonal skills results in the inability [for→of|True] people to well present their ideas .</s2>
+<s3>The [lost→loss|True] of interpersonal skills results in the inability for people to well present their ideas .</s3>
+<s4>The [lost→loss|True] of interpersonal skills results in [the→people 's|True] inability [for people→|True] to [well→|True] present their ideas [→well|True] .</s4>
+<s5>The [lost→loss|True] of interpersonal skills results in the inability [for→of|True] people to [well→|True] present their ideas [→well|True] .</s5>

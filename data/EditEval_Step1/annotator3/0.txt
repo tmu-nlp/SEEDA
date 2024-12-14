@@ -1,0 +1,11 @@
+<Source with context>
+On one hand , we do not want this potential danger causing firghtenning affects in our families ' later lives .
+<t>When people around us know that we [got] [] certain disease , their [altitudes] will [be] easily [changed] , whether caring [] us too much or keeping away from us .</t>
+And both are not what we want since most of us just want to live as normal people .
+
+<Correction>
+<s1>When people around us know that we got certain disease , their altitudes will be easily changed , whether caring [→for|True] us too much or keeping away from us .</s1>
+<s2>When people around us know that we [→have|True] [got→a|True] certain disease , their altitudes will [be→|True] easily [changed→change|True] , whether caring [→for|True] us too much or keeping away from us .</s2>
+<s3>When people around us know that we [→have|True] [got→a|True] certain disease , their altitudes will be easily changed , whether [caring us→we care|False] too much or [keeping→keep|False] away from us .</s3>
+<s4>When people around us know that we [→have|True] got certain disease , their altitudes will be easily changed , whether caring us too much or keeping away from us .</s4>
+<s5>When people around us know that we [got→have|True] certain [disease→diseases|True] , their [altitudes→attitudes|True] will [be→|True] easily [changed→change|True] , whether caring [→for|True] us too much or keeping away from us .</s5>

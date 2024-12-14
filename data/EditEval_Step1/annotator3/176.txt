@@ -1,0 +1,10 @@
+<Source with context>
+Advantages : Social media sites have greatly ease long distance communication and interaction due to its accessibility and convenience .
+<t>[With] [a] globalised and interconnected world [today] , Twitter and Facebook are now the mainstream [platform] for social interaction .</t>
+With just a touch away from any meida/electronic devices , one can easily interact and communicate with his friends without much hassle .
+
+<Correction>
+<s1>[With→In|True] [a→today 's|True] globalised and interconnected world [today→|True] , Twitter and Facebook are now the mainstream [platform→platforms|True] for social [interaction→interactions|True] .</s1>
+<s2>With a globalised and interconnected world today , Twitter and Facebook are now the mainstream [platform→platforms|True] for social interaction .</s2>
+<s3>With a [globalised→globalized|True] and interconnected world today , Twitter and Facebook are now the mainstream [platform→platforms|True] for social interaction .</s3>
+<s4>With a [globalised→globalized|True] and interconnected world today , Twitter and Facebook are now the [mainstream→main|True] [platform→platforms|True] for social interaction .</s4>

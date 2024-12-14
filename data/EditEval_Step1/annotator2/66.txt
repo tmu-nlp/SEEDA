@@ -1,0 +1,10 @@
+<Source with context>
+One of the diseases is sickle cell trait .
+<t>Usually people are not aware if they carry the sickle cell gene and this may lead to circulatory [problem] such as blood [blocking] .</t>
+If the parents know that one of them is a carrier and disclose the information to their relatives then they can bring their children to undergo genetic testing and do n't need to be shy of it because it is for the sake of their children 's health .
+
+<Correction>
+<s1>Usually [→,|True] people are not aware if they carry the sickle cell gene and this may lead to circulatory problem such as blood blocking .</s1>
+<s2>Usually [→,|True] people are not aware if they carry the sickle cell gene [→,|True] and this may lead to circulatory [problem→problems|True] such as blood [blocking→clotting|True] .</s2>
+<s3>Usually [→,|True] people are not aware if they carry the sickle cell gene and this may lead to circulatory [problem→problems|True] such as blood blocking .</s3>
+<s4>Usually people are not aware if they carry the sickle cell gene and this may lead to circulatory [problem→problems|True] such as blood blocking .</s4>

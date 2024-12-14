@@ -1,0 +1,10 @@
+<Source with context>
+And so , he would have chosen not to undergo generic disorder testing and let the truth be mined forever .
+<t>This kind of ethical issue can not be judged by [the] others because they will not understand the position and duty of the carrier in the family .</t>
+In conclude , people should think carefully of what is the consequences of telling the relatives his or her generic disorder issue .
+
+<Correction>
+<s1>This kind of ethical issue can not be judged by [the→|True] others because they will not understand the position and duty of the [carrier→caregiver|False] in the family .</s1>
+<s2>This kind of ethical issue can not be judged by the others because they will not understand the position and duty of the carrier in the family .</s2>
+<s3>This kind of ethical issue can not be judged by [the→|True] others because they will not understand the position and duty of the carrier in the family .</s3>
+<s4>This kind of ethical issue can not be judged by [the→|True] others [→,|False] because they will not understand the position and [→the|True] duty of the carrier in the family .</s4>

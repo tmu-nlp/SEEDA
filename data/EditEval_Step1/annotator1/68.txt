@@ -1,0 +1,11 @@
+<Source with context>
+Some of the diseases may not show symptoms until the carrier is old enough .
+<t>Therefore , telling [the] relatives about the situation may avoid a lot of trouble [in this way] and save [much time] for proper treatment .</t>
+Sometimes life may even be saved if they are told early and conduct timely treatment .
+
+<Correction>
+<s1>Therefore , telling [the→|True] relatives about the situation may avoid a lot of trouble in this way and save [much→a lot of|True] time for proper treatment .</s1>
+<s2>Therefore , telling [the→|True] relatives about the situation may avoid a lot of trouble in [this→the|True] [way→future|True] and [save→give|True] [much→them|True] time for proper treatment .</s2>
+<s3>Therefore , telling the relatives about the situation may avoid a lot of trouble [in this way→|True] and save much time for proper treatment .</s3>
+<s4>Therefore , telling [the→|True] relatives about the situation may avoid a lot of trouble in this way and save much time for proper treatment .</s4>
+<s5>Therefore , telling the relatives about the situation may avoid a lot of trouble in this way and save much time for proper treatment .</s5>

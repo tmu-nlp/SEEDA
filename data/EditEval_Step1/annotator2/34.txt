@@ -1,0 +1,10 @@
+<Source with context>
+Sometimes life may even be saved if they are told early and conduct timely treatment .
+<t>So for the consideration [for] the other family members , the relatives should be informed .</t>
+Secondly , it can avoid genetic disease passed to the next generation when they intend to have babies .
+
+<Correction>
+<s1>So for the consideration [for→of|True] the other family members , the relatives should be informed .</s1>
+<s2>So [→out|True] [for→of|True] [the→|True] consideration for the other family members , the relatives should be informed .</s2>
+<s3>So for [the→|False] consideration [for→of|True] the other family members , the relatives should be informed .</s3>
+<s4>So [→,|True] for the consideration [for→of|True] the other family members , the relatives should be informed .</s4>

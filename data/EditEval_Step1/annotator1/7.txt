@@ -1,0 +1,11 @@
+<Source with context>
+The benefits of doing so are able to outweigh its disadvantages .
+<t>More [supports] must be provided through different means to give better direction when one is standing [of] such junction whether [should him/her] to inform the relatives .</t>
+The decision to undergo genetic testing can only be made by the individual at risk for a disorder .
+
+<Correction>
+<s1>More [supports→support|True] must be provided through different means to give better direction when one is standing [of→at|True] such [→a|True] junction whether should him/her to inform the relatives .</s1>
+<s2>More [supports→support|True] must be provided through different means to give better direction when one is standing [of→in|False] such [→a|True] junction [→as to see|True] whether [→he|False] should [him/her to→|False] inform the relatives .</s2>
+<s3>More supports must be provided through different means to give better direction when one is standing of such junction [→as to|True] whether [→he|False] should him/her to inform the relatives .</s3>
+<s4>More [supports→support|True] must be provided through different means to give better direction when one is standing [of→at|True] such [→a] junction [→,|True] whether should [him/her→] to inform the relatives .</s4>
+<s5>More [supports→support|True] must be provided through different means to give better direction when one is standing [of→at|True] such [→a] junction [→of|True] whether [→he|False] should [him/her to→|True] inform the relatives .</s5>

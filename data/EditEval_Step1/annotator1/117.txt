@@ -1,0 +1,10 @@
+<Source with context>
+And people on the other side will only need a second to receive the message .
+<t>Distance and time are no longer [the problems] , which is convenient especially when instant chat is needed .</t>
+However , when people become more and more addicted to this convenience and fail to communicate with people who are close to them , their face-to-face interpersonal skills are lost .
+
+<Correction>
+<s1>Distance and time are no longer [the→|True] problems [,→|True] which [is→are|False] convenient [→,|True] especially when instant chat is needed .</s1>
+<s2>Distance and time are no longer the problems , which [is→are|False] convenient [→,|True] especially when instant chat is needed .</s2>
+<s3>Distance and time are no longer [the→|True] problems , which is convenient [→,|True] especially when instant chat is needed .</s3>
+<s4>Distance and time are no longer [the→a|True] [problems→problem|True] , which is convenient especially when [→an|True] instant chat is needed .</s4>

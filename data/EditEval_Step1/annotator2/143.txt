@@ -1,0 +1,11 @@
+<Source with context>
+The long distance and time-consuming make spreading the messages very difficult at that time .
+<t>Therefore , people may not contact [with the] faraway friends and relatives unless there [are] something important .</t>
+However , people now can contact with anyone all over the world who can use computer at any time , and there is no time delay of messages .
+
+<Correction>
+<s1>Therefore , people may not contact [with the→|True] faraway friends and relatives unless there [are→is|False] something important .</s1>
+<s2>Therefore , people [may→might|True] not [→have had|True] contact with the faraway friends and relatives unless there [are→were|False] something important .</s2>
+<s3>Therefore , people may not contact with [the→their|True] faraway friends and relatives unless [there→it|True] [are→is|True] something important .</s3>
+<s4>Therefore , people may not [→have|False] contact with [the→|True] faraway friends and relatives unless there [are→is|False] something important .</s4>
+<s5>Therefore , people may not contact [with→|True] [the→their|True] faraway friends and relatives unless there [are→is|False] something important .</s5>

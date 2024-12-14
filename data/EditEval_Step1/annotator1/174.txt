@@ -1,0 +1,11 @@
+<Source with context>
+So for the consideration for the other family members , the relatives should be informed .
+<t>Secondly , it can avoid [genetic disease passed] to the next generation when they intend to have babies .</t>
+They should let their spouse know about his or her situation before marriage .
+
+<Correction>
+<s1>Secondly , it can avoid genetic disease [passed→passing|True] to the next generation when they intend to have babies .</s1>
+<s2>Secondly , it can avoid genetic [disease→diseases|True] passed to the next generation when they intend to have babies .</s2>
+<s3>Secondly , it can avoid genetic disease [→being|True] passed to the next generation when they intend to have babies .</s3>
+<s4>Secondly , it can avoid genetic [disease→diseases|True] [→being|True] passed to the next generation when they intend to have babies .</s4>
+<s5>Secondly , [it→telling relatives|True] can [avoid→prevent|True] genetic disease [→from being|True] passed to the next generation [when they intend to have babies→|True] .</s5>

@@ -1,0 +1,9 @@
+<Source with context>
+This is the common law in the society .
+<t>However , it [leads to] a new [problem] [that] ["] should a carrier of a known genetic risk be obligated to tell his or her relatives ?</t>
+" This issue has been discussed for a long time .
+
+<Correction>
+<s1>However , it [leads to→raises|True] a new [problem that "→question :|True] should a carrier of a known genetic risk be obligated to tell his or her relatives ?</s1>
+<s2>However , it leads to a new problem [that→:|True] " should a carrier of a known genetic risk be obligated to tell his or her relatives ?</s2>
+<s3>However , it leads to a new problem [that→|True] ["→:|True] should a carrier of a known genetic risk be obligated to tell his or her relatives ?</s3>

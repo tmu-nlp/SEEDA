@@ -1,0 +1,11 @@
+<Source with context>
+Thus , socialisation can occur seamlessly and effectively with the utilisation of such social media platforms.Meet-ups and appointments are no longer a barrier for humans to contact and communicate with one another , making human interaction possible at one 's own convenience .
+<t>[The] society will adapt to such phenomenon as physical interaction [are] transformed into cyber interaction .</t>
+With the frequent usage and reliance of the social media and the Internet , a society that socialises through the cyber will be more advance and adapted to the highly connected world .
+
+<Correction>
+<s1>[The society→Society|True] will adapt to such phenomenon as physical interaction [are→being|True] transformed into cyber interaction .</s1>
+<s2>The society will adapt to such [phenomenon→phenomena|True] as physical [interaction→interactions|True] are transformed into cyber [interaction→interactions|True] .</s2>
+<s3>[The society→Society|True] will adapt to such phenomenon as physical interaction [are→|False] transformed into cyber interaction .</s3>
+<s4>[The society→Society|True] will adapt to such [→a|True] phenomenon as physical interaction [are→is|True] transformed into cyber interaction .</s4>
+<s5>The society will adapt to such [→a|True] phenomenon as physical interaction [are→is|True] transformed into cyber interaction .</s5>

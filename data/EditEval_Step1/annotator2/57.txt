@@ -1,0 +1,11 @@
+<Source with context>
+However , we get less chance and less importance to talk face to face since social media is so convinient , advanced and interesting .
+<t>And even [] we gather together more people find themselves [has] less topics to talk [] than before and choose to [digging] [from] their social media again .</t>
+When we are far away , social media makes it as we are infront of each other ; sometimes when we are by each others ' side , we are seem to be further than far away .
+
+<Correction>
+<s1>[And even→Even|True] [→when|True] we gather together [→,|True] more people find themselves [has→with|True] [less→fewer|True] topics to talk [→about|True] than before and choose to [digging→dive|True] [from→into|True] their social media again .</s1>
+<s2>And even we gather together [→,|True] more people find themselves [has→have|False] less topics to talk [→about|True] than before and choose to digging from their social media again .</s2>
+<s3>And even [→as|True] we gather together more people find themselves [has→having|True] [less→fewer|True] topics to talk [→about|True] than before and choose to [digging→dig|False] from their social media again .</s3>
+<s4>And even [→when|True] we gather together more people find [themselves→they|True] [has→have|True] less topics to talk [→about|True] than before and choose to digging from their social media again .</s4>
+<s5>[And even→Even|True] [→when|True] we gather together [→,|True] more people find themselves [has→with|True] less [topics→|True] to talk [→about|True] than before and choose to [digging→dig|True] [from→through|True] their social media [again→feeds instead|True] .</s5>

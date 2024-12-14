@@ -1,0 +1,9 @@
+<Source with context>
+In conclusion , the shadow always exists when there is light .
+<t>We should take [the] [advantages] of the creatures we create and try to avoid [the] negative effects .</t>
+Social media sites suppose be a very useful and convenient tool to use and bring people get closer in this globalised world .
+
+<Correction>
+<s1>We should take the advantages of the creatures we create and try to avoid the negative effects .</s1>
+<s2>We should take [the→|True] [advantages→advantage|True] of the creatures we create and try to avoid the negative effects .</s2>
+<s3>We should take the advantages of the creatures we create [→,|False] and try to avoid the negative effects .</s3>

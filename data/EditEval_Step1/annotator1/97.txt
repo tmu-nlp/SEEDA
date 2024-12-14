@@ -1,0 +1,9 @@
+<Source with context>
+I agree that a carrier of a known genetic risk is obligated to tell his or her relatives .
+<t>There are four reasons why people do n't have to be shy and share their problems regarding genetic [disorder] .</t>
+Firstly , the carrier and his or her family can take precautions , physically by actions to reduce the chance of it being inherited to offspring and , mentally if the action fails to prevent it being inherited .
+
+<Correction>
+<s1>There are four reasons why people do n't have to be shy and share their problems regarding genetic [disorder→disorders|True] .</s1>
+<s2>There are four reasons why people do n't have to be shy and share their problems regarding [→a|True] genetic disorder .</s2>
+<s3>There are four reasons why people do n't have to be shy [and→about|True] [share→sharing|True] their problems regarding [→a|True] genetic disorder .</s3>

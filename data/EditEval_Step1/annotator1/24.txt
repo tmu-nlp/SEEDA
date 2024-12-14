@@ -1,0 +1,9 @@
+<Source with context>
+The people with albinism have sensitive skin and it needs regular treatment .
+<t>Unlike people [with high proportion] of skin [pigment] , [people with albinism is prone] to sunburn and other skin diseases .</t>
+If they do n't treat their body well , such as by using sunglasses or wearing sunscreen in outdoor , the chances are good that they will get skin problems that may also lead to cancer .
+
+<Correction>
+<s1>Unlike people with high proportion of skin pigment , people with albinism [is→are|True] prone to sunburn and other skin diseases .</s1>
+<s2>Unlike people with [→a|True] high proportion of skin [pigment→pigments|True] , people with albinism [is→are|True] prone to sunburn and other skin diseases .</s2>
+<s3>Unlike people with [→a|True] high proportion of skin pigment , people with albinism [is→are|True] prone to sunburn and other skin diseases .</s3>

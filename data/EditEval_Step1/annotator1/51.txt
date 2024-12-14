@@ -1,0 +1,11 @@
+<Source with context>
+Therefore , telling the families and the relatives to get prepared for fighting the disease and even prevent to get the disease is your responsibility .
+<t>Furthermore , you are also being responsible for your next generations [by] telling the truth that you are a carrier of a genetic risk .</t>
+If your wife is not aware of the truth and give birth to the baby , it will be possible for your child to carry the same genetic risk as well .
+
+<Correction>
+<s1>Furthermore , you are also [being→|True] responsible for your [next→future|True] generations by telling the truth that you are a carrier of a genetic risk .</s1>
+<s2>Furthermore , you are also being responsible for your [next→future|True] generations by [telling→informing them of|True] the truth that you are a carrier of a genetic risk .</s2>
+<s3>Furthermore , you are also [being→|True] responsible for your next [generations→generation|True] by telling the truth that you are a carrier of a genetic risk .</s3>
+<s4>Furthermore , you are also [being→|True] responsible for your next generations by telling the truth that you are a carrier of a genetic risk .</s4>
+<s5>Furthermore , you are also being responsible for your next generations by telling the truth that you are a carrier of [a→|True] genetic risk .</s5>

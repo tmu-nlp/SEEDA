@@ -1,0 +1,10 @@
+<Source with context>
+Among all kinds of different diseases , a large amount of different kinds of disorders are caused by genetic reasons .
+<t>Genetic [disorder] may or may not be [hirataged] hereditary disease and it is sometimes hard to find out one has these kinds of diseases .</t>
+It is a long time discussion that whether a carrier of a known genetic risk should be obligated to tell his or her relatives that his or her disease is caused by gene .
+
+<Correction>
+<s1>Genetic disorder may or may not be [hirataged→a|True] hereditary disease and it is sometimes hard to find out [→if|True] one has these kinds of diseases .</s1>
+<s2>Genetic [disorder→disorders|True] may or may not be [hirataged→|True] hereditary [disease→diseases|True] [→,|True] and it is sometimes hard to find out [→whether|True] one has these kinds of diseases .</s2>
+<s3>Genetic disorder may or may not be [hirataged→a hereditary|False] hereditary disease and it is sometimes hard to find out one has these kinds of diseases .</s3>
+<s4>Genetic disorder may or may not be hirataged hereditary disease and it is sometimes hard to find out [→if|True] one has these kinds of diseases .</s4>

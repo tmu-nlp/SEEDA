@@ -1,0 +1,10 @@
+<Source with context>
+This subsequently leads to the poor interpersonal skills that inhibit the growth of our real social circle .
+<t>For example , we [tend send a birthday wishes] when Facebook [promts] us " Today is someone 's birthday " .</t>
+In fact , we may have just forgotten our friend 's birthday .
+
+<Correction>
+<s1>For example , we tend [→to|True] send [a→|True] birthday wishes when Facebook [promts→prompts|True] us [→,|False] " Today is someone 's birthday " [→, when in fact , we may have forgotten our friend 's birthday|True] .</s1>
+<s2>For example , we tend [→to|True] send [a→|True] birthday wishes when Facebook [promts→prompts|True] us " Today is someone 's birthday " .</s2>
+<s3>For example , we tend [→to|True] send [a→|True] birthday wishes when Facebook [promts→tells|True] us " Today is someone 's birthday " .</s3>
+<s4>For example , we tend [→to|True] send [a→|True] birthday wishes when Facebook [promts→promises|False] us " Today is someone 's birthday " .</s4>

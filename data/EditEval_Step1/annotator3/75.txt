@@ -1,0 +1,10 @@
+<Source with context>
+And actually lots of rescuing jobs are done with the help of social media like looking for people get lost and so on .
+<t>With more [convinient] and [humanian] communications , the relationship between [] government and [] people [get] largely improved .</t>
+What 's more , various of cultures can be shown to us through social medias .
+
+<Correction>
+<s1>With more [convinient→convenient|True] and [humanian→humane|True] communications , the relationship between government and people [get→has|True] largely improved .</s1>
+<s2>With more [convinient→convenience|True] and [humanian→human|True] communications , the relationship between government and people [get→is|True] largely improved .</s2>
+<s3>With more [convinient→convenient|True] and humanian communications , the relationship between government and people [get→has|True] largely improved .</s3>
+<s4>With more [convinient→convenient|True] and [humanian→personal|True] communications , the relationship between [→the|True] government and [→its|True] people [get→has|True] largely improved .</s4>

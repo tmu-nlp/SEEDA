@@ -1,0 +1,10 @@
+<Source with context>
+As for the advantages , there are two aspects : more convenient to contact others , easier to know about others .
+<t>One advantage is that it is more [convenience] to contact others [by] social media .</t>
+In old days , if one wants to tell some important news to another one , which lives far away , he needs to write letters and it wastes time .
+
+<Correction>
+<s1>One advantage is that it is more [convenience→convenient|True] to contact others [by→through|True] social media .</s1>
+<s2>One advantage is that it is more [convenience→convenient|True] to contact others by social media .</s2>
+<s3>One advantage is that it is more [convenience→convenient|True] to contact others [by→via|True] social media .</s3>
+<s4>One advantage is that it is more [convenience→convenient|True] to contact others [by→using|True] social media .</s4>

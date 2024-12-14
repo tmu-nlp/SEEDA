@@ -1,0 +1,11 @@
+<Source with context>
+Secondly , genetic disease has a close relationship with the born gene together with their daily habits .
+<t>For example , if a carrier is told that he/she has the risk to have diabetes .</t>
+In this case , the carrier can eat less candies and chocolates to prevent intake to much sugars , and at the same time , if the carrier tell this information to the relatives , it will be useful for them to know that they may have diabetes in the future becouse of related genes and they can perform the same exercise to intake less sugar to prevent the disease .
+
+<Correction>
+<s1>For example , if a carrier is told that [he/she→they|True] [has→have|True] [the→a|True] risk [to→of|True] [have→developing|True] diabetes .</s1>
+<s2>[For→One|False] example [, if→is when|False] a [carrier→person|True] is told that [→he|True] [→or|True] [he/she→she|True] [has→is|True] [the→at|True] risk [to have→for|True] diabetes .</s2>
+<s3>For example , [if→|False] a carrier [is→may be|False] told that [→he|True] [→or|True] [he/she→she|True] has [the→a|True] risk to have diabetes .</s3>
+<s4>For example , if a carrier is told that [he/she→he / she|False] has the risk to have diabetes .</s4>
+<s5>For example , if a carrier is told that he/she has the risk [to→of|True] [have→having|True] diabetes .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+When we use facebook and post pictures and statuses .
+<t>We are actively " presenting " [fa ç ades] of our [lifes] in front of others .</t>
+We tend to post pictures with the best looks , status that are funny .
+
+<Correction>
+<s1>We are actively " presenting " [fa→fat|False] [ç→|False] ades of our [lifes→lives|True] in front of others .</s1>
+<s2>We are actively " presenting " [fa→FA|False] ç [ades→aides|False] of our [lifes→life|True] in front of others .</s2>
+<s3>We are actively " presenting " fa [ç ades→enthusiades|False] of our [lifes→lives|True] in front of others .</s3>
+<s4>We are actively " presenting " fa ç ades of our [lifes→lives|True] in front of others .</s4>

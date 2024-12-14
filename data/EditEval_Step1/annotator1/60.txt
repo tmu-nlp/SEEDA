@@ -1,0 +1,9 @@
+<Source with context>
+In a nutshell , our society ca n't push genetic problem carrier to tell his or her disease to his or her relatives but he or she should be willing to tell his or her relatives about his or her genetic problem .
+<t>By doing so , [less] of his or her beloved ones will suffer from the genetic problem .</t>
+In the age of rapid technological advancement , a lot of medical breakthroughs are made possible .
+
+<Correction>
+<s1>By doing so , [less→fewer|True] of [his or→] [her→their|True] [beloved→loved|True] ones will suffer from the genetic problem .</s1>
+<s2>By doing so , [less→fewer|True] of his or her [beloved→loved|True] ones will suffer from the genetic problem .</s2>
+<s3>By doing so , [less→fewer|True] of his or her beloved ones will suffer from the genetic problem .</s3>

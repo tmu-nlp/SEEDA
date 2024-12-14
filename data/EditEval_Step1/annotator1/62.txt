@@ -1,0 +1,10 @@
+<Source with context>
+In China , the older generation with traditional culture background , will always think of having more children as well as grandchildren , to make the family liven up and stronger .
+<t>The reason behind is that after [WOWII] the population of China decreased dramatically and so the government [encourage] the people to [give more birth] .</t>
+During that period , if one of the family member reflects genetic disorder symptoms , he will fell in an ethical dilenma for sure .
+
+<Correction>
+<s1>The reason behind is that after WOWII the population of China [→has|True] decreased dramatically and so the government [encourage→encourages|True] the people to give more birth .</s1>
+<s2>The reason behind [→this|True] is that after WOWII the population of China decreased dramatically and so the government [encourage→encouraged|True] the people to give more birth .</s2>
+<s3>The reason [→for|True] [behind→this|True] is that after [WOWII→WWII|True] [→,|True] the population of China decreased dramatically [→|True,] and so the government [encourage→encouraged|True] the people to [give→have|True] more [birth→children|True] .</s3>
+<s4>The reason behind is that after WOWII the population of China decreased dramatically and so the government [encourage→encouraged|True] [the→|True] people to give more birth .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+One of Manager in my working place has the same situation .
+<t>After my [Manager] taught her mother how to use Facebook , she was able to upload video clips of her grandchild .</t>
+Therefore my Manager would not miss the moments of her daughter 's growth .
+
+<Correction>
+<s1>After my Manager taught her [mother→|False] how to use Facebook , she was able to upload video clips of her grandchild .</s1>
+<s2>After my [Manager→manager|True] taught her mother how to use Facebook , she was able to upload video clips of her [grandchild→grandchildren|False] .</s2>
+<s3>After my [Manager→manager|True] taught her mother how to use Facebook , she was able to upload video clips of her grandchild .</s3>
+<s4>After [my→the|False] Manager taught her mother how to use Facebook , she was able to upload video clips of her [grandchild→grandchildren|False] .</s4>

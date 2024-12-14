@@ -1,0 +1,11 @@
+<Source with context>
+Firstly , I believe most of us will agree with the sentences below : " I will be anxious about my families when he or she told me that he or she was a carrier of a known genetic risk " .
+<t>Frequently , the intention of the carrier [] [does] not want to tell their families [are] to continue their own life without the [anxious] of [] families .</t>
+It is obvious that there will be better for one person to be worried than many .
+
+<Correction>
+<s1>Frequently , the intention of the carriers [does→who do|True] not want to tell their families are to continue their own life without the [anxious→anxiety|True] of families .</s1>
+<s2>Frequently , the intention of the carriers does not want to tell their families [are→is|True] to continue their own life without the [anxious→anxiety|True] of families .</s2>
+<s3>Frequently , the intention of the carriers does not want to tell their families [are→is|True] to continue their own [life→lives|True] without the [anxious→anxiety|True] of families .</s3>
+<s4>Frequently , the intention of the carriers [does→is|True] not [want→|True] to tell their families [are→and|True] to continue their own [life→lives|True] without the [anxious→anxiety|True] of [→their|True] families .</s4>
+<s5>Frequently , the intention of [the→a|True] [carriers→carrier|True] [→who|True] does not want to tell their [families→family|True] [are→is|True] to continue their own life without the [anxious→anxiety|True] of [families→their family|True] .</s5>

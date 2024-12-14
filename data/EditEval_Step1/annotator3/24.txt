@@ -1,0 +1,10 @@
+<Source with context>
+When things come to genetic issues , it is not that simple anymore .
+<t>Genetic [disorder] [inheritance] [is] generation [by] generation , but not all of the [offsprings] show the relevant symptoms .</t>
+Sometimes a family with potential genetic disorder risk may not be able to detect the potential harm inside their bodies as none of their members reflect any observable disorder symptoms .
+
+<Correction>
+<s1>Genetic [disorder→disorders|True] [→are|True] [inheritance→inherited|True] [is→|True] generation by generation , but not all of the [offsprings→offspring|True] show the relevant symptoms .</s1>
+<s2>[Genetic→Inheritance of genetic|True] [disorder→disorders|True] [inheritance→moves|True] [is→from|True] generation [by→to|True] generation , but not all [of the offsprings→children|True] show the relevant symptoms .</s2>
+<s3>Genetic disorder inheritance is generation by generation , but not all of the [offsprings→offspring|True] show the relevant symptoms .</s3>
+<s4>Genetic disorder inheritance is generation by generation , but not all of the [offsprings→offspring|True] [show→shows|False] the relevant symptoms .</s4>

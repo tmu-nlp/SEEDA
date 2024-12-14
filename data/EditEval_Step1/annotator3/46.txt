@@ -1,0 +1,11 @@
+<Source with context>
+Personally I feel that we still should take our responsibility to tell them the situation .
+<t>Since this will really affect their lives , [what] we should [do is to] try to make it in a positive way .</t>
+We can not let it go .
+
+<Correction>
+<s1>Since this will really affect their lives , what we should do is to try to make it [in→|True] a positive [way→experience|True] .</s1>
+<s2>Since this will really affect their lives , [what→|True] we should [do is to→|True] try to [make→handle|True] it [in a→|True] [positive→positively|True] [way→|True] .</s2>
+<s3>Since this will really affect their lives , what we should do is to try to [make→do|True] it in a positive way .</s3>
+<s4>Since this will really affect their lives , what we should do is to try to make it in a positive way .</s4>
+<s5>Since this will really affect their lives , what we should do is [to→|True] try to make it in a positive way .</s5>

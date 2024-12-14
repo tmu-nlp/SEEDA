@@ -1,0 +1,9 @@
+<Source with context>
+We think we are all connected through all sorts of social media , but do we really get connected or falling apart ?
+<t>Social media sites like Facebook and Twitter [are] [born] with the intention of connecting people [,] from around the world .</t>
+The idea seems great , and nowadays most people even the older generation will have at least one social media platform like Facebook .
+
+<Correction>
+<s1>Social media sites like Facebook and Twitter [are→were|True] [born→created|True] with the intention of connecting people [,→|True] from around the world .</s1>
+<s2>Social media sites like Facebook and Twitter [are→were|True] born with the intention of connecting people [,→|True] from around the world .</s2>
+<s3>Social media sites like Facebook and Twitter are born with the intention of connecting people [,→|True] from around the world .</s3>

@@ -1,0 +1,11 @@
+<Source with context>
+Geographical and transportation borders are not a problem anymore because communication and information technologies were enhanced continuously .
+<t>Telephone may [be] perceived as a big innovation [created ever when the first time] Graham Bell introduced it .</t>
+However , since internet were known , telephone started to give way to social media sites .
+
+<Correction>
+<s1>[Telephone→The telephone|True] may be perceived as a big innovation created [ever when the first time→since|True] Graham Bell introduced it .</s1>
+<s2>[Telephone→The telephone|True] may [be→have been|False] perceived as [a→the|True] [big→biggest|True] innovation created ever when the first time Graham Bell introduced it .</s2>
+<s3>[Telephone→Telephones|True] may be perceived as a big innovation [created→|True] ever [when→since|True] the first time Graham Bell introduced [it→them|True] .</s3>
+<s4>[Telephone→The telephone|True] may be perceived as a big innovation created [ever→|True] when the first time Graham Bell introduced it .</s4>
+<s5>[Telephone→The telephone|True] may be perceived as [a→the|True] [big→biggest|True] innovation [created ever→ever created|True] when the first time Graham Bell introduced it .</s5>

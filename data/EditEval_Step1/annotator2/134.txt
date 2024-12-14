@@ -1,0 +1,10 @@
+<Source with context>
+Some people who are try to talk in the public can also actively take part in the group chatting via social media .
+<t>Besides , we can make more friends [by] such interactions when our friends also bring their friends in .</t>
+Therefore , the popularity of social media sites have made it more convenient for people ot update friends ' status and contact with friends more frequently .
+
+<Correction>
+<s1>Besides , we can make more friends by such interactions when our friends also bring their friends in .</s1>
+<s2>Besides , we can make more friends [by→through] [such→these|True] interactions when our friends [also→|True] bring their [→other|True] friends in .</s2>
+<s3>Besides , we can make more friends [by→through|True] such interactions when our friends also bring their friends in .</s3>
+<s4>Besides , we can make more friends [by→through|True] such interactions when our friends also bring their friends [in→|True] .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+Nowadays , people can even use their phone to read news and everyone can be the first witnesses of what is happening in the world .
+<t>People use Twitter to follow the [artiste] [or] [celebrity] they love and Facebook to see [what] [is] their friends ' recent activity .</t>
+Nevertheless , they still can use phone to do normal call and message to contact .
+
+<Correction>
+<s1>People use Twitter to follow the artiste or celebrity they love and Facebook to see what [is→|True] their friends [→are|True] ['→doing|True] [recent→recently|True] [activity→|True] .</s1>
+<s2>People use Twitter to follow the [artiste→artist|True] or celebrity they love and Facebook to see what is their friends ' recent activity .</s2>
+<s3>People use Twitter to follow the artiste or celebrity they love and Facebook to see what [is→|True] their friends ' recent activity [→is|True] .</s3>
+<s4>People use Twitter to follow the artiste or celebrity they love and Facebook to see what [is→|False] their friends ' recent activity .</s4>
+<s5>People use Twitter to follow the [artiste→artist|True] or celebrity they love and Facebook to see what [is→|True] their friends ' recent activity [→is|True] .</s5>

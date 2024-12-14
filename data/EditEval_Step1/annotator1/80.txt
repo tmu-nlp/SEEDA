@@ -1,0 +1,11 @@
+<Source with context>
+People use Twitter to follow the artiste or celebrity they love and Facebook to see what is their friends ' recent activity .
+<t>Nevertheless , they [still can use] phone [to do] normal call and [message to contact] .</t>
+Not only the phone did the jobs for them , but also devices like personal computer , laptop , tablet , and many other devices which are able to connect to internet .
+
+<Correction>
+<s1>Nevertheless , they [still can→can still|True] use [→the|True] phone to [do→make|True] normal [call→calls|True] and message [to→|True] contact .</s1>
+<s2>Nevertheless , they still can use [→the|True] phone to [do→make|True] normal [call→calls|True] and [message→messages|True] to contact [→people|True] .</s2>
+<s3>Nevertheless , they still can use [→the|True] phone to do normal call and message [to→|True] contact .</s3>
+<s4>Nevertheless , they still can use [→the|True] phone to do normal [call→calls|True] and message to contact .</s4>
+<s5>Nevertheless , they [still can→can still|True] use [phone→phones|True] to [do→make|True] normal [call→calls|True] and [→send|True] [message→messages|True] to contact .</s5>

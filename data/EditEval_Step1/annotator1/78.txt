@@ -1,0 +1,9 @@
+<Source with context>
+Furthermore , with the current technology , smartphones are able to get access to social media sites which have made easier for consumers to use .
+<t>Hence , social media has benefited the masses by equipping them with a powerful tool to disseminate information almost [immediate] to the people around them .</t>
+However , critics may argue that not all information or news disseminated are reliable .
+
+<Correction>
+<s1>Hence , social media has benefited the masses by equipping them with a powerful tool to disseminate information almost [immediate→immediately|True] to the people around them .</s1>
+<s2>[Hence , social→Social|False] media has benefited the masses by equipping them with a powerful tool to disseminate information almost [immediate→immediately|True] to the people around them .</s2>
+<s3>Hence , social media has benefited the masses by equipping them with a powerful tool to disseminate information almost [immediate→directly|False] to the people around them .</s3>

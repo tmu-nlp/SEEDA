@@ -1,0 +1,11 @@
+<Source with context>
+And it is important for those young people .
+<t>The earlier we tell them , [a better habit they will] [arise] and better for the rest of their lives .</t>
+What 's more they may undergo genetic test as well to see whether they are carrying it or not which is also better for them .
+
+<Correction>
+<s1>The earlier we tell them , [a→the|True] better habit they will [arise→develop|True] and better for the rest of their lives .</s1>
+<s2>[The earlier→Before|False] we tell them , a better habit [they→|True] will arise and better for the rest of their lives .</s2>
+<s3>The earlier we tell them , [a→the|True] better [habit→habits|True] they will [arise→have|True] and better for the rest of their lives .</s3>
+<s4>The earlier we tell them , a better habit [they→|True] will arise and better for the rest of their lives .</s4>
+<s5>The earlier we tell them , [a→the|False] better habit they will arise and better for the rest of their lives .</s5>

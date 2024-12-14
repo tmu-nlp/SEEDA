@@ -1,0 +1,10 @@
+<Source with context>
+Then wife D might tell her mother , who likes to gossip on her way to the theatre .
+<t>In less than a week half of the town knows person A has a [risked] gene , and his family might be a genetically [risked] family .</t>
+Then nobody wants to marry A , or his relatives .
+
+<Correction>
+<s1>In less than a week half of the town knows person A has a risked gene , and his family might be a genetically risked family .</s1>
+<s2>In less than a week [→,|True] half of the town knows [→that this|True] person [A→|True] has a [risked→genetic|True] [gene→risk|True] , and [→that|True] his [→entire|True] family might be [a genetically→at|True] [risked→risk|True] [family→|True] .</s2>
+<s3>In less than a week [→,|True] half of the town knows [→that|True] person A has a [risked→risk|True] gene , and his family might be a genetically [risked→risky|True] family .</s3>
+<s4>In less than a week [→,|True] half of the town knows person A has a risked gene , and his family might be a genetically risked family .</s4>

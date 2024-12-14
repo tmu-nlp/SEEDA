@@ -1,0 +1,10 @@
+<Source with context>
+Privicy protection belongs to one 's human rights .
+<t>If a law requires someone to tell others ['] his or her [privacy] especially when [the] [one] is not willing to do so .</t>
+It is againt his or her human rights and it is against the law 's spirit .
+
+<Correction>
+<s1>If a law requires someone to tell others ['→,|True] his or her privacy [→is violated ,|True] especially when [the→|True] one is not willing to do so .</s1>
+<s2>If a law requires someone to tell others ['→|True] his or her privacy [→,|False] especially when [the→|True] one is not willing to do so .</s2>
+<s3>If a law requires someone to tell others ' his or her privacy [→,|False] especially when the [one→person|True] is not willing to do so .</s3>
+<s4>If a law requires someone to tell others ['→|True] his or her privacy [→,|True] especially when the [one→person|True] is not willing to do so .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+Many people are very brave in telling people about their opinions online but in real life some of them can be very shy and not outspoken at all .
+<t>This will lead to [a] bad [inter-personal] skill as well as a problem of [trusts] .</t>
+Nowadays we can not really trust new people whom we know from social media since we will never know whether they are even 'real' .
+
+<Correction>
+<s1>This will lead to [a→|True] bad [inter-personal→inter - personal|False] [skill→skills|True] as well as a problem of trusts .</s1>
+<s2>This will lead to [a→|True] bad [inter-personal→interpersonal|True] [skill→skills|True] as well as a problem of [trusts→trust|True] .</s2>
+<s3>This will lead to a bad inter-personal skill as well as a problem of [trusts→trust|True] .</s3>
+<s4>This will lead to [a→|True] bad [inter-personal→inter - personal|False] [skill→skills|True] as well as a problem of [trusts→trust|True] .</s4>
+<s5>This will lead to a bad [inter-personal→interpersonal|True] skill as well as a problem of [trusts→trust|True] .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+On the other hand , the viewers , are not the listeners .
+<t>They are just scrolling down pages [of] pages of pictures and statuses and see one of them which they might think [it] funny .</t>
+It is not the broadcasters themselves they care about , but the content .
+
+<Correction>
+<s1>They are just scrolling down pages of pages of pictures and statuses and see one of them which they might think [it→|False] funny .</s1>
+<s2>They are just scrolling down [pages of→|True] pages of pictures and [statuses→statues|False] and [see→seeing|True] one of them which they might think [it→is|True] funny .</s2>
+<s3>They are just scrolling down [pages of→|True] pages of pictures and [statuses→statues|False] and see one of them which they might think [it→is|True] funny .</s3>
+<s4>They are just scrolling down pages [of→and|True] pages of pictures and statuses and see one of them which they might think [it→is|True] funny .</s4>

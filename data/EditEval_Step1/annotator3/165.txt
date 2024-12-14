@@ -1,0 +1,11 @@
+<Source with context>
+Also , as numerous profit-driven companies realize the hugh human traffic on such social media sites , they make it as a pond to fish the customers by uploading many advertisements .
+<t>Furthermore [] this also possibly triggers [the] privacy issues as [the] Facebook allows some other profit-driven companies to have access to the information on the users .</t>
+As this happens , users are more and more pron to any possible frauds .
+
+<Correction>
+<s1>Furthermore [→,|True] this also possibly triggers [the→|True] privacy issues as the Facebook allows some other profit-driven companies to have access to the information on the users .</s1>
+<s2>Furthermore [→,|True] this also possibly triggers the privacy issues as [the→|True] Facebook allows some other profit-driven companies to have access to the information on the users .</s2>
+<s3>Furthermore [→,|True] this also possibly triggers [the→|True] privacy issues as [the→|True] Facebook allows some other [profit-driven→profit - drive|Truen] companies to have access to the information on the users .</s3>
+<s4>Furthermore [→,|True] this also possibly triggers [the→|True] privacy issues as [the→|True] Facebook allows some other profit-driven companies to have access to the information on the users .</s4>
+<s5>Furthermore [→,|True] this also possibly triggers [the→|True] privacy issues as [the→|True] Facebook allows some other profit-driven companies to have access to the information on [the→its|True] users .</s5>

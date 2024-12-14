@@ -1,0 +1,11 @@
+<Source with context>
+People can promote their friendship and relationship through these social media .
+<t>Whereas , it can also make people forget to communicate [to] their family and friends in the real life and affect negatively [to] their interpersonal skills .</t>
+But overall , the advantages far outweigh its disadvantage .
+
+<Correction>
+<s1>Whereas , it can also make people forget to communicate [to→with|True] their family and friends in [the→|True] real life and affect [negatively to→|True] their interpersonal skills [→negatively|True] .</s1>
+<s2>[Whereas→However|True] , it can also make people forget to communicate to their family and friends in [the→|True] real life [→,|True] and [affect negatively→negatively affect|True] [to→|True] their interpersonal skills .</s2>
+<s3>[Whereas→Additionally|True] , it can also make people forget to communicate [to→with|True] their family and friends in [the→|True] real life and [affect negatively→negatively affect|True] [to→|True] their interpersonal skills .</s3>
+<s4>Whereas , it can also make people forget to communicate [to→with|True] their family and friends in [the→|True] real life and affect negatively [to→|True] their interpersonal skills .</s4>
+<s5>[Whereas→On the other hand|True] , it can also make people forget to communicate [to→with|True] their family and friends in [the→|True] real life [→,|True] and [affect negatively→negatively affect|True] [to→|True] their interpersonal skills .</s5>

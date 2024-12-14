@@ -1,0 +1,11 @@
+<Source with context>
+Sometimes I even canoot sleep well because of excitement .
+<t>Social media makes our life [patten] so fast and [left] us less time to think about our life .</t>
+Social media is becoming more important and we need to think more to make it serve us better and better .
+
+<Correction>
+<s1>Social media makes our [life→lives|True] patten so fast and [left→leaves|True] us less time to think about our life .</s1>
+<s2>Social media makes our [life→lives|True] [patten→move|True] so fast [and left→that it leaves|True] us less time to think about our [life→lives|True] .</s2>
+<s3>Social media makes our life patten so fast and [left→leaves|True] us less time to think about our life .</s3>
+<s4>Social media makes our life patten so fast and [left→leave|False] us less time to think about our life .</s4>
+<s5>Social media makes our life patten so fast and left us less time to think about our [life→lives|True] .</s5>

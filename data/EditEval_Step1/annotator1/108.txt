@@ -1,0 +1,10 @@
+<Source with context>
+As a student , I tend to meet lots of people from different background and at different settings .
+<t>We may meet only once but we exchange our [contact numbers] as well as facebook [account] in order to keep in touch .</t>
+Unlike just keeping contact numbers that we may not even call , social media like facebook is a great way for friends from different field or even from different parts of the world to be connected .
+
+<Correction>
+<s1>We may meet only once but we exchange our contact numbers as well as facebook [account→accounts|True] in order to keep in touch .</s1>
+<s2>We may meet only once [→,|True] but we exchange our contact numbers as well as facebook account in order to keep in touch .</s2>
+<s3>We may meet only once but we exchange our [contact→phone|True] numbers [as well as→and|True] [facebook→Facebook|True] [account→accounts|True] in order to keep in touch .</s3>
+<s4>We may meet only once but we exchange our contact numbers as well as [facebook→Facebook|True] [account→accounts|True] in order to keep in touch .</s4>

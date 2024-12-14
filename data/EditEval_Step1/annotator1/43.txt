@@ -1,0 +1,9 @@
+<Source with context>
+Other relatives may have the same possibilities to have such kind of disease .
+<t>How can a law made by [government] [exempt] such a group of people from preparing to face their [potetial] disease ?</t>
+However , from the ethical point of view .
+
+<Correction>
+<s1>How can a law made by [→the|True] government exempt such a group of people from preparing to face their [potetial→potential|True] disease ?</s1>
+<s2>How can a law made by [→the|True] government exempt such a group of people from preparing to face their potetial disease ?</s2>
+<s3>How can a law [made by government→|True] exempt such a group of people from [preparing→information needed|True] to face their [potetial→potential|True] disease ?</s3>

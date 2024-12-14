@@ -1,0 +1,10 @@
+<Source with context>
+Parents and relatives have to work longer than expected and endlessly to foster their child if he/she is not able to foster himself/herself .
+<t>The situation may become [worst] if the child has diseases like cancer or heart disease , which means that [] parents have [another] heavy baggage named medication fees .</t>
+Not only the child but also the entirely family will suffer .
+
+<Correction>
+<s1>The situation may become [worst→worse|True] if the child has diseases like cancer or heart disease , which means that [→the|True] parents have [another→more|True] heavy baggage [named→called "|True] medication fees [→''|True] .</s1>
+<s2>The situation may become [worst→worse|True] if the child has diseases like cancer or heart disease , which means that parents have another heavy baggage named medication fees .</s2>
+<s3>The situation may become worst if the child has diseases like cancer or heart disease , which means that parents have another heavy baggage [named→called|True] medication fees .</s3>
+<s4>The situation may become [worst→worse|True] if the child has diseases like cancer or heart disease , which means that parents have another heavy [baggage→burden|True] named medication fees .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+Particularly , in the medical field , there is a great improvement in many treatments for many formally incurable diseases , and genetic testing is one of the methods which were used to diagnose an individual at risk for a genetic disorder .
+<t>The medical authorities [claimed] that only the individual who is at risk [for] a genetic disorder can make the decision to undergo genetic testing .</t>
+However , once a test has been conducted and the results are known , a family-related ethical dilemma is born .
+
+<Correction>
+<s1>The medical authorities claimed that only [the→|True] [individual→individuals|True] [who is→|True] at risk for a genetic disorder can make the decision to undergo genetic testing .</s1>
+<s2>The medical authorities claimed that only the individual who is at risk for a genetic disorder can make the decision to undergo genetic testing .</s2>
+<s3>The medical authorities [claimed→claim|True] that only the individual who is at risk for a genetic disorder can make the decision to undergo genetic testing .</s3>
+<s4>The medical authorities [claimed→claim|True] that only [the→an|False] individual who is at risk for a genetic disorder can make the decision to undergo genetic testing .</s4>
+<s5>The medical authorities [claimed→claim|True] that only the individual who is at risk [for→of|True] a genetic disorder can make the decision to undergo genetic testing .</s5>

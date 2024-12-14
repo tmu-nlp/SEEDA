@@ -1,0 +1,11 @@
+<Source with context>
+Thus , much thought need to put on the immediate family as it could caused a stir of unwanted events from the patient or the family members itself .
+<t>Some family [] may feel hurt [,] [with regards to] their family pride or reputation [,] [on] [having the knowledge of] such [] genetic disorder running in their family .</t>
+However , there is a role and a sense of responsibility to inform their relatives since it is a genetic disorder .
+
+<Correction>
+<s1>Some [family→families|True] may feel hurt [,→|True] with regards to their family pride or reputation , [on→upon|True] having [the→|True] knowledge of such genetic disorder running in their family .</s1>
+<s2>Some [family→families|True] may feel hurt , with regards to their family pride or reputation , on having the knowledge of such [→a|True] genetic disorder running in their family .</s2>
+<s3>Some family [→members|True] may feel hurt , with [regards→regard|True] to their family pride or reputation , on having the knowledge of such [→a|True] genetic disorder running in their family .</s3>
+<s4>Some [family→families|True] may feel hurt , with regards to their family pride or reputation , on having the knowledge of such genetic disorder running in their family .</s4>
+<s5>[Some→On learning of such a genetic disorder running in their family , some|True] family [→members|True] may feel hurt [, with regards to→regarding|True] their family pride or reputation [, on having the knowledge of such genetic disorder running in their family→|True] .</s5>

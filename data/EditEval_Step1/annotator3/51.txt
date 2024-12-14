@@ -1,0 +1,10 @@
+<Source with context>
+A Carrier of a Known Genetic Risk Should be Obligated to Tell His or Her Relatives
+<t>More and more [illness] [are] discovered to be related to some genes with the development of [the] medical technology .</t>
+People will know about whether they carry a disease on their genes after they have done the genetic test .
+
+<Correction>
+<s1>More and more [illness→illnesses|True] are discovered to be related to some genes with the development of [the→|True] medical technology .</s1>
+<s2>[More→With the development of the medical technology , more|True] and more illness are discovered to [be related→have|True] [to→|True] [some→a|True] [genes with the development of the medical technology→genetic component|True] .</s2>
+<s3>More and more [illness→illnesses|True] [are→have been|True] discovered to be related to some genes with the development of [the→|True] medical technology .</s3>
+<s4>More and more [illness→illnesses|True] are discovered to be related to some genes with the development of the medical technology .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+First , social media networks have a lot user base , it helps to link people from different parts of the world .
+<t>In the days without [the] social networks , people [may not have] the chance to know others from different countries or [the ones they never meet before] .</t>
+Their number of people that they know may only limited to the people they meet in daily life like classmates and working partners .
+
+<Correction>
+<s1>[In the days→Nowadays |False,] without [the→|True] social networks , people may not have the chance [→to get|True] to know others from different countries or the ones they [→have|True] never [meet→met|True] before .</s1>
+<s2>In the days without [the→|True] social networks , people may not have the chance to know others from different countries or [the→|False] ones they [→have|True] never [meet→met|True] before .</s2>
+<s3>In the days without [the→|True] social networks , people may not have the chance to know others from different countries or the ones they [→have|True] never [meet→met|True] before .</s3>
+<s4>In the days [without→before|True] [the→|True] social networks , people [may→might|True] not have [→had|True] the chance to [know→meet|True] others from different countries [or the ones they never meet before→|True] .</s4>

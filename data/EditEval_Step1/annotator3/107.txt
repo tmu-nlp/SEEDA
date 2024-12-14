@@ -1,0 +1,10 @@
+<Source with context>
+Unlike the use of social media , most of the interaction is done with thinking and typing .
+<t>As a result , one does not train [the] [necessarily] [parts] [of] the skills required for [a] proper interpersonal [relations] .</t>
+It is also entire incorrect to fault social media alone for the lack of interpersonal skill .
+
+<Correction>
+<s1>As a result , one does not train [the necessarily parts of→|True] the skills [required→necessary|True] for [a→|True] proper interpersonal relations .</s1>
+<s2>As a result , one does not train the [necessarily→necessary|True] parts of the skills required for a proper interpersonal [relations→relationship|True] .</s2>
+<s3>As a result , one does not train the [necessarily→necessary|True] parts of the skills required for [a→|True] proper interpersonal [relations→relationships|True] .</s3>
+<s4>As a result , one does not train the [necessarily→necessary|True] parts of the skills required for [a→|True] proper interpersonal relations .</s4>

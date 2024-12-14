@@ -1,0 +1,9 @@
+<Source with context>
+Without the facial impression , it is easier to misunderstand the intention of speakers .
+<t>That is why facial [impression] is one of the most important elements in social learning .</t>
+In addition , " social media sites will affect writing skills " , that is the point of view in society .
+
+<Correction>
+<s1>That is why facial [impression→impressions|False] [is→are|False] one of the most important elements in social learning .</s1>
+<s2>That is why facial [impression→expression|True] is one of the most important elements in social learning .</s2>
+<s3>That is why facial [impression→expressions|True] [is→are|True] one of the most important elements in social learning .</s3>

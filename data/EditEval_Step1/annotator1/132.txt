@@ -1,0 +1,10 @@
+<Source with context>
+As a result , one does not train the necessarily parts of the skills required for a proper interpersonal relations .
+<t>It is also [entire] incorrect [to fault] social media alone for the lack of interpersonal [skill] .</t>
+Howard Garner studied the effect of multiple intelligences amongst people and stated that interpersonal intelligence is a form of skills on its own - some has it , some does not .
+
+<Correction>
+<s1>It is also [entire→entirely|True] incorrect to fault social media alone for the lack of interpersonal skill .</s1>
+<s2>It is also [entire→|True] incorrect to fault social media alone for the lack of interpersonal [skill→skills|True] .</s2>
+<s3>It is also entire incorrect to fault social media alone [→because|False] [for→of|False] the lack of interpersonal skill .</s3>
+<s4>It is also [entire→entirely|True] incorrect to [fault→blame|True] social media alone for the lack of interpersonal [skill→skills|True] .</s4>

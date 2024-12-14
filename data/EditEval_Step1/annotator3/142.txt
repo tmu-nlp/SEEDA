@@ -1,0 +1,8 @@
+<Source with context>
+The modes of communication have been changing over the years , from letter writing to social networking .
+<t>This phenomenon is caused by [] rapidly changing technology , which has made communication [to be] faster than [never] before .</t>
+Today , social media sites , such as Facebook and Twitter , are relatively common within the contemporary society ; and , people can communicate with each other , online or offline , on these social networking platforms .
+
+<Correction>
+<s1>This phenomenon is caused by rapidly changing technology , which has made communication [to be→|True] faster than [never→ever|True] before .</s1>
+<s2>This phenomenon is caused by rapidly changing technology , which has made communication [to be→|True] faster than never before .</s2>

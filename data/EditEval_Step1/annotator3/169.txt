@@ -1,0 +1,10 @@
+<Source with context>
+Some people will to post their expensive thing or the oversea places of interest they have been on the social network and get a feeling of satisfaction by doing so .
+<t>It is a mental [unhealth] and it may trigger people [] especially teenagers [] to become [material] .</t>
+The last but not the least , with all kinds of personal information on one 's social network page , it is covenient for criminal to make use of this information to commit a crime .
+
+<Correction>
+<s1>It is a mental [unhealth→health issue|True] and it may trigger people [→,|True] especially teenagers [→,|True] to become [material→materialistic|True] .</s1>
+<s2>It is [a→|True] [mental→mentally|True] [unhealth→unhealthy|True] and it may [trigger→cause|True] people [→,|True] especially teenagers [→,|True] to become material .</s2>
+<s3>It is a mental [unhealth→unhealthiness|True] and it may trigger people [→,|True] especially teenagers [→,|True] to become material .</s3>
+<s4>It is a mental [unhealth→illness|True] and it may trigger people [→,|True] especially teenagers [→,|True] to become material .</s4>

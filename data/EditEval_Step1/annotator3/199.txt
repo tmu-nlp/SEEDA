@@ -1,0 +1,9 @@
+<Source with context>
+But there is possibility that the person on the other side is deceiving you in order to obtain your information against you .
+<t>[No] pledge of authenticity risks people 's [information] and [privacy] that [are] shared on social media sites .</t>
+To sum up , social media has advantages and disadvantages in people 's daily life .
+
+<Correction>
+<s1>No pledge of authenticity risks people 's information and privacy that are shared on social media sites .</s1>
+<s2>No pledge of authenticity risks people 's information and privacy that [are→is|False] shared on social media sites .</s2>
+<s3>[→The lack of|True] [No→a|True] pledge of authenticity risks people 's [information→privacy|True] and [privacy→the information|True] that [are→is|True] shared on social media sites .</s3>

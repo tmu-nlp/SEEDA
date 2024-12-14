@@ -1,0 +1,10 @@
+<Source with context>
+Therefore an entirely new dilemma is born : should a carrier of a known genetic risk be obligated to tell his or her relatives ?
+<t>This essay will discuss the reasons why the relatives are obligated to be informed that their children have genetic risk .</t>
+One of the reasons that the parents should be informed is that they have to decide whether they are capable to raise a child with genetic risk .
+
+<Correction>
+<s1>This essay will discuss the reasons why [the→|True] relatives are obligated to be informed that their children have [→a|True] genetic risk .</s1>
+<s2>This essay will discuss the reasons why the relatives are obligated to be informed that their children have [→a|True] genetic risk .</s2>
+<s3>This essay will discuss the reasons why [the→|True] relatives are obligated to be informed that their children have genetic [risk→risks|True] .</s3>
+<s4>This essay will discuss the reasons why [the→|True] relatives are obligated to be informed that their children have genetic risk .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+The reason why it is so addictive is , that the more people get into the social media , they seek attention from their friends .
+<t>However , such sparks of sudden attention [is] extremely [short-termed] and [gone] [eaily] [] thus [does] not add any value or meaning to the user 's life .</t>
+Also , according to a research , it has been proven that the users feel more sad after using the Facebook and this is because users unknowingly compare their lives with other people 's lives .
+
+<Correction>
+<s1>However , such sparks of sudden attention [is→are|True] extremely [short-termed→short-lived|True] and [gone→disappear|True] [eaily→quickly , and|True] thus [does→do|True] not add any value or meaning to the [user 's→users|False] [life→lives|False] .</s1>
+<s2>However , such sparks of sudden attention [is→are|True] extremely short-termed and gone [eaily→easily|True] [→,|True] thus does not add any value or meaning to the user 's life .</s2>
+<s3>However , such sparks of sudden attention [is→are|True] extremely short-termed and gone [eaily→early|True] thus does not add any value or meaning to the user 's life .</s3>
+<s4>However , such sparks of sudden attention [is→are|True] extremely [short-termed→short - termed|False] and [gone→go|True] [eaily→away easily|True] [→,|True] thus [does→they do|True] not add any value or meaning to the user 's life .</s4>
+<s5>However , such sparks of sudden attention [is→are|True] extremely [short-termed→short-lived|True] and gone [eaily→easily|True] [→and|True] thus [does→do|True] not add any value or meaning to the user 's life .</s5>

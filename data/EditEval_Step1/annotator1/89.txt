@@ -1,0 +1,10 @@
+<Source with context>
+social games ) which allow users to communicate with remote people , and also to update and express themselves at the same time .
+<t>Twitter , that has more simplified [function] compared to Facebook , gives more benefit if used as information sharing media .</t>
+Twitter only allow users to give update that is limited to short sentences in order to spread the words fast , that only highlighted messages are delivered .
+
+<Correction>
+<s1>Twitter , [that→which|True] has [→a|True] more simplified function compared to Facebook , gives more benefit if used as information sharing media .</s1>
+<s2>Twitter , [that→which|True] has [→a|True] more simplified function compared to Facebook , gives more [benefit→benefits|True] if used as information sharing media .</s2>
+<s3>Twitter , [that→which|True] has more simplified function compared to Facebook , gives more [benefit→benefits|True] if used as [→an|True] information sharing media .</s3>
+<s4>Twitter , [that→which|True] has [→a|True] more simplified function compared to Facebook , gives more benefit if used as information sharing [→the|False] media .</s4>

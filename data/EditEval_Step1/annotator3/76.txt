@@ -1,0 +1,11 @@
+<Source with context>
+Next , communication are also greatly improved .
+<t>In the past , [vast] communication [are] done by one of [the] many [] such [a] [telegram] , snail mail and poor-quality voice calls .</t>
+With the welcoming of application such as Skype and Facetime , any individual can phase off most , of the olden days communication methods .
+
+<Correction>
+<s1>In the past , vast communication [are→was|True] done by one of [the→|True] many [→tools|True] such [a→as|True] [telegram→telegrams|True] , snail mail and poor-quality voice calls .</s1>
+<s2>In the past , [vast→most|True] communication [are→was|True] done by one of [the→|True] many [such→methods|True] [a→including|True] [telegram→telegrams|True] , snail mail and [poor-quality→poor quality|False] voice calls .</s2>
+<s3>In the past , [→a|True] vast [→amount of|True] communication [are→was|True] done by one of the many such [a→|True] [telegram→telegrams|True] , snail mail and poor-quality voice calls .</s3>
+<s4>In the past , vast communication [are→was|True] done by one of [the→|True] many [→means ,|True] such [a→as|True] telegram , snail mail and [poor-quality→poor - quality|False] voice calls .</s4>
+<s5>In the past , vast communication [are→was|True] done by one of the many such a telegram , snail mail and [poor-quality→poor - quality|False] voice calls .</s5>

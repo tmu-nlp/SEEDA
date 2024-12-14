@@ -1,0 +1,11 @@
+<Source with context>
+However , it is also bringing some social changes whereby such virtual worlds are overtaking the real-life world , resulting in some negative impacts in individuaul 's daily lives and therefore becoming a large problem in societies as a whole .
+<t>As people spend more and more time on such social media sites , the importance of [the] face-to-face human [contacts] has [decresed] .</t>
+As people feel more confident online where they do not have to face in real-life on the spot , they feel more comfortable and thus prefer communicating online .
+
+<Correction>
+<s1>As people spend more and more time on such social media sites , the importance of [the→|True] face-to-face human [contacts→contact|True] has [decresed→decreased|True] .</s1>
+<s2>As people spend more and more time on such social media sites , the importance of [the→|True] face-to-face human [contacts→contact|True] has decresed .</s2>
+<s3>As people spend more and more time on such social media sites , the importance of [the→|True] face-to-face human contacts has decresed .</s3>
+<s4>As people spend more and more time on such social media sites , the importance of [the→|True] face-to-face human contacts has [decresed→decreased|True] .</s4>
+<s5>As people spend more and more time on such social media sites , the importance of [the→|True] face-to-face human contacts has [decresed→decreed|False] .</s5>

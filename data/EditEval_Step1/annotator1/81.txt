@@ -1,0 +1,10 @@
+<Source with context>
+As a result , social media helps them do the jobs but indirectly affects their interpersonal skills .
+<t>Social media does have some other advantages beside [their] general benefits to human [being] .</t>
+First of all , people saves money by using internet to contact other people and reading news .
+
+<Correction>
+<s1>Social media does have some other advantages beside their general benefits to human [being→beings|True] .</s1>
+<s2>Social media does have some other advantages [beside→besides|True] [their→its|True] general benefits to human [being→beings|True] .</s2>
+<s3>Social media does have some other advantages [beside their general benefits to human being→|False] .</s3>
+<s4>Social media does have some other advantages [beside→besides|True] their general benefits to human [being→beings|True] .</s4>

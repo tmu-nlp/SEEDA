@@ -1,0 +1,11 @@
+<Source with context>
+However , if a dignosed carrier is obligated to tell his or her relatives , the relatives will be forced to know their higher chance of being genetic risk carriers .
+<t>[This obeys their own willingness] [as in] they [] have to accept the truth [] which may make their [following] life miserable [] .</t>
+Many people many argue that setting the obligation may help more people , who are the relatives of the carriers , save their lives with a larger opportunity because of the early diagnosis .
+
+<Correction>
+<s1>[This obeys their own willingness as in they→They will then|True] [have→be forced|True] to accept the truth [→m|False] which may make their [following→subsequent|False] [life→lives|True] miserable .</s1>
+<s2>This obeys their own willingness as [in→|True] they have to accept the truth which may make their following life miserable .</s2>
+<s3>This obeys their own willingness [→,|True] as in they have to accept the truth [→,|True] which may make their following life miserable .</s3>
+<s4>This obeys their own willingness as in they have to accept the truth which may make their following life miserable .</s4>
+<s5>This obeys their own willingness [→,|False] as [in→|True] they have to accept the truth which may make their following life miserable .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+On another hand , we could update our profile by posting on the wall and our friends could read up on the newsfeed .
+<t>This allows friends that may not have the time [for] meet up to still [] connected in a way .</t>
+Not only that , new friends can be easily met through such online platforms .
+
+<Correction>
+<s1>This allows friends that may not have the time [for→to|True] meet up to [still→stay|True] connected in a way .</s1>
+<s2>This allows friends that may not have the time [for→to|True] meet [up→in person|True] to still [→be|True] connected in a way .</s2>
+<s3>This allows friends that may not have the time [for→to|True] meet up to still [connected→connect|True] in a way .</s3>
+<s4>This allows friends that may not have the time [for→to|True] meet up to still [→be|True] connected in a way .</s4>

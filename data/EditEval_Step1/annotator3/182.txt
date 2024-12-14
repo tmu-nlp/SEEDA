@@ -1,0 +1,10 @@
+<Source with context>
+Hence , our social circle is indeed expanding .
+<t>Nonetheless , what seems to [make] us connected can be the cause that [falls] us apart .</t>
+The obvious disadvantage of using social media is that the time reduction on face-to-face contact .
+
+<Correction>
+<s1>Nonetheless , what seems to make us connected can [→also|True] be [the→what|True] [cause→causes|True] [→us|True] [that→to|True] [falls→fall|True] [us→|True] apart .</s1>
+<s2>Nonetheless , what seems to make us connected can be the cause that falls [us→|False] apart .</s2>
+<s3>Nonetheless , what seems to make us connected can be [the→what|True] [cause→causes|True] [→us|True] [that→to|True] [falls→fall|True] [us→|True] apart .</s3>
+<s4>Nonetheless , what seems to [make→connect|True] us [connected→|True] can be the cause that [falls→drives|True] us apart .</s4>

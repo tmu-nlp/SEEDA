@@ -1,0 +1,11 @@
+<Source with context>
+A typical example is genetic caused hypertension .
+<t>Hypertension can be caused by genetic problems which [make the carrier harder] to digest the fat and salt in blood which can cause hypertension .</t>
+People usually get this kind of hypertesion after they become adult .
+
+<Correction>
+<s1>Hypertension can be caused by genetic problems which make the carrier harder to digest the fat and salt in blood [→,|True] which can cause hypertension .</s1>
+<s2>Hypertension can be caused by genetic problems which make [→it more difficult for|True] the carrier [harder→|True] to [digest→process|True] the fat and salt in [→their|True] blood [which can cause hypertension→|True] .</s2>
+<s3>Hypertension can be caused by genetic problems which make the carrier harder to [digest→Digest|False] the fat and salt in blood which can cause hypertension .</s3>
+<s4>Hypertension can be caused by genetic problems which make [→it harder for|True] the carrier [harder→|True] to digest the fat and salt in blood [→,|True] which can cause hypertension .</s4>
+<s5>Hypertension can be caused by genetic problems which make the carrier harder to digest [the→|True] fat and salt in blood which can cause hypertension .</s5>

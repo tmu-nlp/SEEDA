@@ -1,0 +1,10 @@
+<Source with context>
+Though social media need not be necessarily bad , it must be used accordingly - for work , family , friends .
+<t>The types of use must also be taken note of [-] informing , interacting , discussion and others .</t>
+The space of separation between the parties must also be looked at .
+
+<Correction>
+<s1>The types of use must also be taken note [of - informing→of-informing|False] , interacting , [discussion→discussing|True] [→,|True] and others .</s1>
+<s2>The [types→type|True] of use must also be [taken note of -→noticed :|False] informing , interacting , discussion [and others→, or something else|False] .</s2>
+<s3>The types of use must also be taken note [of - informing→of-informing|False] , interacting , discussion and others .</s3>
+<s4>The types of use must also be taken note of - informing , interacting , discussion and others .</s4>

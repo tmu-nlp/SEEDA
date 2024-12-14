@@ -1,0 +1,10 @@
+<Source with context>
+Focus on the negative side of the annouance of genetic risk first .
+<t>[Large numbers of] patients with [the] genetic risk would want to keep it [as] a secret as [the] genetic risk may [indicates] [their] high chance [to] [carry] certain [disease] .</t>
+Especially for the young people without marrige , if he/she is known to have some genetic risk , it may have certain chance that his/her child would carry the same disease , but not in certain .
+
+<Correction>
+<s1>[Large numbers of→Many|True] patient with the genetic risk would want to keep it [as a→|True] secret [→,|False] [as→because|True] the genetic risk may [indicates→indicate|True] [their→a|True] high chance [to→of|True] [carry→carrying|True] [→a|True] certain disease .</s1>
+<s2>Large numbers of patients with the genetic risk would want to keep it [as→|True] a secret as the genetic risk may [indicates→indicate|True] their high chance to carry certain [disease→diseases|True] .</s2>
+<s3>Large numbers of patients with [the→|True] genetic risk would want to keep it [as→|True] a secret as the genetic risk may [indicates→indicate|True] their high chance [to→of|True] [carry→carrying|True] [→a|True] certain disease .</s3>
+<s4>Large numbers of patients with the genetic risk would want to keep it as a secret as the genetic risk may [indicates→indicate|True] their high chance [to→of|True] [carry→carrying|True] certain [disease→diseases|True] .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+As citizens of a nation , they have the responsibility to support their country in many ways .
+<t>Moreover , in the world we are living [] today , many [miscarriages conducted] in [hospital] every day .</t>
+It is easier for people to accept it morally .
+
+<Correction>
+<s1>Moreover , in the world we are living [→in|True] today , many miscarriages conducted in hospital every day .</s1>
+<s2>Moreover , in the world we are living [→in|True] today , many miscarriages [→are|True] conducted in hospital every day .</s2>
+<s3>Moreover , in the world we are living [→in|True] today , many miscarriages [→are|True] conducted in [→the|False] hospital every day .</s3>
+<s4>Moreover , in the world we are living today , many miscarriages [→are|True] conducted in [→the|False] hospital every day .</s4>

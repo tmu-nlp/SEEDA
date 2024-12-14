@@ -1,0 +1,9 @@
+<Source with context>
+In the past , people used to writing letters to their friends and it will take relatively long time to send the letter over .
+<t>Therefore , with the help of technology , people are able to catch up [wth] each other conveniently .</t>
+Furthermore , it will be easier to make new friends find who have simliar interests or hobbies .
+
+<Correction>
+<s1>Therefore , with the help of technology , people are able to catch up [wth→with|True] each other conveniently .</s1>
+<s2>Therefore , with the help of technology , people are able to [catch→keep|True] [up→in|True] [wth each other→touch|True] conveniently .</s2>
+<s3>[Therefore , with→With|True] the help of technology , people [are→can|True] [able to→conveniently|True] catch up [wth→with|True] each other [conveniently→|True] .</s3>

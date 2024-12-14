@@ -1,0 +1,11 @@
+<Source with context>
+We can not deny that the social media sites truly make the old friends do not lose the information and the chances to communicate with you even you are in a different country .
+<t>However , [the] social media sites truly reduce the communication [in] face-to-face which truly affects interpersonal skills .</t>
+There are two advantages and two disadvantages of using the social media in people 's daily life .
+
+<Correction>
+<s1>However , [the→|True] social media sites truly reduce [the→|True] communication [in face-to-face→face - to - face ,|False] which truly affects interpersonal skills .</s1>
+<s2>However , [the→|True] social media sites truly reduce [the→|True] communication in face-to-face which truly affects interpersonal skills .</s2>
+<s3>However , [the→|True] social media sites truly reduce [the→|True] communication in [face-to-face→face - to - face|False] [→,|True] which truly affects interpersonal skills .</s3>
+<s4>However , the social media sites truly reduce the communication [in→|False] face-to-face which truly affects interpersonal skills .</s4>
+<s5>However , [the→|True] social media sites truly reduce [the→|True] communication [in→|False] face-to-face which truly affects interpersonal skills .</s5>

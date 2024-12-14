@@ -1,0 +1,7 @@
+<Source with context>
+To them , social media is the only resource they can approach to know everything happened in their home country and the way they can use to show their lives to their lovers as well .
+<t>What 's more , these days social media plays an important role in spreading [the] information .</t>
+Nowadays , people can just easily put their renting information on their facebook account and wait for the response from others who are from different parts of the world which brings us a huge amount of convenience .
+
+<Correction>
+<s1>What 's more , these days social media plays an important role in spreading [the→|True] information .</s1>

@@ -1,0 +1,10 @@
+<Source with context>
+This kind of ethical issue can not be judged by the others because they will not understand the position and duty of the carrier in the family .
+<t>In [conclude] , people should think carefully [of] [what] [is] the consequences of telling [the] relatives [] his or her [generic] disorder issue .</t>
+It is an obligation for a carrier to inform his relatives , but also an obligation for a family member to liven up the family .
+
+<Correction>
+<s1>In [conclude→conclusion|True] , people should think carefully [of→about|True] what [is→|True] the consequences of telling [the→|True] relatives his or her generic disorder issue .</s1>
+<s2>In [conclude→conclusion|True] , people should think carefully of what [is→are|True] the consequences of telling [the→their|True] relatives [his→|True] [or→about|True] [her→their|True] [generic→genetic|True] disorder [issue→|True] .</s2>
+<s3>In [conclude→conclusion|True] , people should think carefully of what [is→|True] the consequences of telling the relatives [→about|True] his or her generic disorder issue .</s3>
+<s4>In [conclude→conclusion|True] , people should think carefully [of→about|True] what [is→|True] the consequences of telling the relatives his or her generic disorder issue .</s4>

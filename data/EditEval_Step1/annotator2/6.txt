@@ -1,0 +1,11 @@
+<Source with context>
+This diagnosis can be regarded as a kind of privacy to carriers .
+<t>They may [do] not want this truth to influence their life or want to keep it as a secret and do not [] others know about it .</t>
+This is reasonable since the exposure of the truth of being a carrier may make them be discriminated or sympothized by others which is not positive factors brought to their life .
+
+<Correction>
+<s1>They may do not want this truth to influence their life or want to keep it as a secret and do not [→let|True] others know about it .</s1>
+<s2>They may [do→|True] not want this truth to influence their life or want to keep it as a secret and [do→|True] not [→let|True] others know about it .</s2>
+<s3>They may [do→|True] not want this truth to influence their life or want to keep it as a secret and do not [→want|True] others [→to|True] know about it .</s3>
+<s4>They may [do→|True] not want this truth to influence their life or want to keep it [as→|True] a secret and do not others know about it .</s4>
+<s5>They may [do→|True] not want this truth to influence their life or want to keep it [as→|True] a secret and [do→|True] not [→let|True] others know about it .</s5>

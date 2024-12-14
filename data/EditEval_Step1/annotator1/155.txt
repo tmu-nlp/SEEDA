@@ -1,0 +1,11 @@
+<Source with context>
+However , I believe that the benefits brought by these online chatting rooms tremendously outweigh their repercussions .
+<t>Social media enables us to explore [the world far far away] without paying expensive airplane tickets and [sparing] a one-week holiday .</t>
+The convenience is beyond description .
+
+<Correction>
+<s1>Social media enables us to explore the world far far away without paying [→for|True] expensive airplane tickets and sparing a one-week holiday .</s1>
+<s2>Social media enables us to explore the world [far→|True] far away without paying [→for|True] expensive airplane tickets and sparing a one-week holiday .</s2>
+<s3>Social media enables us to explore the world far far away without paying expensive airplane tickets and sparing a [one-week→one - week|False] holiday .</s3>
+<s4>Social media enables us to explore the world [far→|True] far away without paying expensive airplane tickets and sparing a one-week holiday .</s4>
+<s5>Social media enables us to explore the world far [→,|True] far away without paying expensive airplane tickets and sparing a one-week holiday .</s5>

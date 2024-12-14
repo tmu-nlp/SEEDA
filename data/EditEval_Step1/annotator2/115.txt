@@ -1,0 +1,11 @@
+<Source with context>
+Nowadays we can not really trust new people whom we know from social media since we will never know whether they are even 'real' .
+<t>Some people fake their identities [in] media sites so that they can know more people [or] some may even cheat others .</t>
+In addition , privacy issue has become more popular nowadays since some people do not realize that they may actually share some information that they are not willing to share at the first place .
+
+<Correction>
+<s1>Some people fake their identities [in→on|True] media sites so that they can [know→meet|True] more people or some may even [cheat→deceive|True] others .</s1>
+<s2>Some people fake their identities in media sites so that they can know more people or some may even cheat others .</s2>
+<s3>Some people fake their identities [in→on|True] media sites so that they can know more people or some may even cheat others .</s3>
+<s4>Some people fake their identities [in→on|True] media sites so that they can [→get to|True] know more people or some may even cheat others .</s4>
+<s5>Some people fake their identities in media sites so that they can know more people [→,|True] [or→and|True] some may even cheat others .</s5>

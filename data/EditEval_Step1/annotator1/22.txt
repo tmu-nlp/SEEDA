@@ -1,0 +1,11 @@
+<Source with context>
+This is reasonable since the exposure of the truth of being a carrier may make them be discriminated or sympothized by others which is not positive factors brought to their life .
+<t>[Seconly] , the relatives of the carrier can also choose to do genetic testing regardless of the [dignosis] of the carrier .</t>
+When people want to check whether they are genetic risk carriers , they can go and approach a doctor to consult about it .
+
+<Correction>
+<s1>[Seconly→Secon|False] , the relatives of the carrier can also choose to do genetic testing regardless of the [dignosis→diagnosis|True] of the carrier .</s1>
+<s2>[Seconly→Secondly|True] , [the→|True] relatives of the carrier can also choose to do genetic testing regardless of the [dignosis→diagnosis|True] of the carrier .</s2>
+<s3>[Seconly→Secondly|True] , [the→|True] relatives of the carrier can also choose to do genetic testing regardless of the dignosis of the carrier .</s3>
+<s4>[Seconly→Secondly|True] , the relatives of the carrier can also choose to do genetic testing regardless of the dignosis of the carrier .</s4>
+<s5>[Seconly→Secondly|True] , the relatives of the carrier can also choose to do genetic testing regardless of the [dignosis→diagnosis|True] of the carrier .</s5>

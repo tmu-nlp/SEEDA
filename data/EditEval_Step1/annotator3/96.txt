@@ -1,0 +1,11 @@
+<Source with context>
+The appearance of social media sites truly connects people closely .
+<t>People can know their friends ' [recently] looks and interesting things [happens] [on] that [] [people] just by checking their [facebook] or other social media sites .</t>
+We can not deny that the social media sites truly make the old friends do not lose the information and the chances to communicate with you even you are in a different country .
+
+<Correction>
+<s1>People can know their friends ' [recently→recent|True] looks and interesting things [happens→happen|True] [on→to|True] [that→|True] people just by checking their [facebook→Facebook|True] or other social media sites .</s1>
+<s2>People can [know→find out|True] their friends ' [recently→recent|True] looks and interesting things [→that|True] [happens→happen|True] [on→to|True] [that→those|True] people just by checking their [facebook→Facebook|True] or other social media sites .</s2>
+<s3>People can know their friends ' [recently→recent|True] looks and interesting things [happens→happen|True] [on→to|True] [that people→them|True] just by checking their facebook or other social media sites .</s3>
+<s4>People can know [→what|True] their friends [→look|True] ['→like|True] recently [looks→|True] and interesting things [happens→happening|True] [on→in|True] [that→their|True] [people→lives|True] just by checking their [facebook→Facebook|True] or other social media sites .</s4>
+<s5>People can know their friends ' [recently→recent|True] looks and interesting things [happens→happen|True] [on→to|True] [that→|True] people just by checking their facebook or other social media sites .</s5>

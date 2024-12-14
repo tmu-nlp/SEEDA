@@ -1,0 +1,11 @@
+<Source with context>
+Many people may support with a theory that every people have their right to enjoy the world , especially people with religions .
+<t>However , the problem is , will the people really enjoy their life if they have to stay at hospital [everyday] [and] with all the needles and endless pain ?</t>
+Parents know what the best is for their children , thus they will make a right decision after they have be informed .
+
+<Correction>
+<s1>However , the problem is , will [the→|True] people really enjoy their life if they have to stay [at→in|True] [→the|True] hospital [everyday→every day|True] and with all the needles and endless pain ?</s1>
+<s2>However , the problem is , will [the→|True] people really enjoy their [life→lives|True] if they have to stay [→in|True] [at→a|True] hospital [everyday→every|True] [and→day ,|True] with all the needles and endless pain ?</s2>
+<s3>However , the problem is , will [the→|True] people really enjoy their life if they have to stay [at→in|False] hospital everyday and with all the needles and endless pain ?</s3>
+<s4>However , the problem is , will [the→|True] people really enjoy their life if they have to stay at hospital everyday and with all the needles and endless pain ?</s4>
+<s5>However , the problem is , will the people really enjoy their life if they have to stay at [→the|True] hospital everyday and with all the needles and endless pain ?</s5>

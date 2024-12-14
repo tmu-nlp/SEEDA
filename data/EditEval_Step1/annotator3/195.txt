@@ -1,0 +1,9 @@
+<Source with context>
+Furthermore , the convenience of social media is also its weakness .
+<t>A lot of people use [their] [true] information on social media sites , which can lead to [crimes] and deception .</t>
+People can use the information to deceive family and friends and banks to do bad things such as blackmail , ATM theft and so on .
+
+<Correction>
+<s1>A lot of people use their true information on social media sites , which can lead to crimes and deception .</s1>
+<s2>A lot of people use [their true→identifying|True] information on social media sites , which can lead to crimes and deception .</s2>
+<s3>A lot of people use their true information on social media sites , which can lead to [crimes→crime|True] and deception .</s3>

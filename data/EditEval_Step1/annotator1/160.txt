@@ -1,0 +1,10 @@
+<Source with context>
+Personally I am study in oversea , busy study life keeps me away from contact my old friend .
+<t>Using a common social media site with my friends [to help me know] what are their statuses nowadays .</t>
+And I am able to easily find a common topic when I contact them .
+
+<Correction>
+<s1>Using a common social media site with my friends to help me [know what are→keep up with|True] their statuses nowadays .</s1>
+<s2>Using a common social media site with my friends to help me know what [are→|True] their [statuses→status|True] [→is|True] nowadays .</s2>
+<s3>Using a common social media site with my friends to help me know what [are their statuses→their statuses are|True] nowadays .</s3>
+<s4>Using a common social media site with my friends [to help→helps|True] me know what are their statuses nowadays .</s4>

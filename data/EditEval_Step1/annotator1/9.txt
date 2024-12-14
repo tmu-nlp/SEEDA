@@ -1,0 +1,11 @@
+<Source with context>
+" This issue has been discussed for a long time .
+<t>However , there is still a [diversity of point of views] among [the people] .</t>
+Thus , we are going to identify the advantages and disadvantages of the issue which is " should or should not " .
+
+<Correction>
+<s1>However , there is still a diversity of [point→points|True] of [views→view|True] among the people .</s1>
+<s2>However , there is still a diversity of [point→points|True] of views among [the→|True] people .</s2>
+<s3>However , there is still a diversity of [point→points|True] of views among the people .</s3>
+<s4>However , there is still a diversity of [point→points|True] of [views→view|True] among [the→|True] people .</s4>
+<s5>However , there is still a diversity of point of views among [the→|True] people .</s5>

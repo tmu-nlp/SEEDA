@@ -1,0 +1,11 @@
+<Source with context>
+Therefore I believe the parents have their right to know the healthiness of their child .
+<t>Many people may support [with] a theory that every [people] [have] [their] right to enjoy the world , especially people [with religions] .</t>
+However , the problem is , will the people really enjoy their life if they have to stay at hospital everyday and with all the needles and endless pain ?
+
+<Correction>
+<s1>Many people may support [with→|False] a theory that every [people→person|True] [have→has|True] their right to enjoy the world , especially people with religions .</s1>
+<s2>Many people may support [with→the|True] [a→|True] theory that [every→everyone|True] [people have→has|True] [their→the|True] right to enjoy the world , especially people [with→of|True] [religions→faith|True] .</s2>
+<s3>Many people may support with a theory that every [people→person|True] [have→has|True] their right to enjoy the world , especially people with religions .</s3>
+<s4>Many people may support [with→the|True] [a→|True] theory that every [people→person|True] [have→has|True] their right to enjoy the world , especially people with [religions→religion|True] .</s4>
+<s5>Many people may support [with→the|True] [a→|True] theory that [every→all|True] people have their right to enjoy the world , especially people with religions .</s5>

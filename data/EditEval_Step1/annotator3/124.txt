@@ -1,0 +1,11 @@
+<Source with context>
+Thus I believe that social media sites are one of useful tool to help people known each other better .
+<t>However , social media [site] [is] a [double-sided] sword [,] [it] also [bring] [in] some negative [effect] on our daily [life] .</t>
+One of the disadvantage that many people concerns is that people loss the interest of face-to-face communication .
+
+<Correction>
+<s1>However , social media [site→sites|True] [is→are|True] a [double-sided→double-edged|True] sword [,→;|True] [it→they|True] also [bring in→have|True] some negative [effect→effects|True] on our daily [life→lives|True] .</s1>
+<s2>However , social media site is a double-sided sword , it also [bring→brings|True] in some negative [effect→effects|True] on our daily life .</s2>
+<s3>However , social media site is a double-sided sword , it also [bring→brings|True] in some negative effect on our daily life .</s3>
+<s4>However , social media [site→sites|True] [is→are|True] [a→|True] double-sided [sword→swords|True] , [it→they|True] also bring [in→about|True] some negative [effect→effects|True] on our daily [life→lives|True] .</s4>
+<s5>However , social media [site→sites|True] [is→are|True] a double-sided sword [,→.|True] [it→They|True] also [bring in→have|True] some negative [effect→effects|True] on our daily life .</s5>

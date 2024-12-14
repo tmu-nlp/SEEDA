@@ -1,0 +1,11 @@
+<Source with context>
+Intimate interaction greatly lack in social media interactions , particularly the touch .
+<t>Having to meet and interact [for talks] allows one to be closer to the [recepient] .</t>
+It involves a level of dynamic interaction which utlises the motor , thinking and verbal cortex of the mind to coordinate .
+
+<Correction>
+<s1>Having to meet and interact [for→to|True] [talks→talk|True] allows one to be closer to the [recepient→listener|True] .</s1>
+<s2>Having to meet and interact for talks allows one to be closer to the [recepient→recipient|True] .</s2>
+<s3>Having to meet and interact for talks allows one to be closer to the [recepient→receiver|False] .</s3>
+<s4>[Having to meet→Meeting|True] and [interact→interacting|True] for talks allows one to be closer to the [recepient→recipient|True] .</s4>
+<s5>Having to meet and interact [for→in|False] [talks→talking|False] allows one to be closer to the recepient .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+Have you ever wondered why we use these tools to connect ourselves with other people ?
+<t>It started [withthe] invention of technology which has evolved tremendously over the past few decades .</t>
+In the past , we travel by ship and now we can use airplane to do so .
+
+<Correction>
+<s1>It started [withthe→with the|True] invention of technology which has evolved tremendously over the past few decades .</s1>
+<s2>It started withthe invention of technology [→,|True] which has evolved tremendously over the past few decades .</s2>
+<s3>It started [withthe→with the|True] invention of technology [→,|True] which has evolved tremendously over the past few decades .</s3>
+<s4>It started [withthe→the|False] invention of technology which has evolved tremendously over the past few decades .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+Families are our dearest in our life .
+<t>Without their concern and support , [we] [are] hard to [stay] until [this time] .</t>
+They play the important role in our life which can not be substituted .
+
+<Correction>
+<s1>Without their concern and support , we [are→would have been|False] [hard→hard-pressed|False] to stay until this time .</s1>
+<s2>Without their concern and support , [we→it|True] are hard to stay until this time .</s2>
+<s3>Without their concern and support , we [are→would have|True] [→a|True] hard [to stay until this→|True] time [→continuing|True] .</s3>
+<s4>Without their concern and support , [we→it|True] [are→would be|True] hard to stay until this time .</s4>
+<s5>Without their concern and support , we are hard to stay until this time .</s5>

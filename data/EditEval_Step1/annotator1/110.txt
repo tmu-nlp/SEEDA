@@ -1,0 +1,11 @@
+<Source with context>
+When our phones are accidentally done , we can also use the social media to get contact with our friends .
+<t>Some people [who are try] to talk in the public can also actively take part in the group chatting via social media .</t>
+Besides , we can make more friends by such interactions when our friends also bring their friends in .
+
+<Correction>
+<s1>Some people who are [try→trying|True] to talk in the public can also actively take part in the group chatting via social media .</s1>
+<s2>Some people who [are→|True] try to talk in [the→|True] public can also actively take part in the group chatting via social media .</s2>
+<s3>Some people who [are→|True] try to talk in the public can also actively take part in [the→|True] group chatting via social media .</s3>
+<s4>Some people who [are→|True] try to talk in the public can also actively take part in the group chatting via social media .</s4>
+<s5>Some people who are [try→trying|True] to talk in [the→|True] public can also actively take part in [the→|True] group chatting via social media .</s5>

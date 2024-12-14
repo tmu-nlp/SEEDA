@@ -1,0 +1,8 @@
+<Source with context>
+Thirdly , a lot of updating of luxury living standard as well as other show-off situations may make people 's daily life more and more grandiloquent , which is not an accurate social growing trend .
+<t>Lastly , it is easy for people to waste a lot of time using social media .</t>
+Again , there is a trend for them to suffer from social media addition and their study and work may be greatly influenced .
+
+<Correction>
+<s1>[Lastly→Finally|False] , it is easy for people to waste a lot of time using social media .</s1>
+<s2>Lastly , it is easy for people to waste a lot of time using social media .</s2>

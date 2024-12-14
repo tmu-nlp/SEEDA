@@ -1,0 +1,10 @@
+<Source with context>
+One can not truly understand a person with only stalking his/her facebook page where he/she carefully chooses what to present .
+<t>One can not truly show their emotions [by] another by texting some = ) signs .</t>
+The broadcasting and viewing model is not good for forging relationships .
+
+<Correction>
+<s1>One can not truly show their emotions [by→to|True] another by texting some [= )→=)|True] signs .</s1>
+<s2>One can not truly show their emotions [by→to|True] another by texting some [= )→:)|True] signs .</s2>
+<s3>One can not truly show their emotions [by→to|True] another by texting some = ) signs .</s3>
+<s4>One can not truly show their emotions [by→with|True] another by texting some [= )→=)|True] signs .</s4>

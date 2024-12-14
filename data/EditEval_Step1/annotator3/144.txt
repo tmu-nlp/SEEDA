@@ -1,0 +1,10 @@
+<Source with context>
+It is obvious to see that internet saves people 's time and also connect people globally .
+<t>Several arguments have been made regarding [the] social media actually [have] some inevitable disadvantages [to] people .</t>
+People can only use electical devices to access internet .
+
+<Correction>
+<s1>Several arguments have been made regarding [the→|True] social media [→, which|True] actually [have→has|True] some inevitable disadvantages [to→for|True] people .</s1>
+<s2>Several arguments have been made regarding [the→|True] social media actually [have→having|True] some inevitable disadvantages to people .</s2>
+<s3>Several arguments have been made regarding the [→inevitable disadvantages|True] social media [actually→may|True] have [some inevitable disadvantages to→for|True] people .</s3>
+<s4>Several arguments have been made regarding [the→that|True] social media actually [have→has|True] some inevitable disadvantages to people .</s4>

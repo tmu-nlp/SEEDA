@@ -1,0 +1,10 @@
+<Source with context>
+For those who lives within the community should at least meet up , and not use social media as the primary source of communcation with each other .
+<t>And at the same time , improves [the] interpersonal [skill] , through dynamic [practises] [betwwen] individuals and realtime [presence] .</t>
+The inclusion of intimate presence and relative touch could also bring a better rapport between those interacting .
+
+<Correction>
+<s1>And at the same time , [→it|True] improves the interpersonal skill , through dynamic practises [betwwen→between|True] individuals and realtime presence .</s1>
+<s2>[And at→At|True] the same time , [→it|True] improves [the→|True] interpersonal [skill→skills|True] [,→|True] through dynamic [practises→practices|True] [betwwen→between|True] individuals and [realtime→real-time|True] presence .</s2>
+<s3>And at the same time , improves the interpersonal skill , through dynamic practises [betwwen→between|True] individuals and realtime presence .</s3>
+<s4>And at the same time , [improves→improved|True] the interpersonal skill , through dynamic practises betwwen individuals and realtime presence .</s4>

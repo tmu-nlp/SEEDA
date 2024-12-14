@@ -1,0 +1,11 @@
+<Source with context>
+Firstly , they have lost the courage to meet strangers , not even the courage to talk .
+<t>Also , they will not have enough experience to communicate with people [in face] and not [be] trained in their conversation skills .</t>
+As a result , social media helps them do the jobs but indirectly affects their interpersonal skills .
+
+<Correction>
+<s1>[Also→Additionally|True] , they will not have enough experience to communicate with people in [face→person|True] and not be trained in their conversation skills .</s1>
+<s2>Also , they will not have enough experience to communicate with people [in→face - to -|True] face and not be trained in their conversation skills .</s2>
+<s3>Also , they will not have enough experience to communicate with people [in face→|True] and not be trained in their conversation skills .</s3>
+<s4>Also , they will not have enough experience to communicate with people [in→face to|True] face and [→will|True] not be trained in their conversation skills .</s4>
+<s5>Also , they will not have enough experience to communicate with people [in face→face-to-face|True] and [→will|True] not be trained in [their→|True] conversation skills .</s5>

@@ -1,0 +1,11 @@
+<Source with context>
+Nowadays , as the technology is becoming increasingly advanced , more and more social media sites are showing up in our daily life .
+<t>You can see people [playing] Facebook [,] Twitter [through] their smart phones or [ipad] on buses or on trains .</t>
+Some may say that the appearance for these modern media will reduce the chance for people to communicate face to face .
+
+<Correction>
+<s1>You can see people playing Facebook , Twitter through their smart phones [or→,|False] ipad on buses or on trains .</s1>
+<s2>You can see people playing Facebook , Twitter through their [smart phones→smartphones|True] or [ipad→iPad|True] on buses or on trains .</s2>
+<s3>You can see people playing Facebook , Twitter through their smart phones or [ipad→ipads|False] on buses or on trains .</s3>
+<s4>You can see people playing Facebook [,→and|True] Twitter through their smart phones or [ipad→ipads|False] on buses or on trains .</s4>
+<s5>You can see people playing Facebook [,→and|True] Twitter through their smart phones or [ipad→iPads|False] on buses or on trains .</s5>

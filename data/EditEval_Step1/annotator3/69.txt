@@ -1,0 +1,10 @@
+<Source with context>
+When we were born , we were surrounded by our family and relatives , with them welcoming us to this new world .
+<t>We were crying hard [] but we [are] not alone , it 's our family and relatives [that] [grow] us [up] .</t>
+Hence , they should be the people be grateful for and the people we would like to share the joy together .
+
+<Correction>
+<s1>We were crying hard but we are not alone [, it→. It|True] 's our family and relatives that grow us up .</s1>
+<s2>We were crying hard but we [are→were|True] not alone [,→;|True] it 's our family and relatives that [grow→raise|True] us [up→|True] .</s2>
+<s3>We were crying hard but we [are→were|True] not alone , it 's our family and relatives [that→who|True] [grow→raised|True] us [up→|True] .</s3>
+<s4>We were crying hard [→,|True] but we [are→were|True] not alone [, it 's→|True;] our [family→families|True] and relatives [that grow→raised|True] us [up→|True] .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+But , if it is a terminal disease as a genetic disease , most of the relatives will be disheartened upon having the knowledge about it .
+<t>Therefore , some carriers will have the [opinion] of keeping it as a secret .</t>
+This essay will discuss about whether a carrier of a known genetic risk should tell his or her relatives or not .
+
+<Correction>
+<s1>Therefore , some carriers will have the [opinion→idea|True] of keeping it [as→|True] a secret .</s1>
+<s2>Therefore , some carriers will have the opinion of keeping it [as→|True] a secret .</s2>
+<s3>Therefore , some carriers will have the opinion of keeping it as a secret .</s3>
+<s4>Therefore , some carriers will [have the opinion→prefer|True] [of→to] [keeping→keep|True] it [as→|True] a secret .</s4>

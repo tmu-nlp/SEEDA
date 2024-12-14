@@ -1,0 +1,10 @@
+<Source with context>
+In old days , if one wants to tell some important news to another one , which lives far away , he needs to write letters and it wastes time .
+<t>The long [distance] and time-consuming [] [make] spreading the messages very difficult at that time .</t>
+Therefore , people may not contact with the faraway friends and relatives unless there are something important .
+
+<Correction>
+<s1>The long distance and time-consuming [make→nature made|True] spreading [the→|True] messages very difficult at that time .</s1>
+<s2>[The long→Long|False] distance and time-consuming make spreading the messages very difficult at that time .</s2>
+<s3>The long distance and [time-consuming→time - consuming|False] [make→makes|False] spreading [the→|True] messages very difficult at that time .</s3>
+<s4>The long distance and time-consuming make spreading the messages very difficult [at that time→|False] .</s4>

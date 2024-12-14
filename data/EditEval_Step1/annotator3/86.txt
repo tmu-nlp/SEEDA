@@ -1,0 +1,11 @@
+<Source with context>
+This is related to the interpersonal skill that is mentioned before , that can be decreasing qualitatively if we are used to facing gadget , not facing human being .
+<t>Another disadvantage that affects other people is that by only showing selected [part] of our lives , we build [] " false image " in public .</t>
+We tend to only share our happy moments in media .
+
+<Correction>
+<s1>Another disadvantage that affects other people is that by only showing selected [part→parts|True] of our lives , we build " false [image→images|True] " in public .</s1>
+<s2>Another disadvantage that affects other people is that by only showing [→a|False] selected [part→parts|True] of our lives , we build [→a|True] " false image " in public .</s2>
+<s3>Another disadvantage that affects other people is that by only showing [→a|True] selected part of our lives , we build [→a|True] " false image " in public .</s3>
+<s4>Another disadvantage that affects other people is that by only showing selected part of our lives , we build [→a|True] " false image " in public .</s4>
+<s5>Another disadvantage that affects other people is that by only showing selected [part→parts|True] of our lives , we build [→a|True] " false image " in public .</s5>

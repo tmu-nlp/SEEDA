@@ -1,0 +1,10 @@
+<Source with context>
+The largest negative impact is that due to the online network , some people start to use and rely on internet every minute .
+<t>They take too much time [of] using online social [network] and thus do not have time to have [their daily meeting] with people in their real life .</t>
+It not only affect the interpersonal skills but also bad for people 's health if the ones spend to much time on the social media .
+
+<Correction>
+<s1>They take too much time [of→|True] using online social [network→networks|True] and thus do not have time to [have their daily meeting with→meet|True] people [→in person|True] in their [real→daily|True] [life→lives|True] .</s1>
+<s2>They take too much time [of→|True] using online social [network→networks|True] and thus do not have time to have their daily meeting with people in their real life .</s2>
+<s3>They take too much time [of→|True] using online social [network→networks|True] and thus do not have time to have their daily [meeting→meetings|True] with people in their real life .</s3>
+<s4>They [take→spend|True] too much time [of→|True] using online social [network→networks|True] and thus do not have time to have their daily [meeting→meetings|True] with people in their real life .</s4>

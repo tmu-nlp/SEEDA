@@ -1,0 +1,10 @@
+<Source with context>
+Furthermore the act of informing others without the consent from their parents or the patients itself could harm the psychological state of the affected family .
+<t>Thus , much thought [need] to put on the immediate family as it could [caused] a stir of unwanted events [from] the patient or the family members [itself] .</t>
+Some family may feel hurt , with regards to their family pride or reputation , on having the knowledge of such genetic disorder running in their family .
+
+<Correction>
+<s1>Thus , much thought [need→needs|True] to [→be|True] put on the immediate family [→,|True] [as→since|True] it could [caused→cause|True] a [stir→chain|True] of unwanted events from the patient or the family members [itself→|True] .</s1>
+<s2>Thus , much thought need to put on the immediate family as it could [caused→cause|True] a stir of unwanted events from the patient or the family members itself .</s2>
+<s3>Thus , much thought [need→needs|True] to [→be|True] put on the immediate family as it could [caused→cause|True] a stir of unwanted events from the patient or the family members itself .</s3>
+<s4>Thus , much thought [need→needs|True] to [→be|True] put on the immediate family as it could [caused→cause|True] a stir of unwanted events from the patient or the family members [itself→themselves|True] .</s4>

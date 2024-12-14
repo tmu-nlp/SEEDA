@@ -1,0 +1,9 @@
+<Source with context>
+Nowadays , social media are able to disseminate information faster than any other media .
+<t>[There] [are] about 50 % of [the] people [who] [have] [learnt] about breaking news from social media .</t>
+This is due to people spending comparatively more time on social networking than time on reading newpapers .
+
+<Correction>
+<s1>[There are about→About|True] 50 % of [the→|True] people [who→|True] [have learnt→learn|True] about breaking news from social media .</s1>
+<s2>[There are about→Approximately|True] 50 % of [the→|True] people [who→|True] have [learnt→learned|True] about breaking news from social media .</s2>
+<s3>There are about 50 % of [the→|True] people who have learnt about breaking news from social media .</s3>

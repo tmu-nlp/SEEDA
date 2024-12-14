@@ -1,0 +1,10 @@
+<Source with context>
+I get news for sales , clothes and cosmetics from my friends .
+<t>If some of my friends have horrible taste [on] clothes and he/she posts them often , I can simply block him/her [off] .</t>
+Information got circulated .
+
+<Correction>
+<s1>If some of my friends have horrible taste [on→in|True] clothes and he/she posts them often , I can simply block [him/her→him / her|False] off .</s1>
+<s2>If some of my friends have horrible taste [on→in|True] [clothes→clothing|True] and [he/she→he|False] posts them often , I can simply block [him/her→him|False] [off→|True] .</s2>
+<s3>If some of my friends have horrible taste [on→in|True] clothes and [he/she→they|True] [posts→post|True] them often , I can simply block [him/her→them|True] off .</s3>
+<s4>If some of my friends have horrible taste [on→in|True] clothes and he/she posts them often , I can simply block him/her off .</s4>

@@ -1,0 +1,9 @@
+<Source with context>
+One of the reasons why is because as a carrier , she or he needs a mental support to go through with this situation .
+<t>It will be hard for an individual to deal with the issue on [its] own .</t>
+By telling to his or her family other than being a support , they could possibly help her to get alternative solutions to the problem that she is facing right now .
+
+<Correction>
+<s1>It will be hard for an individual to deal with the issue on [its→his|True] own .</s1>
+<s2>It will be hard for an individual to deal with the issue on [its→their|True] own .</s2>
+<s3>It will be hard for an individual to deal with the issue on [its→her|True] own .</s3>

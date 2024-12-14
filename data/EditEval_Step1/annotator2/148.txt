@@ -1,0 +1,11 @@
+<Source with context>
+They take too much time of using online social network and thus do not have time to have their daily meeting with people in their real life .
+<t>It not only [affect] the interpersonal skills but [] also bad for people 's health if [the ones] spend [to] much time on [the] social media .</t>
+Secondly , social network may leak certain personal informations to the public , as the cyber environment is not perfect and not safe , people may not protect their privacy online effectively and sometimes , some people may use others personal information to deceive .
+
+<Correction>
+<s1>It not only [affect→affects|True] the interpersonal skills but [→is|True] also bad for people 's health if [the→|True] [ones→one|True] [spend→spends|True] [to→too|True] much time on the social media .</s1>
+<s2>It not only [affect→affects|True] the interpersonal skills but also bad for people 's health if the ones spend [to→too|True] much time on [the→|True] social media .</s2>
+<s3>It not only [affect→affects|True] [the→|True] interpersonal skills but [→it is|True] also bad for people 's health if [the→they|True] [ones→|True] spend [to→too|True] much time on [the→|True] social media .</s3>
+<s4>It not only [affect→affects|True] [the→|True] interpersonal skills but [→is|True] also bad for people 's health if [the→they|True] [ones→|True] spend [to→too|True] much time on [the→|True] social media .</s4>
+<s5>It not only [affect→affects|True] [the→|True] interpersonal skills [→,|True] but [→it|False] also bad for people 's health if [the→they|True] [ones→|True] spend [to→too|True] much time on [the→|True] social media .</s5>

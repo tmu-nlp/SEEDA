@@ -1,0 +1,10 @@
+<Source with context>
+Once we found we were carrying this genetic risk , it is better for us to tell our family members because they may carry it as well .
+<t>If we tell them , they may start paying more attention to their daily habits like eating less sugar [contained food] and [keeping] a good mood .</t>
+And it is important for those young people .
+
+<Correction>
+<s1>If we tell them , they may start paying more attention to their daily habits [→,|True] like eating less sugar contained food and keeping a good mood .</s1>
+<s2>If we tell them , they may start paying more attention to their daily habits [→,|True] like eating less sugar [→-|False] contained food and keeping a good mood .</s2>
+<s3>If we tell them , they may start paying more attention to their daily habits like eating less sugar [→-|False] contained food and keeping a good mood .</s3>
+<s4>If we tell them , they may start paying more attention to their daily habits like eating less [sugar→sugary|True] [contained→|True] food and keeping a good mood .</s4>

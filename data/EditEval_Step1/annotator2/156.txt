@@ -1,0 +1,9 @@
+<Source with context>
+Secondly , people makes friends all over the world and able to update their friends his recent activity easily .
+<t>A guy who is going [] travel for months can easily tell all of his friends about his activity .</t>
+When one of his friends who is not aware of this has failed to contact him via telephone calls , he might be able to get his whereabout using social media .
+
+<Correction>
+<s1>A guy who is going [→to|True] travel for months can easily tell all of his friends about his [activity→activities|True] .</s1>
+<s2>A guy who is going travel for months can easily tell all of his friends about his [activity→activities|True] .</s2>
+<s3>A guy who is going [→to|True] travel for months can easily tell all of his friends about his activity .</s3>

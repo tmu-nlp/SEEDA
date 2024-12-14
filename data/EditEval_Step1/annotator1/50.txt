@@ -1,0 +1,10 @@
+<Source with context>
+Carrier of a known genetic risk should be obligated to tell his or her relatives
+<t>Nowadays , people not only [pursuit] the comfort of their own life but also a better development [of] their following generations .</t>
+Since the technology of modern society has been so advanced , it becomes possible for people to make decision to take genetic test so as to be clear whether or not they carry genetic risk which can affect their next generation .
+
+<Correction>
+<s1>Nowadays , people not only [pursuit→pursue|True] the comfort of their own [life→lives|True] but also a better development of their [following→future|True] generations .</s1>
+<s2>Nowadays , people not only [pursuit→pursue|True] the comfort of their own life but also a better development of their following generations .</s2>
+<s3>Nowadays , people not only [pursuit→pursue|True] the comfort of their own life but also a better development of [their→the|True] following generations .</s3>
+<s4>Nowadays , people not only [pursuit→pursue|True] the comfort of their own life but also [a→the|True] better development of their following generations .</s4>

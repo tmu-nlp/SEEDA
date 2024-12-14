@@ -1,0 +1,11 @@
+<Source with context>
+There are many people in the social media with beautiful image and good content in their pages , however in real life , he or she may do not have jobs or live poorly .
+<t>Teenagers may believe these people and easily [be] [cheat] and lose money [] even their safe .</t>
+Therefore , the social media is not safe which is bad to teenager 's future development .
+
+<Correction>
+<s1>Teenagers may believe these people [and→can|False] easily be [cheat→cheated|True] and lose money even [their→if they are|False] safe .</s1>
+<s2>Teenagers may believe these people and easily [be→|False] cheat and lose money even [their→if they are|False] safe .</s2>
+<s3>Teenagers may believe these people and [→they can|True] easily be cheat and lose money even [their→if they are|False] safe .</s3>
+<s4>Teenagers may believe these people and easily be [cheat→cheated|True] and lose money even their safe .</s4>
+<s5>Teenagers may believe these people and easily be [cheat→deceived|True] and lose money even [their→if they are|False] safe .</s5>

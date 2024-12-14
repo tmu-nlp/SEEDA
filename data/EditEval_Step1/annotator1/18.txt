@@ -1,0 +1,10 @@
+<Source with context>
+If the genetic risk carrier is a minor or a child , then most likely the decision of informing the relative should be made with the consideration of the patients parents or legal guardian .
+<t>Such patients are still emotionally volatile or they may be unaware of the consequences of [such genetic disorder] due to their young age .</t>
+Furthermore the act of informing others without the consent from their parents or the patients itself could harm the psychological state of the affected family .
+
+<Correction>
+<s1>Such patients are still emotionally volatile or [they→|True] may be unaware of the consequences of such genetic [disorder→disorders|True] [→,|True] due to their young age .</s1>
+<s2>Such patients are still emotionally volatile or they may be unaware of the consequences of such [→a|True] genetic disorder due to their young age .</s2>
+<s3>Such patients are still emotionally volatile or they may be unaware of the consequences of such genetic [disorder→disorders|True] due to their young age .</s3>
+<s4>Such patients are still emotionally volatile [→,|False] or they may be unaware of the consequences of such genetic [disorder→disorders|True] due to their young age .</s4>

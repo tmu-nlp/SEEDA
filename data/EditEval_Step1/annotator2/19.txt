@@ -1,0 +1,9 @@
+<Source with context>
+Some will wish to keep it to themselves and hope to ensure that they will not bring in any pessimism into their family .
+<t>Furthermore , some will wish not to become a burden [of] anyone as seeking medical attention is relatively costly .</t>
+Hence , some seen it as being considerate in keeping the genetic risk of getting the disease in confidential .
+
+<Correction>
+<s1>Furthermore , some will wish not to become a burden [of→to|True] anyone as seeking medical attention is relatively costly .</s1>
+<s2>Furthermore , some will wish not to become a burden [of→to|True] anyone [→,|True] [as→since|True] seeking medical attention is relatively costly .</s2>
+<s3>Furthermore , some will wish not to become a burden [of→on|True] anyone as seeking medical attention is relatively costly .</s3>

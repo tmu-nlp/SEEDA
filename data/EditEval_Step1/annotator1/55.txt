@@ -1,0 +1,10 @@
+<Source with context>
+Some genetic gene will pass only to boys rather than girls , some are on the contrary .
+<t>If the carrier refuses to tell the truth to his or her spouse , another life [may have risk] of inheriting the genetic disease .</t>
+I noticed a real story on newspaper years ago .
+
+<Correction>
+<s1>If the carrier refuses to tell the truth to his or her spouse , another life may have [→a|True] risk of inheriting [the→|True] genetic disease .</s1>
+<s2>If the carrier refuses to tell the truth to his or her spouse , another life may have [→a|True] risk of inheriting the genetic disease .</s2>
+<s3>If the carrier refuses to tell the truth to his or her spouse , another life may have [→the|True] risk of inheriting the genetic disease .</s3>
+<s4>If the carrier refuses to tell the truth to [his or→|False] [her→their|False] spouse , another life may [have→|True] risk [of→|True] inheriting the genetic disease .</s4>

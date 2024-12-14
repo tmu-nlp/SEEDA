@@ -1,0 +1,9 @@
+<Source with context>
+There are still many disadvantages of using social media .
+<t>Firstly , interpersonal skills may be [affacted] by the reduction in face-to-face human contact .</t>
+While social media brings convenience to people life , people are more and more willing to use social media for chatting instead of face-to-face chatting which has a time and place requirement .
+
+<Correction>
+<s1>[Firstly→First|True] , interpersonal skills may be [affacted→affected|True] by the reduction in face-to-face human contact .</s1>
+<s2>Firstly , interpersonal skills may be [affacted→affected|True] by the reduction in face-to-face human contact .</s2>
+<s3>Firstly , interpersonal skills may be [affacted→affected|True] by the reduction in [face-to-face→face - to - face|False] human contact .</s3>

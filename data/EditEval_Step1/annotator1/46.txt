@@ -1,0 +1,10 @@
+<Source with context>
+I belive that even the carrier has the right not to know the true fact .
+<t>After realizing [the] he or she is [tshe] carrier , the emotional damage would be hard to bear .</t>
+It could possibly causes a problem in a family due to the fact and creates more unhappiness int the family .
+
+<Correction>
+<s1>After realizing the he or she is [tshe→the|True] carrier , the emotional damage would be hard to bear .</s1>
+<s2>After realizing [the→that|True] he or she is [tshe→a|True] carrier , the emotional damage would be hard to bear .</s2>
+<s3>After realizing the he or she is [tshe→her|False] carrier , the emotional damage would be hard to bear .</s3>
+<s4>After realizing the he or she is [tshe→a|True] carrier , the emotional damage would be hard to bear .</s4>

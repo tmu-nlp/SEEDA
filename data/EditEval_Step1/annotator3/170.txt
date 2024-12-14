@@ -1,0 +1,11 @@
+<Source with context>
+Besides that , these skills requires time to develop and adapted .
+<t>The burgeoning of social media definitely [has] its [stint] ; but [amongst] all good things , it is better [to have them] in moderation .</t>
+Convenience and efficiency are two very important use of social media .
+
+<Correction>
+<s1>The burgeoning of social media definitely has its stint ; but amongst all [→the|True] good things , it is better to have them in moderation .</s1>
+<s2>The burgeoning of social media definitely has its [stint→stand|False] ; but amongst all good things , it is better to have them in moderation .</s2>
+<s3>The burgeoning of social media definitely has its stint ; but [amongst→among|True] all good things , it is better to have them in moderation .</s3>
+<s4>The burgeoning of social media [→has|True] definitely [has→had|True] its [stint ;→time|True] but [→,|True] [amongst→like|True] all good things , it is better [to have them→|True] in moderation .</s4>
+<s5>The burgeoning of social media definitely has its stint ; but [amongst→like|True] all good things , it is better to have them in moderation .</s5>

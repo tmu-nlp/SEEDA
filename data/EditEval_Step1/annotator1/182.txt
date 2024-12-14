@@ -1,0 +1,10 @@
+<Source with context>
+These are the advantages that save works most of the time .
+<t>[In] conclude , [socia] media benefits people in several ways but [in] the same time harms people .</t>
+People should avoid the misuse of socia media and use it in the proper way .
+
+<Correction>
+<s1>In [conclude→conclusion|True] , [socia→social|True] media benefits people in several ways but [in→at|True] the same time harms people .</s1>
+<s2>In [conclude→conclusion|True] , [socia→social|True] media benefits people in several ways but [→,|True] [in→at|True] the same time [→,|True] harms people .</s2>
+<s3>In conclude , [socia→social|True] media benefits people in several ways but [in→at|True] the same time harms people .</s3>
+<s4>In [conclude→conclusion|True] , socia media benefits people in several ways but [→,|True] [in→at|True] the same time [→,|True] harms people .</s4>

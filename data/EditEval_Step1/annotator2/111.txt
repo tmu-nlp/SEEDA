@@ -1,0 +1,10 @@
+<Source with context>
+I believe that most of us agree with these terms .
+<t>However , there is news about the social media sites [leaks] users ' information to companies [with] cash reimbursement .</t>
+Everything we type in the social media sites is recorded in the server and then transfer to the companies for spying and advertising .
+
+<Correction>
+<s1>However , there is news about [the→|True] social media sites [leaks→leaking|True] users ' information to companies with cash reimbursement .</s1>
+<s2>However , there is news about the social media sites [leaks→leaking|True] users ' information to companies with cash reimbursement .</s2>
+<s3>However , there [is→has been|True] news about [the→|True] social media sites [leaks→leaking|True] users ' information to companies [with→for|True] cash reimbursement .</s3>
+<s4>However , there is news about [the→|True] social media sites [leaks→leaking|True] users ' information to companies [with→for|True] cash reimbursement .</s4>

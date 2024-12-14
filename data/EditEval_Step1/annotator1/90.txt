@@ -1,0 +1,11 @@
+<Source with context>
+Nowadays , the advancement of technologies improves the life of many people a lot .
+<t>In most [of the] countries , there is an emergence of social media sites such as Facebook and Twitter .</t>
+Many people think that the social media sites have benefits on the communication between people while some others argue that there are several negative impacts for the society .
+
+<Correction>
+<s1>In most [of the→|True] countries , there is an emergence of social media sites such as Facebook and Twitter .</s1>
+<s2>[In most→Most|True] [of the→|True] countries [, there→have|True] [is→witnessed|True] an emergence of social media sites such as Facebook and Twitter .</s2>
+<s3>In most [of the→|True] countries , there is [an→the|False] emergence of social media sites such as Facebook and Twitter .</s3>
+<s4>In most [of the→|True] countries , there [is→has been|True] an emergence of social media sites such as Facebook and Twitter .</s4>
+<s5>In most of the countries , there is an emergence of social media sites such as Facebook and Twitter .</s5>

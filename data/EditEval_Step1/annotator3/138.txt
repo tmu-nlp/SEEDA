@@ -1,0 +1,10 @@
+<Source with context>
+Howard Garner studied the effect of multiple intelligences amongst people and stated that interpersonal intelligence is a form of skills on its own - some has it , some does not .
+<t>Howard [Garner] mentioned that [the] different intelligences can be charted , in accordance [of] [utilising] tests , and ranked .</t>
+Fundamentally , those who scored lower ranking for interpersonal skills are more likely to stumble when this skill is needed .
+
+<Correction>
+<s1>Howard Garner mentioned that [the→|True] different intelligences can be charted , in accordance [of utilising→withering|False] tests , and ranked .</s1>
+<s2>[Howard→However ,|False] Garner mentioned that the different intelligences can be charted , in accordance of utilising tests , and ranked .</s2>
+<s3>Howard Garner mentioned that the different intelligences can be charted , in accordance [of→for|False] utilising tests , and ranked .</s3>
+<s4>Howard Garner mentioned that the different intelligences can be charted , in accordance [of→with|True] [utilising→utilizing|True] tests , and ranked .</s4>

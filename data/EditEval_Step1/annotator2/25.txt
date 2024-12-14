@@ -1,0 +1,10 @@
+<Source with context>
+For instance , John is informed by his doctor that he is at risk for a genetic disorder but he does not tell his sibling , James about this .
+<t>Although telling James about this is horrible to some extent , he should know what [will] [be] likely to be going on for him .</t>
+This might be beneficial for his future if he is aware of the risk of having this disorder .
+
+<Correction>
+<s1>Although telling James about this is horrible to some extent , he should know what [will be→is|True] likely to be going on for him .</s1>
+<s2>Although telling James about this is horrible to some extent , he should know what will be likely to be going on for him .</s2>
+<s3>Although telling James about this is horrible to some extent , he should know what [will be→is|True] likely to be going on [for→with|True] him .</s3>
+<s4>Although telling James about this is horrible to some extent , he should know what will be likely to be going on [for→around|True] him .</s4>

@@ -1,0 +1,9 @@
+<Source with context>
+Hence , they will be able to seek help from medical specialists to find a cure or to do some measures to prevent the risk of getting the disease .
+<t>Nevertheless , it will depend on [what] kind of genetic diseases [,] [] [given] [in] the [context] [of] current medical technology .</t>
+For example , breast cancer is a genetic disease and it can be cured if it is being realised in the early stage .
+
+<Correction>
+<s1>[Nevertheless→In all cases|True] , it will depend on what [kind→|True] [of→the|True] genetic diseases [→are|True] , [given→as well|True] [in→as|True] the [context of→|True] current medical technology .</s1>
+<s2>Nevertheless , it will depend on what kind of genetic diseases , [given→|True] in the context of current medical technology .</s2>
+<s3>Nevertheless , it will depend on what kind of genetic diseases [,→are|False] given in the context of current medical technology .</s3>

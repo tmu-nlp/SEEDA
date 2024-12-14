@@ -1,0 +1,10 @@
+<Source with context>
+In my opinion , every individual has to take responsibility of their own lives by making a right decision .
+<t>There are advantages and disadvantages in using social media sites , however in this case striking [] balance between social media and [lives] is the most important thing to do .</t>
+Nowadays , the use of the sociall media platforms is a commonplace in our lives .
+
+<Correction>
+<s1>There are advantages and disadvantages [in→to|True] using social media sites [→.|True] [, however→However ,|True] in this case striking [→a|True] balance between social media and [lives→life|True] is the most important thing to do .</s1>
+<s2>There are advantages and disadvantages [in→to|True] using social media sites , [however→However|False] in this case [→,|True] striking [→the|True] balance between social media and lives is the most important thing to do .</s2>
+<s3>There are advantages and disadvantages [in→to|True] using social media sites [→.|True] [, however→However ,|True] in this case [→,|True] striking [→a|True] balance between social media and lives is the most important thing to do .</s3>
+<s4>There are advantages and disadvantages in using social media sites , however [→,|True] in this case [→,|True] striking [→a|True] balance between social media and [→their real|True] lives is the most important thing to do .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+One might also choose to hint or encourage their certain relatives to run a gene test if they are concerned about negative consequences that comes across when they disclose their genetic results .
+<t>There are possible negative consequences [that those] might face if they disclose their genetic results to their [relative] .</t>
+If a person is obliged to tell his/her relatives , he or she might be discriminated by those who do not carry this gene .
+
+<Correction>
+<s1>There are possible negative consequences that [those→people|True] might face if they disclose their genetic results to their [relative→relatives|True] .</s1>
+<s2>There are possible negative consequences that those might face if they disclose their genetic results to their relative .</s2>
+<s3>There are possible negative consequences that those might face if they disclose their genetic results to their [relative→relatives|True] .</s3>
+<s4>There are possible negative consequences that [those→they|True] might face if they disclose their genetic results to their relative .</s4>

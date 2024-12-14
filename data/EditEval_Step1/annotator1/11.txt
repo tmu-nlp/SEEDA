@@ -1,0 +1,10 @@
+<Source with context>
+We can not blame them that they are liable to the undesired consequences .
+<t>However , [hospital] can provide a [councilor] [to advice] the carrier about the action [can be taken] .</t>
+Therefore , this kind of circumstances will not be happened again and again .
+
+<Correction>
+<s1>However , [→a|True] hospital can provide a [councilor→counselor|True] to [advice→advise|True] the carrier about the action [→that|True] can be taken .</s1>
+<s2>However , [hospital→hospitals|True] can provide a [councilor→counselor|True] to [advice→advise|True] the carrier about the [action→actions|True] [→that|True] can be taken .</s2>
+<s3>However , [→the|True] hospital can provide a councilor to [advice→advise|True] the carrier about the action [→that|True] can be taken .</s3>
+<s4>However , [→the|True] hospital can provide a councilor to advice the carrier about the action [can→to|True] be taken .</s4>

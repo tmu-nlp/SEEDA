@@ -1,0 +1,10 @@
+<Source with context>
+Firstly , the social media sites can connect people with their friends and parents closely .
+<t>By typing the words and showing the pictures , people can express [their] emotions that they are too shy to express .</t>
+For example , on mother 's day , people are shy to say " I love you " to their mothers so they can type it on his or her mother 's facebook page .
+
+<Correction>
+<s1>By typing the words and showing [the→|True] pictures , people can express their emotions that they are too shy to express [→themselves|True] .</s1>
+<s2>By typing [the→|True] words and showing [the→|True] pictures , people can express their emotions that they are too shy to express .</s2>
+<s3>By typing [the→|True] words and showing [the→|True] pictures , people can express [their→|True] emotions that they are [→otherwise|True] too shy to express .</s3>
+<s4>By typing the words and showing the pictures , people can express [their→|True] emotions that they are too shy to express .</s4>

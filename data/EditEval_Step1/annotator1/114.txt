@@ -1,0 +1,9 @@
+<Source with context>
+People around the world could easily share their thoughts about their governments .
+<t>That eliminates the [incomplete information disadvantage] for some remote rural regions where people are less aware of what actually is happening around them .</t>
+One of the examples is the 2012 riots happened in Egypt and Zambia .
+
+<Correction>
+<s1>That eliminates the [→disadvantage of|True] incomplete information [disadvantage→|True] for some remote rural regions [→,|False] where people are less aware of what [actually is→is actually|True] happening around them .</s1>
+<s2>That eliminates the incomplete information disadvantage for some remote rural regions where people are less aware of what actually is happening around them .</s2>
+<s3>That eliminates the incomplete information disadvantage for some remote rural regions where people are less aware of what [actually is→is actually|True] happening around them .</s3>

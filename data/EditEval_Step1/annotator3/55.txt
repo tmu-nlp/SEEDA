@@ -1,0 +1,11 @@
+<Source with context>
+I started invoving into Facebook one years ago,when I just arrived singapore .
+<t>And now I [got] over 500 friends on Facebook and [buried] myself with [hundrends] of [seeds] every day .</t>
+We know each others ' status , changements and so on through the social media .
+
+<Correction>
+<s1>And now I [got→have|True] over 500 friends on Facebook and [→have|True] buried myself with [hundrends→hundreds|True] of seeds every day .</s1>
+<s2>And now I [→have|True] got over 500 friends on Facebook and buried myself with [hundrends→thousands|True] of seeds every day .</s2>
+<s3>And now I [got→have|True] over 500 friends on Facebook and [buried→bury] myself with [hundrends→hundreds|True] of [seeds→messages|True] every day .</s3>
+<s4>And now I [→have|True] got over 500 friends on Facebook and buried myself with [hundrends→hundred|True] of seeds every day .</s4>
+<s5>And now I [got→'ve gotten|False] over 500 friends on Facebook and [→I 've been|False] buried myself with [hundrends→hundreds|True] of seeds every day .</s5>

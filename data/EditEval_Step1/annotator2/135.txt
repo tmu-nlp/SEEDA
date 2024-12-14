@@ -1,0 +1,11 @@
+<Source with context>
+In corporate world , employers often block social media network to prevent employees to spend their office time on their personal leisure than concentrating on their work .
+<t>Using text-messaging language as an informal way of communicating on social media [network] also [brings in] a bad impact for us in [a] long term .</t>
+The more time we spend on these sites , the lesser time we spend on face-to-face interacting with one another .
+
+<Correction>
+<s1>Using text-messaging language as an informal way of communicating on social media network also [brings in→has|True] a bad impact [for→on|True] us in [a→the|True] long term .</s1>
+<s2>Using [→the|True] [text-messaging→tex-messaging|False] language as an informal way of communicating on social media [network→networks|True] also [brings in→has|True] a bad impact for us in [a→the|True] long term .</s2>
+<s3>Using text-messaging language as an informal way of communicating on social media [network→networks|True] also [brings in→has|True] a bad impact [for→on|True] us in [a→the|True] long term .</s3>
+<s4>Using text-messaging language as an informal way of communicating on social media [network→networks|True] also brings [in→|True] a bad impact [for→on|True] us in [a→the|True] long term .</s4>
+<s5>Using text-messaging language as an informal way of communicating on social media [network→networks|True] also brings in a bad impact for us in [a→the|True] long term .</s5>

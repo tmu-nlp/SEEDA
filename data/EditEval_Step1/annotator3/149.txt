@@ -1,0 +1,11 @@
+<Source with context>
+Furthermore this also possibly triggers the privacy issues as the Facebook allows some other profit-driven companies to have access to the information on the users .
+<t>As this happens , users are more and more [pron] to any possible [frauds] .</t>
+Social media sites are at their peaks at the moment , however , I believe that when people realize that such sites are not making them better persons in real-life , they will not be indulged in it as much as they are now .
+
+<Correction>
+<s1>As this happens , users are more and more [pron→susceptible|True] to any possible frauds .</s1>
+<s2>As this happens , users are more and more [pron→prone|True] to any possible [frauds→fraud|True] .</s2>
+<s3>As this happens , users are more and more pron to any possible [frauds→fraud|True] .</s3>
+<s4>As this happens , users are more and more [pron→|False] to any possible [frauds→fraud|True] .</s4>
+<s5>As this happens , users are more and more [pron→exposed|True] to any possible [frauds→fraud|True] .</s5>

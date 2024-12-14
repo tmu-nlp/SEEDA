@@ -1,0 +1,10 @@
+<Source with context>
+For example , if an unmarried person has gene Aa and gene aa is sufficient for a very seriou disease .
+<t>After he takes the test and [be] obliged to tell his relatives , everyone [know] that he is a carrier .</t>
+So all the married couples go run a test and know they are not carriers.They might subconsiously see him as different and worry that he will find a wife who will carry this gene as well .
+
+<Correction>
+<s1>After he [takes→took|False] the test and [be→was|False] [obliged→obligated|False] to tell his relatives , everyone [know→knew|False] that he [is→was|False] a carrier .</s1>
+<s2>[After→after|True] he takes the test and [be→is|True] obliged to tell his relatives , everyone [→would|True] know that he is a carrier .</s2>
+<s3>After he takes the test and be obliged to tell his relatives , everyone [know→knows|True] that he is a carrier .</s3>
+<s4>After he takes the test and [be→is|True] obliged to tell his relatives , everyone [know→knows|False] that he is a carrier .</s4>

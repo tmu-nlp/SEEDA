@@ -1,0 +1,8 @@
+<Source with context>
+In the view of my point , a carrier of a known genetic risk should not be obligated to tell his or her relatives , with the support of the following reasons .
+<t>First of all , from the [angle of human right] , a genetic risk carrier should not be obligated to tell the truth to others .</t>
+This diagnosis can be regarded as a kind of privacy to carriers .
+
+<Correction>
+<s1>First of all , from the angle of human [right→rights|True] , a genetic risk carrier should not be obligated to tell the truth to others .</s1>
+<s2>First of all , from the [angle→perspective|True] of human [right→rights|True] , a genetic risk carrier should not be obligated to tell the truth to others .</s2>

@@ -1,0 +1,9 @@
+<Source with context>
+I could understand the feeling of the carrier .
+<t>She or he does not want to be the source of unhappiness in [thefamily] .</t>
+However , we will never know whether this negative effects will happen when the carrier decide to tell his or her family of the his or her condition .
+
+<Correction>
+<s1>She or he does not want to be the source of unhappiness in [thefamily→the family|True] .</s1>
+<s2>She or he does not want to be the source of unhappiness in [→their|True] [thefamily→family|True] .</s2>
+<s3>[She→He|True] or [he→she|True] does not want to be the source of unhappiness in [thefamily→the family|True] .</s3>

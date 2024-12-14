@@ -1,0 +1,10 @@
+<Source with context>
+Also , they will not have enough experience to communicate with people in face and not be trained in their conversation skills .
+<t>As a result , social media helps them do [the jobs] but indirectly affects their interpersonal skills .</t>
+Social media does have some other advantages beside their general benefits to human being .
+
+<Correction>
+<s1>As a result , social media helps them do [the→their|True] jobs [→,|True] but indirectly affects their interpersonal skills .</s1>
+<s2>As a result , social media helps them do [the→their|True] jobs but indirectly affects their interpersonal skills .</s2>
+<s3>As a result , social media helps them [→to|True] do [the→their|True] jobs [→,|True] but [→it|True] indirectly affects their interpersonal skills .</s3>
+<s4>As a result , social media helps them do the jobs but indirectly affects their interpersonal skills .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+However , social media solves these problems well .
+<t>People can contact their friends on the internet and get [their] reply very fast .</t>
+The communication is also not limited in words .
+
+<Correction>
+<s1>People can contact their friends on the internet and get their [reply→replies|True] very [fast→quickly|True] .</s1>
+<s2>People can contact their friends on the internet and get their reply very fast .</s2>
+<s3>People can contact their friends on the internet and get [their→a|True] reply very [fast→quickly|True] .</s3>
+<s4>People can contact their friends on the internet and get [their→a|True] reply very fast .</s4>
+<s5>People can contact their friends on the internet and get their [reply→replies|True] very fast .</s5>

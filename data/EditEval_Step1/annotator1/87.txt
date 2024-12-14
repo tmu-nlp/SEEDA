@@ -1,0 +1,10 @@
+<Source with context>
+To utilize the technology well , we should do our effort to not only balance the pros and cons but also lengthen the pros and shorten the cons .
+<t>Thus , the new technology will be able to bring a prosperous future for [our and next] generation .</t>
+With the wide spread of advanced technology , social media sites are becoming more and more popular .
+
+<Correction>
+<s1>Thus , [the→|True] new technology will be able to bring a prosperous future for our and next generation .</s1>
+<s2>Thus , the new technology will be able to bring a prosperous future for our [and→|False] next generation .</s2>
+<s3>Thus , the new technology will be able to bring a prosperous future for our [→generation|True] and [→the|True] next [generation→|True] .</s3>
+<s4>Thus , the new technology will be able to bring a prosperous future for our [→society|True] and [→the|True] next generation .</s4>

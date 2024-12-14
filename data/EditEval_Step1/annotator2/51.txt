@@ -1,0 +1,8 @@
+<Source with context>
+However , there rises a family-related ethical dilemma if it is right to tell a carrier 's family once the test has been conducted and the results are known .
+<t>I am most inclined to believe that his or her relatives have the [rights] to know the result .</t>
+The answer is simply that everyone , especially our family , has the right to know the truth .
+
+<Correction>
+<s1>I am most inclined to believe that his or her relatives have the [rights→right|True] to know the result .</s1>
+<s2>I am [most→|True] inclined to believe that [his or→|True] [her→their|True] relatives have [the→a|True] [rights→right|True] to know the result .</s2>

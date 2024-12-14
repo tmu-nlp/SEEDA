@@ -1,0 +1,10 @@
+<Source with context>
+He can even talk to her daughter face-to-face using video call via internet .
+<t>Secondly , people [makes] friends all over the world and [] able to update their friends [] [his] recent activity easily .</t>
+A guy who is going travel for months can easily tell all of his friends about his activity .
+
+<Correction>
+<s1>Secondly , people [makes→make|True] friends all over the world and [→are|True] able to update their [friends his→|False] recent [activity→activities|True] easily .</s1>
+<s2>Secondly , people [makes→make|True] friends all over the world and [→are|True] able to update their friends [→with|True] [his→their|True] recent activity easily .</s2>
+<s3>Secondly , people [makes→make|True] friends all over the world and [→are|True] able to update their friends [→on|True] his recent [activity→activities|True] easily .</s3>
+<s4>Secondly , people [makes→make|True] friends all over the world and [→are|True] able to [→easily|True] update their friends [→on|True] [his→their|True] recent activity [easily→|True] .</s4>

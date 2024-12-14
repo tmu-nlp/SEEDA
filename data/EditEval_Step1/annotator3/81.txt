@@ -1,0 +1,11 @@
+<Source with context>
+These are some concrete examples of how the socia media reduce face-to-face human contact .
+<t>When people get [use] [of] using [socia] media to contact other people , what will happen is that their interpersonal [communicating] skills will degrade and [lost] eventually .</t>
+Firstly , they have lost the courage to meet strangers , not even the courage to talk .
+
+<Correction>
+<s1>When people get [use→used|True] [of→to|True] using [socia→social|True] media to contact other people , what will happen is that their interpersonal [communicating→communication|True] skills will degrade and [→be|True] lost eventually .</s1>
+<s2>When people get [use→used|True] [of→to|True] using [socia→social|True] media to contact other people , what will happen is that their interpersonal communicating skills will degrade and [→get|True] lost eventually .</s2>
+<s3>When people get [use→used|True] [of→to|True] using [socia→social|True] media to contact other people , what will happen is that their interpersonal communicating skills will degrade and lost eventually .</s3>
+<s4>When people get use of using [socia→social|True] media to contact other people , what will happen is that their interpersonal communicating skills will degrade and lost eventually .</s4>
+<s5>When people get [use→used|True] [of→to|True] using [socia→social|True] media to contact other people , what will happen is that their interpersonal communicating skills will degrade and [→be|True] lost eventually .</s5>

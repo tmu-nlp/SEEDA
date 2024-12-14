@@ -1,0 +1,11 @@
+<Source with context>
+My answer is no .
+<t>On one hand , we do not want this potential danger causing [firghtenning] affects in our families ' [later lives] .</t>
+When people around us know that we got certain disease , their altitudes will be easily changed , whether caring us too much or keeping away from us .
+
+<Correction>
+<s1>On [→the|True] one hand , we do not want this potential danger [causing→to cause|True] [firghtenning→frightening|True] [affects→effects|True] in our families ' [later lives→lives later|True] [→on|True] .</s1>
+<s2>On [→the|True] one hand , we do not want this potential danger [causing→to cause|True] firghtenning affects [in→|False] our families ' later lives .</s2>
+<s3>On [→the|True] one hand , we do not want this potential danger causing [firghtenning→frightening|True] [affects→effects|True] in our families ' later lives .</s3>
+<s4>On [→the|True] one hand , we do not want this potential danger [causing→to cause|True] [firghtenning→frightening|True] [affects→effects|True] in our families ' later lives .</s4>
+<s5>On one hand , we do not want this potential danger causing [firghtenning→serious|False] affects in our families ' later lives .</s5>

@@ -1,0 +1,9 @@
+<Source with context>
+That is why facial impression is one of the most important elements in social learning .
+<t>In addition , " social media sites will affect writing skills " [,] that is the point of view in society .</t>
+Based on the statistic report , the more of the writing skills will be reduced when the more time used in the social media sites .
+
+<Correction>
+<s1>In addition , [→a popular point of view in society is that|True] " social media sites will affect writing skills " [, that is the point of view in society→|True] .</s1>
+<s2>In addition , " social media sites will affect writing skills " [,→;|True] that is the point of view in society .</s2>
+<s3>In addition , " social media sites will affect writing skills " [, that→|True] is the point of view in society .</s3>

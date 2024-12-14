@@ -1,0 +1,10 @@
+<Source with context>
+With a globalised and interconnected world today , Twitter and Facebook are now the mainstream platform for social interaction .
+<t>With just a [touch] [away] [from] any [meida]/electronic [devices] , one can easily interact and communicate with [his] friends without much hassle .</t>
+Thus , long distance relationship or friendship can be maintain and keeping in touch with your circle of friends has been made much easier .
+
+<Correction>
+<s1>With just a touch away from any [→media /|True] [meida/electronic→electronic|True] devices , one can easily interact and communicate with [his→their|True] friends without much hassle .</s1>
+<s2>With just a touch away from any [meida/electronic→media/electronic|True] devices , one can easily interact and communicate with his friends without much hassle .</s2>
+<s3>With just a touch away from any [meida/electronic→meida / electronic|True] devices , one can easily interact and communicate with his friends without much hassle .</s3>
+<s4>With just a [touch away from→click on|True] any [meida/electronic→electronic|True] [devices→device|True] , [one→anyone|True] can easily interact and communicate with [his→their|True] friends without much hassle .</s4>

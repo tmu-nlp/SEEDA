@@ -1,0 +1,8 @@
+<Source with context>
+For more convenience , sentences are shortened to simply three or four words such as lol ( which means laugh intensively ) and " asap " ( which means as soon as possible ) .
+<t>People indeed go to great [length] to make their words as [shorter] as they can .</t>
+While , once they are communicating with people in their face , expressing themselves appropriately become really a big problem .
+
+<Correction>
+<s1>People indeed go to great [length→lengths|True] to make their words as shorter as they can .</s1>
+<s2>People indeed go to great [length→lengths|True] to make their words as [shorter→short|True] as they can .</s2>

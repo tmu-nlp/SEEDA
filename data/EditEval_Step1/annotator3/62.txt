@@ -1,0 +1,11 @@
+<Source with context>
+I believe that some of the carriers will choose to not reveal their disease to the family members as they do not want to make their family members worry and feel uncomfortable or even feel ostracized by them .
+<t>Furthermore , as it could [incur spending] a [lots] of money for the treatment , the carrier might not want to be [the] burden [in] [her] family .</t>
+I could understand the feeling of the carrier .
+
+<Correction>
+<s1>Furthermore , as it could incur spending a [lots→lot|True] of money for the treatment , the carrier might not want to be [the→a|True] burden [in→to|True] her family .</s1>
+<s2>Furthermore , as it could [incur→involve|True] spending a [lots→lot|True] of money [for→on|True] the treatment , the carrier might not want to be [the→a|True] burden [in→on|True] her family .</s2>
+<s3>Furthermore , as it could incur spending [a→|True] lots of money for the treatment , the carrier might not want to be the burden [in→on|True] her family .</s3>
+<s4>Furthermore , as it could incur spending a [lots→lot|True] of money [for→on|True] the treatment , the carrier might not want to be [the→a|True] burden [in→to|True] her family .</s4>
+<s5>Furthermore , as it could incur spending a [lots→lot|True] of money for the treatment , the carrier might not want to be [the→a|True] burden [in→on|True] her family .</s5>

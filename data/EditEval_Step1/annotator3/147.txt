@@ -1,0 +1,11 @@
+<Source with context>
+This becomes a huge problem when they have no choice but have to face things in real life .
+<t>As they are so used to having an online avatar , they may lose their self-identity in real life and may not [realise] how to interact [] people in [real-life] .</t>
+Another problem with social media is that , the benefits from investing such enormous time and energy is not relfected as something positive to the users .
+
+<Correction>
+<s1>As they are so used to having an online avatar , they may lose their self-identity in real life and may not [realise→realize|True] how to interact people in real-life .</s1>
+<s2>As they are so used to having an online avatar , they may lose their self-identity in real life and may not realise how to interact [→with|True] people in real-life .</s2>
+<s3>As they are so used to having an online avatar , they may lose their self-identity in real life and may not realise how to interact people in [real-life→real life|True] .</s3>
+<s4>As they are so used to having an online avatar , they may lose their [→sense of|True] self-identity in real life and may not [realise→know|True] how to interact [→with|True] people in [real-life→real life|True] .</s4>
+<s5>As they are so used to having an online avatar , they may lose their [self-identity→self - identity|False] in real life and may not realise how to interact [→with|True] people in [real-life→real life|True] .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+Hence , with the knowledge of having genetic risk , the relatives of this genetic disease will do a medical check-up , which might save them in realising it at a earlier stage .
+<t>In conclusion , it will be considerate to inform [] the risk of getting the same genetic disease [to the relatives] .</t>
+Although there might be a lot of challenges along the way in seeking medical attention , such as financial issue , everyone should be given the rights of knowing their family 's inherented medical conditions .
+
+<Correction>
+<s1>In conclusion , it [will→would|True] be considerate to inform the [→relatives of their|True] risk of getting the same genetic disease [to the relatives→|False] .</s1>
+<s2>In conclusion , it will be considerate to inform [→the relatives of|True] the risk of getting the same genetic disease [to the relatives→|True] .</s2>
+<s3>In conclusion , it [will→would|True] be considerate to inform the risk of getting the same genetic disease to the relatives .</s3>
+<s4>In conclusion , it will be considerate to inform the risk of getting the same genetic disease to [the→|True] relatives .</s4>

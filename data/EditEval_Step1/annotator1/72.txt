@@ -1,0 +1,11 @@
+<Source with context>
+It may be awkward and embarrassed for a person to tell relatives that he or she is a carrier of a known genetic risk .
+<t>But they are all from one family and [own] the same forefather , then of course they [own] the same genes in some part .</t>
+Therefore there is nothing to be shy for or be afraid of .
+
+<Correction>
+<s1>But they are all from one family and [own→have|True] the same forefather , [then→so|True] of course they own the same genes in some part .</s1>
+<s2>But [→if|True] they are all from one family and [own→have|True] the same forefather , then of course they [own→have|True] the same genes in some part .</s2>
+<s3>But they are all from one family and own the same forefather , then of course they own the same genes in some part .</s3>
+<s4>But they are all from one family and own the same forefather , then [→,|True] of course [→,|True] they own the same genes in some part .</s4>
+<s5>But they are all from one family and own the same forefather , then [→,|True] of course [→,|True] they [own→owns|False] the same genes in some part .</s5>

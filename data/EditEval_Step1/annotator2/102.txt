@@ -1,0 +1,10 @@
+<Source with context>
+However , critics may argue that with the existence of social media sites have reduced physical human interactions among people as they will prefer sitting in front of a computer to going out and meeting new friends .
+<t>This essay will discuss [about] both the benefits and [down sides] of using social media in [the] contemporary society .</t>
+Nowadays , social media are able to disseminate information faster than any other media .
+
+<Correction>
+<s1>This essay will discuss [about→|True] both the benefits and [down sides→downsides|True] of using social media in [the→|True] contemporary society .</s1>
+<s2>This essay will discuss [about→|True] both the benefits and [down→downs|False] sides of using social media in [the→|True] contemporary society .</s2>
+<s3>This essay will discuss [about→|True] both the benefits and down sides of using social media in [the→|True] contemporary society .</s3>
+<s4>This essay will discuss [about→|True] both the benefits and [down sides→downsides|True] of using social media in the contemporary society .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+So does social media network .
+<t>It [not] [only] is convenient and beneficial in connecting people and developing [the] [business] [] but it [also can] damage people [] relationships and interpersonal skills .</t>
+Social media is only beneficial as long as we know how to use it in a correct and suitable way with the combination of both social media sites and daily life interaction to develop people 's potentials to the fullest .
+
+<Correction>
+<s1>It not only is convenient and beneficial in connecting people and developing [the→|True] business [→,|True] but it also can damage people [→'s|True] relationships and interpersonal skills .</s1>
+<s2>It [not only is→is not only|True] convenient and beneficial in connecting people and developing [the→|True] business but it also can damage people [→'s|True] relationships and interpersonal skills .</s2>
+<s3>It [not only is→is not only|True] convenient and beneficial in connecting people and developing [the→|True] business [→,|True] but it [also can→can also|True] damage people [→'s|True] relationships and interpersonal skills .</s3>
+<s4>It not only is convenient and beneficial in connecting people and developing the business but it also can damage people [→'s|True] relationships and interpersonal skills .</s4>
+<s5>It [not only is→is not only|True] convenient and beneficial in connecting people and developing the business but it also can damage people relationships and interpersonal skills .</s5>

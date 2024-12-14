@@ -1,0 +1,10 @@
+<Source with context>
+This kind of feeling makes people 's relationship not as stable , secure and reliable than before .
+<t>Besides , there are more people [shwing] [their] pictures of [] yummy food [or] [travelling] [experience] .</t>
+To some extent , this makes our life more luxry and blundering .
+
+<Correction>
+<s1>Besides , there are more people shwing their pictures of yummy food or travelling [experience→experiences|True] .</s1>
+<s2>Besides , there are more people [shwing→sharing|True] their pictures of yummy food or travelling [experience→experiences|True] .</s2>
+<s3>Besides , there are more people [shwing→sharing|True] [their pictures of→pictures of their|True] yummy food or [travelling→traveling|True] [experience→experiences|True] .</s3>
+<s4>[Besides→Additionally|True] , there are more people [shwing→showing|True] their pictures of yummy food or [travelling→travel|True] [experience→experiences|True] .</s4>

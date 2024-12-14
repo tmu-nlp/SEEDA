@@ -1,0 +1,10 @@
+<Source with context>
+Genetic testing is a personal choice .
+<t>One should have [the] full control of his/her information and it is his/her right to decide whether or not to disclose it to [some one] else .</t>
+As far as I am concerned , when a couple are going to have babies , they are going to run a few tests and see whether their could have some genetic diseases .
+
+<Correction>
+<s1>One should have [the→|True] full control of [→his or|True] [his/her→her|True] information and it is [→his or|True] [his/her→her|True] right to decide whether or not to disclose it to [some one→someone|True] else .</s1>
+<s2>One should have [the→|True] full control of his/her information and it is his/her right to decide whether or not to disclose it to [some one→someone|True] else .</s2>
+<s3>One should have the full control of his/her information and it is his/her right to decide whether or not to disclose it to [some one→someone|True] else .</s3>
+<s4>One should have [the→|True] full control of [his/her→their|False] information and it is [his/her→their|False] right to decide whether or not to disclose it to [some one→someone|True] else .</s4>

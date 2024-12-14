@@ -1,0 +1,11 @@
+<Source with context>
+It is immoral and impractical .
+<t>Firstly , [someone having what kinds of disease] belongs to his or her privacy .</t>
+Privicy protection belongs to one 's human rights .
+
+<Correction>
+<s1>Firstly , [someone having→|True] what [kinds of→|True] [disease→diseases|True] [belongs→one|True] [to→has|True] [his→is|True] [or→|True] [her→a|True] [privacy→private matter|True] .</s1>
+<s2>Firstly , someone [having→|True] [what→'s|True] [kinds→type|True] of disease [belongs to→|True] [his→is|True] [or her privacy→their own private matter|True] .</s2>
+<s3>Firstly , someone having [what→whatever|False] kinds of disease belongs to his or her privacy .</s3>
+<s4>Firstly , someone having what [kinds→kind|False] of disease belongs to his or her privacy .</s4>
+<s5>Firstly , someone having what [kinds→kind|False] of disease belongs to his or her [privacy→private|False] .</s5>

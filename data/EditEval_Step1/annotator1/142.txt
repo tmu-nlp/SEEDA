@@ -1,0 +1,10 @@
+<Source with context>
+It is a common scene that two people sitting next to each other seldom talk with each other but just look at their cellphone .
+<t>This kind of behaviour is not good [to] people 's psychological health according to [a] research .</t>
+The cyber communication is quite different to face to face communication and people who depends on cyber communication too much will not get used to the real life communication .
+
+<Correction>
+<s1>[This→According to research , this|True] kind of behaviour is not good [to→for|True] people 's psychological health [according to a research→|True] .</s1>
+<s2>This kind of [behaviour→behavior|True] is not good [to→for|True] people 's psychological health according to [a→|True] research .</s2>
+<s3>This kind of behaviour is not good [to→for|True] people 's psychological health [→,|False] according to [a→|True] research .</s3>
+<s4>This kind of behaviour is not good [to→for|True] people 's psychological health according to [a→|True] research .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+A genetic risk carrier should be obliged to tell
+<t>Genetic testing will be conducted when the individual is at risk of some possible disease .</t>
+Once the test is done , whether the results should be open to his or her relatives has caused social extensive controversy .
+
+<Correction>
+<s1>Genetic testing will be conducted when the individual is at risk of some possible disease .</s1>
+<s2>Genetic testing will be conducted when the individual is at risk of [some→a|True] possible disease .</s2>
+<s3>Genetic testing will be conducted when [the→an|True] individual is at risk of some possible disease .</s3>
+<s4>Genetic testing [will be→is|True] conducted when [the→an|True] individual is at risk of some possible disease .</s4>
+<s5>Genetic testing will be conducted when the individual is at risk of some [possible→potential|True] disease .</s5>

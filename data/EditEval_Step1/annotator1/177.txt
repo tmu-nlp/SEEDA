@@ -1,0 +1,10 @@
+<Source with context>
+A research shows that people will unconsciously hide his or her real thought when he or her say or post something that will be exposed to the public .
+<t>It means that one can not know [another 's real thought and personalities] by reading things that he or she [put] on social network media .</t>
+It will make him or her quite upset when they communicate in real life .
+
+<Correction>
+<s1>[It→This|True] means that one can not know another 's [real→true|True] [thought→thoughts|True] [and→or|True] [personalities→personality|True] by reading [→the|True] things that [he or she put→they share|True] on social [network→|True] media [→, which could be quite upsetting if they communicate in real life|True] .</s1>
+<s2>It means that one can not know another 's real [thought→thoughts|True] and personalities by reading things that he or she [put→puts|True] on social network media .</s2>
+<s3>It means that one can not know another 's real thought and personalities by reading things that he or she [put→puts|True] on social network media .</s3>
+<s4>It means that one can not know another 's real [thought→thoughts|True] and personalities by reading things that he or she put on social network media .</s4>

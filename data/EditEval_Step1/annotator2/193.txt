@@ -1,0 +1,10 @@
+<Source with context>
+This kind of behaviour is not good to people 's psychological health according to a research .
+<t>[The] cyber communication is quite different [to] face to face communication and people who [depends] on cyber communication too much will not get used to [the] real life communication .</t>
+In addition , cyber relationship can not always work in real life .
+
+<Correction>
+<s1>[The cyber→Cyber|True] communication is quite different [to face to→from|True] [face→face-to-face|True] communication [→,|True] and people who [depends→rely too much|True] on cyber communication [too much→|True] will not get used to [the→|True] [real life→real-life|True] communication .</s1>
+<s2>[The cyber→Cuber|False] communication is quite different to face to face communication and people who [depends→depend|True] on [cyber→cube|False] communication too much will not get used to [the→|True] real life communication .</s2>
+<s3>[The cyber→Cyber|True] communication is quite different to face to face communication and people who [depends→depend|True] on cyber communication too much will not get used to [the→|True] real life communication .</s3>
+<s4>[The→|False] cyber communication is quite different to face [→-|True] to [→-|True] face communication and people who [depends→depend|True] on cyber communication too much will not get used to [the→|True] real life communication .</s4>

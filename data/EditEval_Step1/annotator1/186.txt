@@ -1,0 +1,10 @@
+<Source with context>
+First , with the function of social media sites that connects the people , everyone is able to interact and communicate with friends and families , or even strangers without any time and place constraints .
+<t>Through [the] social media sites , we can chat with our friends who [stay] in Europe and New Zealand .</t>
+There are over thousand miles between Singapore and these two countries .
+
+<Correction>
+<s1>Through [the→|True] social media sites , we can chat with our friends who stay in Europe and New Zealand .</s1>
+<s2>Through the social media sites , we can chat with our friends who [stay→are staying|True] in Europe and New Zealand .</s2>
+<s3>Through [the→|True] social media sites , we can chat with our friends who [stay→are visiting|True] [in→|True] Europe [and→or|True] New Zealand .</s3>
+<s4>Through the social media sites , we can chat with our friends who stay in Europe and New Zealand .</s4>

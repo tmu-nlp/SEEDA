@@ -1,0 +1,11 @@
+<Source with context>
+We can even know what a friend who leave thousands of miles away eat for lunch though these kinds of social media .
+<t>From some points of view , social [] really has a lot of advantages by [let] us communicate with friends cheaper and more conveniently [] .</t>
+However , its disadvantages also can not be ingnored when you cosider it as a platform to show off and a stage for cyber crime .
+
+<Correction>
+<s1>From some points of view , social [→networking|False] really has a lot of advantages by [let→letting|True] us communicate with friends cheaper and more conveniently .</s1>
+<s2>From some [points→point|False] of view , [social→society|False] really has a lot of advantages by [let→letting|True] us communicate with friends cheaper and more conveniently .</s2>
+<s3>From some points of view , social [→media|True] really has a lot of advantages by [let→letting|True] us communicate with friends cheaper and more conveniently .</s3>
+<s4>From some points of view , social [→media|True] really has a lot of advantages by [let→allowing|True] us [→to|True] communicate with friends cheaper and more conveniently .</s4>
+<s5>From some points of view , [social→society|True] really has a lot of advantages by [let→letting|True] us communicate with friends cheaper and more conveniently .</s5>

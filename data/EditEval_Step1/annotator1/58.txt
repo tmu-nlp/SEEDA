@@ -1,0 +1,10 @@
+<Source with context>
+Furthermore , living with a secret is not a good sensation , especially if the situations of other relatives become worse , you should feel guilty and depressed .
+<t>Moreover , the truth can not be hidden forever but when it is revealed , [more shocking and upset it will be] .</t>
+As the result , it is in the interests of the carriers and their relatives , telling the genetic testing result is needed .
+
+<Correction>
+<s1>Moreover , the truth can not be hidden forever but when it is revealed , more shocking and [upset→upsetting|True] it will be .</s1>
+<s2>Moreover , the truth can not be hidden forever but when it is revealed , [→the|True] more shocking and [upset→upsetting|True] it will be .</s2>
+<s3>Moreover , the truth can not be hidden forever [→,|True] but when it is revealed , more shocking and upset it will be .</s3>
+<s4>Moreover , the truth can not be hidden forever [but→and|True] [when→the longer|True] it is [revealed→kept secret|True] , [→the|True] more shocking and [upset→upsetting|True] it will be [→when it is revealed|True] .</s4>

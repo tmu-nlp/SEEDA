@@ -1,0 +1,11 @@
+<Source with context>
+So I think whatever the genetic is or whether the gene is match with their parents , it should not be told to anyone even his or her family or relatives .
+<t>Secondly , the carrier of a known genetic risk may destroy the peace of a family [] even [broken] the [relation] between children [with] the adult .</t>
+Once his or her family or relatives know that the person does not have the relation with them .
+
+<Correction>
+<s1>Secondly , the carrier of a known genetic risk may destroy the peace of a family [→and|True] even [broken→break|True] the relation between children with [the→|True] [adult→adults|True] .</s1>
+<s2>Secondly , the carrier of a known genetic risk may destroy the peace of a family [→,|True] even broken the [relation→relationship|True] between children [with→|True] [the→and|True] [adult→adults|True] .</s2>
+<s3>Secondly , the carrier of a known genetic risk may destroy the peace of a family [→and|True] even [broken→break|True] the [relation→relationship|True] between children [with→and|True] the adult .</s3>
+<s4>Secondly , the carrier of a known genetic risk may destroy the peace of a family [→,|True] even [broken→break|True] the [relation→relationship|True] between children with the adult .</s4>
+<s5>Secondly , the carrier of a known genetic risk may destroy the peace of a family even [broken→break|True] the [relation→relationship|True] between children with the adult .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+They need to ask for doctor 's advice before they plan to have a baby .
+<t>Some genetic [gene] will pass only to boys [rather] than girls , some are [on the contrary] .</t>
+If the carrier refuses to tell the truth to his or her spouse , another life may have risk of inheriting the genetic disease .
+
+<Correction>
+<s1>Some genetic [gene→risks|True] will pass only to boys rather than girls , some are on the contrary .</s1>
+<s2>Some genetic [gene→genes|True] will [pass→be passed|True] [→on|True] only to boys rather than girls , some are on the contrary .</s2>
+<s3>Some genetic [gene→genes|True] will pass only to boys rather than girls , some are on the contrary .</s3>
+<s4>Some [genetic→|True] [gene→genes|True] will [→only|True] [pass→be passed|True] [only→down|True] to boys rather than girls , some are [on→|True] the [contrary→opposite|True] .</s4>

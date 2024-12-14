@@ -1,0 +1,10 @@
+<Source with context>
+Moreover , people can be aware of what is going on in social situation and see the comments online and share their opinions on these websites .
+<t>These social media [makes] people 's [life] much more colorful and provide a lot of fun .</t>
+However , social media may do some harm to people 's life .
+
+<Correction>
+<s1>These social media [makes→make|True] people 's [life→lives|True] much more colorful and provide a lot of fun .</s1>
+<s2>[These→This|False] social media makes people 's [life→lives|True] much more colorful and [provide→provides|False] a lot of fun .</s2>
+<s3>These social media [makes→make|True] people 's [life→lives|True] much more colorful and [provide→provides|False] a lot of fun .</s3>
+<s4>These social media [→sites|True] makes people 's life much more colorful and provide a lot of fun .</s4>

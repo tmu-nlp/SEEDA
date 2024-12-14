@@ -1,0 +1,9 @@
+<Source with context>
+Based on the statistic report , the more of the writing skills will be reduced when the more time used in the social media sites .
+<t>I believe most of us have the experience of suddenly [forget] how to write a word that we should know .</t>
+The auto correction software is so effective when using electronic device until we did not realize the importance of writing .
+
+<Correction>
+<s1>I believe most of us have [the→|True] [experience→experienced|True] [of→|True] suddenly [forget→forgetting|True] how to write a word that we should know .</s1>
+<s2>I believe most of us have [→had|True] the experience of suddenly [forget→forgetting|True] how to write a word that we should [know→have known|True] .</s2>
+<s3>I believe most of us have the experience of suddenly [forget→forgetting|True] how to write a word that we should know .</s3>

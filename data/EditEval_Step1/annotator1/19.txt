@@ -1,0 +1,10 @@
+<Source with context>
+By telling to his or her family other than being a support , they could possibly help her to get alternative solutions to the problem that she is facing right now .
+<t>Other than that , I believe that the [stong] bond we have with our family is the biggest pillar of [support to the carrier] .</t>
+Furthermore , as it is a genetic problem , it will be better for the carrier to inform his or her family as other family member might experience the same thing .
+
+<Correction>
+<s1>Other than that , I believe that the [stong→strong|True] bond we have with our family is the biggest pillar of support [to→for|True] the carrier .</s1>
+<s2>[Other→In addition|True] [than→to|True] that , I believe that the [stong→strong|True] bond we have with our family is the biggest pillar of support to the carrier .</s2>
+<s3>Other than that , I believe that the stong bond we have with our family is the biggest pillar of support [to→for|True] the carrier .</s3>
+<s4>Other than that , I believe that the [stong→strong|True] bond we have with our family is the biggest pillar of support [to→for|True] the [carrier→career|False] .</s4>

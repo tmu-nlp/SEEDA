@@ -1,0 +1,11 @@
+<Source with context>
+Since some of the information has already been revealed on the home page , it is also easier to find some common topics to talk about .
+<t>Moreover , people usually like to [share boldly] about their real feelings online with [their masks in reality being taken off] .</t>
+This has been indicated in a report done by Boston University in 2012 , 80 % of information posted online is true while a person may like 3 out of 10 times in real life .
+
+<Correction>
+<s1>Moreover , people usually like to share boldly about their real feelings online with their masks in reality being taken off .</s1>
+<s2>Moreover , people usually like to share boldly about their real feelings online with their masks in reality [being taken off→|False] .</s2>
+<s3>Moreover , people usually like to [share boldly→boldly share|True] [about→|True] their real feelings online with their masks [→having been removed|True] in reality [being taken off→|True] .</s3>
+<s4>Moreover , people usually like to share [boldly about→|True] their real feelings online with their masks in reality being taken off .</s4>
+<s5>Moreover , people usually like to share [boldly→candidly|False] about their [real→true|True] feelings online with their masks in reality being taken off .</s5>

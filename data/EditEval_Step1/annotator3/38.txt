@@ -1,0 +1,10 @@
+<Source with context>
+This is the responsibility of being a parent .
+<t>[And] in my opinion , this seems to be the main purpose of undergoing [that] genetic testing [at] the first place .</t>
+As a conclusion , once you have undergone the genetic testing and being aware of carrying some specific genetic risk , there are responsibilities to your relatives , yourself , and your following generations by telling your relatives and families the truth .
+
+<Correction>
+<s1>And in my opinion , this seems to be the main purpose of undergoing [that→|True] genetic testing [at→in|True] the first place .</s1>
+<s2>And [→,|True] in my opinion , this seems to be the main purpose of undergoing that genetic testing [at→in|True] the first place .</s2>
+<s3>And in my opinion , this seems to be the main purpose of undergoing that genetic testing [at→in|True] the first place .</s3>
+<s4>[And in→In|True] my opinion , this seems to be the main purpose of undergoing [that→|True] genetic testing [at→in|True] the first place .</s4>

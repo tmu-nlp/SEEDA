@@ -1,0 +1,10 @@
+<Source with context>
+May be we can trust our immediate family members but can we really trust all the other relatives ?
+<t>Furthermore , since the genetic risk or genetic disease is a very personal case , it is up to the person ['s call] to tell the relatives about it .</t>
+However , as I said earlier , it is better for the person to at least tell about the potential risk to his or her future partner since his genetic risk may affect his children later .
+
+<Correction>
+<s1>Furthermore , since the genetic risk or genetic disease is a very personal [case→issue|True] , it is up to the person ['s call→|True] to tell the relatives about it .</s1>
+<s2>Furthermore , since the genetic risk or genetic disease is a very personal case , it is up to the person 's call to tell the relatives about it .</s2>
+<s3>Furthermore , since [the→|True] genetic risk or genetic disease is a very personal case , it is up to the person 's call to tell the relatives about it .</s3>
+<s4>Furthermore , since [the→|True] genetic risk or genetic disease is a very personal case , it is up to the person 's [call→parents|False] to tell the relatives about it .</s4>

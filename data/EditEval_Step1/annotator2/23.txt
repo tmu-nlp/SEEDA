@@ -1,0 +1,11 @@
+<Source with context>
+Carrier is responsible to balance his or her own interest and the benefits of family and even society .
+<t>It is a hard decision to make but [with] the most appropriate way , it will create [great] [circumstances] for the carrier and families in the future .</t>
+With the risk of being genetically disorder , many individuals have done the decision to undergo genetic testing .
+
+<Correction>
+<s1>It is a hard decision to make but [with→in|True] the most appropriate way , it will create great circumstances for the carrier and families in the future .</s1>
+<s2>It is a hard decision to make but with the most appropriate way , it will create great circumstances for the carrier and [families→family|False] in the future .</s2>
+<s3>It is a hard decision to make [→,|True] but with the most appropriate way , it will create great circumstances for the carrier and families in the future .</s3>
+<s4>It is a hard decision to make [→,|True] but [with→in|True] the most appropriate way , it will create great circumstances for the carrier and families in the future .</s4>
+<s5>It is a hard decision to make but [→,|True] [with→in|True] the most appropriate way , it will create great circumstances for the carrier and families in the future .</s5>

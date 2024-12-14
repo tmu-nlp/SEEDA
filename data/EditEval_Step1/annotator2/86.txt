@@ -1,0 +1,11 @@
+<Source with context>
+People post about their random thoughts or daily activities via Twitter and post different kinds of photos on Facebook frequently , to be connected with their so called friends .
+<t>However , as we then tend to spend too much time on this and have significantly reduced [in] face-to-face human contact , that eventually affects our interpersonal skills .</t>
+First and foremost , I would like to share on the advantages of using such social media in my daily life .
+
+<Correction>
+<s1>However , [as→|True] we then tend to spend too much time on [→social media ,|True] [this→resulting|True] [and→in|True] [have→a|True] [significantly→significant|True] [reduced→reduction|True] [in→of|False] face-to-face human contact , [that→which|True] eventually affects our interpersonal skills .</s1>
+<s2>However , as we then tend to spend too much time on this and have significantly reduced [in→|True] face-to-face human contact , that eventually affects our interpersonal skills .</s2>
+<s3>However , as we then tend to spend too much time on this and have significantly reduced [in face-to-face→face - to - face|False] human contact , that eventually affects our interpersonal skills .</s3>
+<s4>However , as we then tend to spend too much time on this and have significantly reduced in [face-to-face→face - to - face|False] human contact , that eventually affects our interpersonal skills .</s4>
+<s5>However , as we then tend to spend too much time on this and have significantly [→been|False] reduced in face-to-face human contact , that eventually affects our interpersonal skills .</s5>

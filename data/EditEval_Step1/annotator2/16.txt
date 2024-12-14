@@ -1,0 +1,10 @@
+<Source with context>
+Especially for the young people without marrige , if he/she is known to have some genetic risk , it may have certain chance that his/her child would carry the same disease , but not in certain .
+<t>Therefore , to keep the information as [] secret [to] his/her future [spouce] would help the relationship .</t>
+Secondly , annouance the potential risk would cause the family member to be scared of this certain issue , although the factor would not be that serious , people would still fear that they would have some potential disease in the future thus go to hospital and do additional check or take more medicine in order to prevent the disease , and this creats unnecessary costs to the family .
+
+<Correction>
+<s1>Therefore , to keep the information [as→|True] secret to his/her future [spouce→spouse|True] would help the relationship .</s1>
+<s2>Therefore , to keep the information [as→|True] secret [to→from|True] [his/her→his / her|False] future [spouce→spouse|True] would help the relationship .</s2>
+<s3>Therefore , to keep the information as secret to [his/her→his / her|False] future [spouce→spouse|True] would help the relationship .</s3>
+<s4>Therefore , to keep the information [as→a|True] secret to his/her future spouce would help the relationship .</s4>

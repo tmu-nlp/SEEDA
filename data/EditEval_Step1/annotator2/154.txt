@@ -1,0 +1,10 @@
+<Source with context>
+Although emocons can be used to show certain emotion , this differs from the real authentic emotion of your friends when you observed them through their body language and their facial expression .
+<t>The danger of such media [socialisation] is the uncertainty of such communication due to lack of physical interaction .</t>
+Furthermore , this lack of physical interaction has affected human inter-personal behaviour since communication is made through social media instead of meet-ups .
+
+<Correction>
+<s1>The danger of such [→social|True] media [socialisation→|True] is the uncertainty of [such→|True] communication due to lack of physical interaction .</s1>
+<s2>The danger of such [media socialisation→communication|True] is the uncertainty [of such communication→|True] due to lack of physical interaction .</s2>
+<s3>The danger of such media [socialisation→socialization|True] is the uncertainty of such communication due to [→a|True] lack of physical interaction .</s3>
+<s4>The danger of such media socialisation is the uncertainty of such communication due to [→the|True] lack of physical interaction .</s4>

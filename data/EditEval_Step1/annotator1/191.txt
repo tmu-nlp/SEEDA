@@ -1,0 +1,11 @@
+<Source with context>
+Though because of this , social media is still a much fairer and more transparent online platform for the public to share ideas compared to other traditional medias .
+<t>Intensive use of [Social] media does reduce the time people spend in face-to-face communication .</t>
+It is commonly seen in a food court or restaurant that a group of people sitting together around a table with each of them having a cell phone in their hands .
+
+<Correction>
+<s1>Intensive use of [Social→social|True] media [does reduce→reduces|False] the time people spend in face-to-face communication .</s1>
+<s2>Intensive use of [Social→social|True] media does reduce the time people spend in face-to-face communication .</s2>
+<s3>Intensive use of [Social→social|True] media does reduce the time people spend [in→on|True] face-to-face communication .</s3>
+<s4>Intensive use of Social media does reduce the time people spend in [face-to-face→face - to - face|False] communication .</s4>
+<s5>Intensive use of [Social→social|True] media does reduce the time people spend [in→on|True] [face-to-face→face - to - face|False] communication .</s5>

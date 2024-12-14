@@ -1,0 +1,11 @@
+<Source with context>
+It involves a level of dynamic interaction which utlises the motor , thinking and verbal cortex of the mind to coordinate .
+<t>Unlike [the use of] social media , most of the interaction is done [with] thinking and typing .</t>
+As a result , one does not train the necessarily parts of the skills required for a proper interpersonal relations .
+
+<Correction>
+<s1>Unlike the use of social media , most of the interaction is done [with→by|True] thinking and typing .</s1>
+<s2>Unlike [the use of→|True] social media , [→where|True] most [of the→|True] interaction is done with thinking and typing .</s2>
+<s3>Unlike the use of social media , most [of the→|True] interaction is done [with→through|True] thinking and typing .</s3>
+<s4>Unlike the use of social media , most [of the→|True] interaction is done with thinking and typing .</s4>
+<s5>Unlike the use of social media , most of the interaction is done with thinking and typing .</s5>

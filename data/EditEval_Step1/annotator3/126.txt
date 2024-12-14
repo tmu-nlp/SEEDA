@@ -1,0 +1,11 @@
+<Source with context>
+In real life , establishing friendship requires the all-rounded understanding in one another and the caring for one another .
+<t>The latter requires [face to face] interaction where we can show our emotions to [the] other .</t>
+One can not truly understand a person with only stalking his/her facebook page where he/she carefully chooses what to present .
+
+<Correction>
+<s1>The latter requires [→a|True] face to face interaction where we can show our emotions to the other .</s1>
+<s2>The latter requires face to face interaction where we can show our emotions to [the→|True] [other→others|True] .</s2>
+<s3>The latter requires face to face interaction where we can show our emotions to the other .</s3>
+<s4>The latter requires face [→-|True] to [→-|True] face interaction where we can show our emotions to the other .</s4>
+<s5>The latter requires [face to face→face-to-face|True] interaction where we can show our emotions to the other .</s5>

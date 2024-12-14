@@ -1,0 +1,10 @@
+<Source with context>
+In addition , " social media sites will affect writing skills " , that is the point of view in society .
+<t>Based on the [statistic] report , [the] more [of] the writing skills will be reduced when [the] more time [] used [in] the social media sites .</t>
+I believe most of us have the experience of suddenly forget how to write a word that we should know .
+
+<Correction>
+<s1>Based on the statistic report , the more of the writing skills will be reduced when the more time [→is|True] used [in→on|True] the social media sites .</s1>
+<s2>Based on the [statistic→statistics|True] report , [the more of the→|True] writing skills will be reduced [→more|True] when [the→|True] more time [→is|True] used [in→on|True] [the→|True] social media sites .</s2>
+<s3>Based on the [statistic→statistical|False] report , the more [of the→|True] writing skills will be reduced when the more time [used→is spent|True] [in→on|True] [the→|True] social media sites .</s3>
+<s4>Based on [the→a|True] [statistic→research|True] report , [the more of the→|True] writing skills [will be→are|True] reduced [→more|True] when [the→|True] more time [used→is spent|True] [in→on|True] [the→|True] social media sites .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+Last but not least , though genetic testing is a personal matter , telling the result to your family can improve and develop understanding and sympathy of each other as well as promoting awareness of taking care of everyone 's health .
+<t>[That] plays an important role in [the possibility that] relatives [can] overcome the discrimination of the society and [] anxiety about the risks .</t>
+To put it in the nutshell , I believe that people should have the obligation to tell their relatives about the genetic testing result for the good of their health .
+
+<Correction>
+<s1>That plays an important role in the possibility that relatives can overcome the discrimination [of→between|False] [the→|True] society and anxiety about the risks .</s1>
+<s2>That plays an important role in the possibility that relatives can overcome the discrimination of the society and anxiety about the risks .</s2>
+<s3>That plays an important role in the possibility that relatives can overcome the discrimination of [the→|True] society and anxiety about the risks .</s3>
+<s4>[That→This|True] plays an important role in the possibility that relatives can overcome the discrimination of [the→|True] society and anxiety about the risks .</s4>
+<s5>That plays an important role in [the possibility that→allowing|True] relatives [can→to|True] overcome the discrimination of [the→|True] society and anxiety about the risks .</s5>

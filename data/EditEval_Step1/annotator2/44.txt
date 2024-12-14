@@ -1,0 +1,10 @@
+<Source with context>
+We were crying hard but we are not alone , it 's our family and relatives that grow us up .
+<t>Hence , they should be the people [] be grateful for and the people we would like to share the joy together [] .</t>
+However , in the case pertaining to any health issue or to the extent of serious disorder , it may seems no point of sharing but this involves more than just sharing of bad news .
+
+<Correction>
+<s1>Hence , they should be the people [→we should|True] be grateful for and the people we would like to share [the→|True] joy [together→with|True] .</s1>
+<s2>Hence , they should be the people [be→we are|True] grateful [for→to|False] and the people we would like to share the joy [together→with|True] .</s2>
+<s3>Hence , they should be the people [be→who are|True] grateful [for→to|False] and the people we would like to share the joy together .</s3>
+<s4>Hence , they should be the people [be→we are|True] grateful for and the people we would like to share the joy [together→with|True] .</s4>

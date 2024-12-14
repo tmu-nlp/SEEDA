@@ -1,0 +1,11 @@
+<Source with context>
+If you have n't undergone the genetic testing , it 's just odd and fate for what will happen to both of you and your relatives .
+<t>However , if you have undergone [] and [known] that you are a carrier , you are responsible for your whole family .</t>
+Even though you can not eliminate the risk completely , you can at least try to be alert to avoiding getting the disease .
+
+<Correction>
+<s1>However , if you have undergone [→testing|True] and [known→are aware|True] that you are a carrier , you are responsible for your whole family .</s1>
+<s2>However , if you have undergone and known that you are a carrier , you are responsible for your whole family .</s2>
+<s3>However , if you have undergone [→testing|True] and [known→know|True] that you are a carrier , you [→owe|False] [are→a|False] [responsible→responsibility|False] [for→to|False] your whole family .</s3>
+<s4>However , if you have undergone and [known→know|True] that you are a carrier , you are responsible for your whole family .</s4>
+<s5>However , if you have undergone and known that you are a [carrier→career|False] , you are responsible for your whole family .</s5>

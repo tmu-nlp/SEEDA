@@ -1,0 +1,11 @@
+<Source with context>
+I also discover some of my friends ' interest which I find common with myself so that talking to one another is much more about life , study , friends , etc .
+<t>The communication does not focus on how we feel , [or to say , each otherm] , but whatever is interesting , or the content .</t>
+In this case , interpersonal skill is not as important because our goal is not to impress somebody , but to get the information that we are both interested in .
+
+<Correction>
+<s1>The communication does not focus on how we feel , or [→what we|True] [to say→say to|True] [,→|True] each [otherm→other|True] , but whatever is interesting , or the content .</s1>
+<s2>The communication does not focus on how we feel , or [to say→say to|True] [,→|True] each [otherm→other|True] , but [→on|True] whatever is interesting , or the content .</s2>
+<s3>The communication does not focus on how we feel , or to say [,→|True] each [otherm→other|True] , but whatever is interesting , or the content .</s3>
+<s4>[The communication→Communication|False] does not focus on how we feel , or to say , each [otherm→other|True] , but whatever is interesting , or the content .</s4>
+<s5>The communication does not focus on how we feel , or to say , each [otherm→other|True] , but whatever is interesting , or the content .</s5>

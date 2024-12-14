@@ -1,0 +1,10 @@
+<Source with context>
+As for those in your family who are more likely to be affected , they can go to the hospital to do the checks regularly .
+<t>Therefore , telling [the] [families] and [the] relatives to get prepared [for] [fighting] the disease and even prevent [] [to] [get] the disease is your responsibility .</t>
+Furthermore , you are also being responsible for your next generations by telling the truth that you are a carrier of a genetic risk .
+
+<Correction>
+<s1>Therefore , telling the families and the relatives to get prepared for fighting the disease and even [prevent→preventing|True] [to→them|True] [get→getting|True] the disease is your responsibility .</s1>
+<s2>Therefore , [→it is your responsibility|True] [telling→to tell|True] [the families and the→your|True] relatives to get prepared [for→to|True] [fighting→fight|True] the disease and [even→take steps|True] [prevent to→to prevent|True] [get the disease is your responsibility→it|True] .</s2>
+<s3>Therefore , telling [the→|True] families and [the→|True] relatives to get prepared [for→to|True] [fighting→fight|True] the disease and even prevent [to get→getting|True] the disease is your responsibility .</s3>
+<s4>Therefore , telling the families and the relatives to get prepared for fighting the disease and even prevent [to get→getting|True] the disease is your responsibility .</s4>

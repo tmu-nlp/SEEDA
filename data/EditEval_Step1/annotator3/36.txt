@@ -1,0 +1,10 @@
+<Source with context>
+The genetic risk that you carry may or may not affect your health and put you in danger .
+<t>If you have n't undergone [the] genetic testing , [it 's just odd] and fate [for] what will happen to both [of] you and your relatives .</t>
+However , if you have undergone and known that you are a carrier , you are responsible for your whole family .
+
+<Correction>
+<s1>If you have n't undergone [the→|True] genetic testing , [it 's just odd→luck|True] and fate [for→dictate|True] what will happen to [both of→|True] you and your relatives .</s1>
+<s2>If you have n't undergone [the→|True] genetic testing , it 's just odd and fate for what will happen to both [of→|True] you and your relatives .</s2>
+<s3>If you have n't undergone [the→|True] genetic testing , it 's just odd and fate for what will happen to both of you and your relatives .</s3>
+<s4>If you have n't undergone [the→|True] genetic testing , it 's just odd [and→|False] fate [for→to know|True] what will happen to both of you and your relatives .</s4>

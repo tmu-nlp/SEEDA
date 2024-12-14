@@ -1,0 +1,11 @@
+<Source with context>
+After realizing the he or she is tshe carrier , the emotional damage would be hard to bear .
+<t>It could possibly [causes] a problem in a family [due to the fact] and [creates] more unhappiness [int] the family .</t>
+Overall , I belive that it entirely depends on the carrier to share the hard facts and face it with relatives but he has no obligation to tell still .
+
+<Correction>
+<s1>It could possibly [causes→cause|True] a problem in a family due to the fact [→,|True] and [creates→create|True] more unhappiness [int→in|True] the family .</s1>
+<s2>It could possibly [causes→cause|True] a problem in a family due to the fact [and→that|True] creates more unhappiness [int→in|True] the family .</s2>
+<s3>It could possibly [causes→cause|True] a problem in a family [due to the fact→|True] and [creates→create|True] more unhappiness [int→in|True] the family .</s3>
+<s4>It could possibly [causes→cause|True] a problem in a family due to [the→|True] fact and [creates→create|True] more unhappiness [int→in|True] the family .</s4>
+<s5>It could possibly [causes→cause|True] a problem in a family due to the fact and creates more unhappiness [int→in|True] the family .</s5>

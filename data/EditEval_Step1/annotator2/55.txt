@@ -1,0 +1,11 @@
+<Source with context>
+It is becoming even more convinient than talking throught the phone since it is free .
+<t>We discuss [every thing] we like and we have more personal space.Our friends also [got] more access to know what we are doing and what we like .</t>
+And also , we get a chance to talk to public people like popular stars and know their life better .
+
+<Correction>
+<s1>We discuss every thing we like and we have more personal [space.Our→space . Our|True] friends also [got→have|True] more access to know what we are doing and what we like .</s1>
+<s2>We [discuss→discussed|True] [every thing→everything|True] we [like→liked|True] and we [have→had|True] more personal [space.Our→space . Our|True] friends also [got→had|True] more access to know what we are doing and what we like .</s2>
+<s3>We discuss [every thing→everything|True] we like and we have more personal [space.Our→space . Our|True] friends also [got→get|True] more access to know what we are doing and what we like .</s3>
+<s4>We discuss every thing we like and we have more personal space.Our friends also got more access to [know→knowing|False] what we are doing and what we like .</s4>
+<s5>We discuss [every thing→everything|True] we like and we have more personal space.Our friends also got more access to know what we are doing and what we like .</s5>

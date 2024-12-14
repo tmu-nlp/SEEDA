@@ -1,0 +1,11 @@
+<Source with context>
+However , social media site is a double-sided sword , it also bring in some negative effect on our daily life .
+<t>One of the [disadvantage] that [many people concerns] is that people [loss] [the] interest of face-to-face communication .</t>
+Many people like to use language to pretend themselves , and lost confidence when they talk to each other .
+
+<Correction>
+<s1>One of the [disadvantage→disadvantages|True] that many people [→are|True] [concerns→concerned|True] [→about|True] is that people [loss→lose|True] [the→|True] interest [of→in|True] face-to-face communication .</s1>
+<s2>One of the [disadvantage→disadvantages|True] that many people [concerns→concern|False] is that people [loss→lose|True] [the→|True] interest [of→in|True] face-to-face communication .</s2>
+<s3>One of the disadvantage that [many people concerns→concerns many people|True] is that people [loss→lose|True] the interest of face-to-face communication .</s3>
+<s4>One of the [disadvantage→disadvantages|True] that many people [→are|True] [concerns→concerned|True] [→about|True] is that people [loss→lose|True] the interest [of face-to-face→in face - to - face|True] communication .</s4>
+<s5>One of the [disadvantage→disadvantages|True] that many people concerns is that people [loss→lose|True] the interest [of face-to-face→in face - to - face|True] communication .</s5>

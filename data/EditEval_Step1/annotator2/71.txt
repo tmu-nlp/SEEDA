@@ -1,0 +1,10 @@
+<Source with context>
+Being the parent , you are not responsible to you next generations , since you allow the genetic risk to be passed on by generation and generation and being aware of it .
+<t>However , if you tell the truth to your wife and relatives , you offer a [chance] about whether to have [] child or not .</t>
+And if you still decide to have the baby , since the technology has been developed so advanced , it might be possible in the future that the application of altering gene is perfected and widely used , you can then choose to give birth to babies by giving them a brighter future .
+
+<Correction>
+<s1>However , if you tell the truth to your wife and relatives , you offer a chance [about→of|True] whether to have [→a|True] child or not .</s1>
+<s2>However , if you tell the truth to your wife and relatives , you offer [→them|True] a chance about whether to have [child→children|True] or not .</s2>
+<s3>However , if you [tell→|True] [the→are|True] [truth→honest|True] [to→with|True] your wife and [relatives→family|True] , you [offer→give them|True] [a→the|True] chance [about→to choose|True] whether to have [→a|True] child or not .</s3>
+<s4>However , if you tell the truth to your wife and relatives , you offer a chance [about→to decide|True] whether to have [→a|True] child or not .</s4>

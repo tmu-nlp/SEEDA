@@ -1,0 +1,10 @@
+<Source with context>
+Actually , I have seen some people are very funny and interesting when I am chatting with them online .
+<t>However , they behave quite [boring] when I talk to them in real life .</t>
+Teenagers are developing their interpersonal skills and social skills when they are growing up .
+
+<Correction>
+<s1>However , they behave quite [boring→boringly|True] when I talk to them in real life .</s1>
+<s2>However , they [behave→act|True] quite [boring→bored|False] when I talk to them in real life .</s2>
+<s3>However , they behave quite [boring→boredom|False] when I talk to them in real life .</s3>
+<s4>However , they [behave→are|True] quite boring when I talk to them in real life .</s4>

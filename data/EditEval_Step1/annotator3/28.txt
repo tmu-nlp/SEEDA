@@ -1,0 +1,10 @@
+<Source with context>
+While every family need to go through this or that kind of troublesome situations , the more troubles that a family has gone through together , the greater bond will be established between the family members as well as the greater amount of trust , love and understanding .
+<t>Hence , for a family in which every member [is] truly [believing] in each other and [loving] each other [,all] these troubles are just [testaments] to make them stronger .</t>
+Just as the lyrics of Kelly Clarkson , what does n't kill you make you stronger .
+
+<Correction>
+<s1>Hence , for a family in which every member is truly believing in each other and loving each other [,all→, all|True] these troubles are just testaments to make them stronger .</s1>
+<s2>Hence , for a family in which every member [is→|False] truly believing in each other and loving each other [,all→, all|True] these troubles are just testaments to make them stronger .</s2>
+<s3>Hence , for a family in which every member is truly believing in each other and loving each other [,all→, all|True] these troubles are just [testaments→tests|True] to make them stronger .</s3>
+<s4>Hence , for a family in which every member [is→|True] truly [believing→believes|True] in each other and [loving→loves|True] each other ,all these troubles are just testaments to make them stronger .</s4>

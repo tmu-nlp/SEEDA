@@ -1,0 +1,10 @@
+<Source with context>
+They can become anyone .
+<t>Though social media [do] create relationships , relationships and friendships are only firm and real if people have gone through experiences and communication [in] face-to-face [interaction] .</t>
+There is a story of a girl who lives in social media world every night in eight years .
+
+<Correction>
+<s1>Though social media do create relationships , relationships and friendships are only firm and real if people have gone through experiences and communication in [face-to-face→face - to - face|False] interaction .</s1>
+<s2>[Though→Although|True] social media [do→does|True] create relationships , relationships and friendships are only firm and real if people have gone through experiences and communication in face-to-face [interaction→interactions|True] .</s2>
+<s3>Though social media [do→does|True] create relationships , relationships and friendships are only firm and real if people have gone through experiences and communication in face-to-face interaction .</s3>
+<s4>Though social media [do→can|True] create relationships , relationships and friendships are only firm and real if people have gone through experiences and communication in face-to-face interaction .</s4>

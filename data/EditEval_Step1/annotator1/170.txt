@@ -1,0 +1,11 @@
+<Source with context>
+Nowadays , it is quite common to see on some party , people would more prefer looking at their phones and reading all the posts on facebook if they feel bored .
+<t>It makes people worry since if all the teenagers continue using social media frequently , [they will decrease the ability] to talk to people .</t>
+They will feel it becomes difficult for them to find any topics to communicate with other people .
+
+<Correction>
+<s1>It makes people worry [→,|True] since if all the teenagers continue using social media frequently , they will decrease the ability to talk to people .</s1>
+<s2>It makes people worry since if all the teenagers continue using social media frequently , they will decrease [the→their|True] ability to talk to people .</s2>
+<s3>It makes people worry [→,|True] since if all [the→|True] teenagers continue using social media frequently , they will decrease the ability to talk to people .</s3>
+<s4>It makes people worry since if all [the→|True] teenagers continue using social media frequently , they will decrease the ability to talk to people .</s4>
+<s5>It makes people worry [since→that|True] if [all the→|True] teenagers continue using social media frequently , [they will decrease→|True] [the→their|True] ability to talk to people [→will decrease|True] .</s5>

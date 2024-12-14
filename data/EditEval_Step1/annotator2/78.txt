@@ -1,0 +1,9 @@
+<Source with context>
+Above all , social network site is like a two sided knife and people can only take good advantage of it by avoiding the possible disadvantages of it such as put less personal information on his or her facebook page .
+<t>The modes of communication have been changing over the years , from letter writing to social [networking] .</t>
+This phenomenon is caused by rapidly changing technology , which has made communication to be faster than never before .
+
+<Correction>
+<s1>The modes of communication have [been changing→changed|True] over the years , from letter writing to social networking .</s1>
+<s2>The modes of communication [have→has|False] been changing over the years , from letter writing to social networking .</s2>
+<s3>The modes of communication have been changing over the years , from letter writing to social networking .</s3>

@@ -1,0 +1,9 @@
+<Source with context>
+Tell them or keep this secret until we die ?
+<t>Many people feel that we should tell our relatives since we really care about their health status .</t>
+For example , diabetes is a kind of genetic disease .
+
+<Correction>
+<s1>Many people feel that we should tell our relatives since we really care about their health status .</s1>
+<s2>Many people feel that we should [tell→inform|True] our relatives since we really care about their health status .</s2>
+<s3>Many people feel that we should tell our relatives since we really care about their health [status→|True] .</s3>

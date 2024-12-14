@@ -1,0 +1,9 @@
+<Source with context>
+People can only use electical devices to access internet .
+<t>Whenever they need to use social media , they have to use a phone or internet .</t>
+Generally people need they eyes to look at the display screen of their phone or computer and fingers to manipulate the corresponding device .
+
+<Correction>
+<s1>Whenever they need to use social media , they have to use a phone or [internet→Internet|True] .</s1>
+<s2>Whenever they need to use social media , they have to use a phone or [→the|True] internet .</s2>
+<s3>Whenever they need to use social media , they have to use a phone or [→the|True] [internet→Internet|True] .</s3>

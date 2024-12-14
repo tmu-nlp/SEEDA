@@ -1,0 +1,10 @@
+<Source with context>
+Those who are born into a family with a history of genetic disease should be allowed to undergo genetic testing , even though if there is no risk at all .
+<t>Early [pre-examination] is healthy as it will cast away unwanted doubts and affect the [psychological thoughts] of those who are affected .</t>
+For a genetic risk carrier , there should be choice given with regards to informing his/her relatives .
+
+<Correction>
+<s1>Early [pre-examination→pre - examination|False] is healthy as it will cast away unwanted doubts and affect the psychological thoughts of those who are affected .</s1>
+<s2>Early [→preparation for|False] [pre-examination→examinations|True] is healthy as it will cast away unwanted doubts and affect the psychological thoughts of those who are affected .</s2>
+<s3>Early [pre-examination→examination|True] is healthy [→,|True] [as→because|True] it will cast away unwanted doubts and affect the [psychological→psychology|True] [thoughts→|False] of those who are affected .</s3>
+<s4>Early pre-examination is healthy as it will cast away unwanted doubts and affect the psychological thoughts of those who are affected .</s4>

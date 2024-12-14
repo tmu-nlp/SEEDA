@@ -1,0 +1,11 @@
+<Source with context>
+In addition , with all those " nice " guys around on the social network website , one may neglect people surrounding him or her but just communicate with friends on facebook .
+<t>It is [a] common [scene] [that] two people sitting next to each other [seldom] talk with each other [but] just look at their [cellphone] .</t>
+This kind of behaviour is not good to people 's psychological health according to a research .
+
+<Correction>
+<s1>It is a common scene that two people sitting next to each other seldom talk [with→to|True] each other but just look at their [cellphone→cellphones|True] .</s1>
+<s2>It is a common scene [that→where|False] two people sitting next to each other seldom talk with each other but just look at their [cellphone→cellphones|True] .</s2>
+<s3>It is a common scene [that→where|False] two people sitting next to each other seldom talk with each other but just look at their cellphone .</s3>
+<s4>It is a common scene that two people sitting next to each other seldom talk with each other but just look at their [cellphone→cellphones|True] .</s4>
+<s5>It is [a→|True] common [scene that→to see|True] two people sitting next to each other [→,|True] seldom [talk→talking|True] [with→to|True] each other [but→. Instead they|True] just look at their [cellphone→cellphones|True] .</s5>

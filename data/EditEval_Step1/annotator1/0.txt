@@ -1,0 +1,11 @@
+<Source with context>
+Genetic risk does carry its consequences and should not be taken lightly within the family circle .
+<t>Afterall , what affects one family may or may not affect another although the families [has] a common genetic make up , shared by either of the parents .</t>
+In cases where an individual has gotten to know of a genetic disorder , disclosing or otherwise , to his or her relative is solely a matter of preference within the indivdial moral system .
+
+<Correction>
+<s1>[Afterall→After all|True] , what affects one family may or may not affect another [→,|True] although the [families→family|True] has a common genetic make [→-|False] up , shared by either of the parents .</s1>
+<s2>Afterall , what affects one family may or may not affect another [→,|True] although the families [has→have|True] a common genetic make up , shared by either of the parents .</s2>
+<s3>[Afterall→After all|True] , what affects one family may or may not affect another [→,|True] although the families [has→have|True] a common genetic [make up→make-up|False] , shared by either of the parents .</s3>
+<s4>[Afterall→Afterwards|False] , what affects one family may or may not affect another [→,|True] although the families has a common genetic make [→-|False] up , shared by either of the parents .</s4>
+<s5>[Afterall→After all] |True, what affects one family may or may not affect another [→|True,] although the families [has→have]|True a common genetic make [→-|False] up , shared by either of the parents .</s5>

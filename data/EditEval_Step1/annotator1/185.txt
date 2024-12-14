@@ -1,0 +1,10 @@
+<Source with context>
+Unlike just keeping contact numbers that we may not even call , social media like facebook is a great way for friends from different field or even from different parts of the world to be connected .
+<t>Within clicks , we could check on [the] friend 's profile and read [on] [for] his/her updates .</t>
+On another hand , we could update our profile by posting on the wall and our friends could read up on the newsfeed .
+
+<Correction>
+<s1>Within clicks , we could check on the friend 's profile and read [on for→|True] his/her updates .</s1>
+<s2>Within clicks , we could check [on→|True] [the→our|True] friend 's profile and read on for [his/her→their|False] updates .</s2>
+<s3>Within clicks , we could check on the friend 's profile and read on for [his/her→his / her|False] updates .</s3>
+<s4>[Within→With|True] [→a few|True] clicks , we [could→can|True] check on [the→a|True] friend 's profile and read [on for his/her→their status|False] updates .</s4>

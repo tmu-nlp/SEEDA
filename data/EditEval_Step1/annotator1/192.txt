@@ -1,0 +1,10 @@
+<Source with context>
+Social media sites ' role in connecting people around the world is undeniable .
+<t>[Thank] to those social media , the communication among people all over the world is possible and can be done with ease .</t>
+Apart from the ease of communication despite of the distance , many other advantages such as knowledge sharing and trades can be done through social media as well .
+
+<Correction>
+<s1>[Thank→Thanks|True] to those social media , [the→|True] communication among people all over the world is possible and can be done with ease .</s1>
+<s2>[Thank→Thanks|True] to [those→|True] social media , the communication among people all over the world is possible and can be done with ease .</s2>
+<s3>[Thank→Thanks|True] to [those→these|True] social media , the communication among people all over the world is possible and can be done with ease .</s3>
+<s4>Thank to [those→|True] social media , [the→|True] communication among people all over the world is possible and can be done with ease .</s4>

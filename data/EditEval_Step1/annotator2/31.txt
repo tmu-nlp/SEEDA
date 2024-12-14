@@ -1,0 +1,7 @@
+<Source with context>
+However , as I said earlier , it is better for the person to at least tell about the potential risk to his or her future partner since his genetic risk may affect his children later .
+<t>This information needs to be at least acknowledged by the other party before they make the decision to get married and have children .</t>
+There may be possibilities when both the husband and wife are carriers and therefore they should not have any child since their child may not be able to survive even after they are born .
+
+<Correction>
+<s1>This information needs to be at least acknowledged by the other party before they make the decision to get married and have children .</s1>

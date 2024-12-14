@@ -1,0 +1,11 @@
+<Source with context>
+Students can exchange their experiences in study even they are in different countries .
+<t>People are able to share the culture or pretty photos online , therefore others can [spread the joy with them] .</t>
+Thus I believe that social media sites are one of useful tool to help people known each other better .
+
+<Correction>
+<s1>People are able to share the culture or pretty photos online , therefore others can spread [the→|True] joy with them .</s1>
+<s2>People are able to share the culture or pretty photos online , [→and|True] therefore others can spread the joy with them .</s2>
+<s3>People are able to share [the→|True] culture or pretty photos online , [therefore→so|True] others can spread the joy with them .</s3>
+<s4>People are able to share the culture or pretty photos online [,→so|True] [therefore→that|True] others can [spread→share|True] the joy with them .</s4>
+<s5>People are able to share [the→their|True] culture or pretty photos online , therefore others can spread the joy with them .</s5>

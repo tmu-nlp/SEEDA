@@ -1,0 +1,11 @@
+<Source with context>
+Having to meet and interact for talks allows one to be closer to the recepient .
+<t>It involves a level of dynamic interaction which [utlises] the motor , thinking and verbal cortex of the mind to coordinate .</t>
+Unlike the use of social media , most of the interaction is done with thinking and typing .
+
+<Correction>
+<s1>It involves a level of dynamic interaction which [utlises→utilises|False] the motor , thinking and verbal cortex of the mind to coordinate .</s1>
+<s2>It involves a level of dynamic interaction which [utlises→utilizes|True] the motor , thinking [→,|True] and verbal cortex of the mind to coordinate .</s2>
+<s3>It involves a level of dynamic interaction which [utlises→uses|False] the motor , thinking and verbal cortex of the mind to coordinate .</s3>
+<s4>It involves a level of dynamic interaction [which→that|True] [utlises→is coordinated|True] [→by|True] the [motor , thinking and verbal→cerebral|True] cortex of the [mind to coordinate→brain|True] .</s4>
+<s5>It involves a level of dynamic interaction which [utlises→utilizes|True] the motor , thinking and verbal cortex of the mind to coordinate .</s5>

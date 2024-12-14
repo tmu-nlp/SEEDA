@@ -1,0 +1,9 @@
+<Source with context>
+In my opinion , the carrier of a known genetic risk has to tell his or her relatives about this .
+<t>This is because his or her relatives have the right to know about this .</t>
+As many people realize , a genetic disorder can be related to the carrier 's relatives , that is , one of the family members is at risk for a genetic disorder means that other family members also have almost the equally risk to have it , so this problem should be treated seriously by the family .
+
+<Correction>
+<s1>This is because his or her relatives have the right to know [about this→|True] .</s1>
+<s2>This is because his or her relatives have the right to know about this .</s2>
+<s3>This is because [his or→] [her→their|True] relatives have the right to know about this .</s3>

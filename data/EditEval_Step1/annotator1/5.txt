@@ -1,0 +1,10 @@
+<Source with context>
+The medical treatment technology during that time is not advanced enough to completely cure him .
+<t>He [has to] choose whether to protect his family or [make his family more prosperity] with a potential generic risk .</t>
+And so , he would have chosen not to undergo generic disorder testing and let the truth be mined forever .
+
+<Correction>
+<s1>He [has→had|True] to choose whether to protect his family [→,|True] or [→to|True] make his family more [prosperity→prosperous , but|True] with a potential [generic→genetic|True] risk .</s1>
+<s2>He has to choose [whether→between|True] [to protect→protecting|True] his family or [make→making|True] his family more [prosperity→prosperous|True] with a potential generic risk .</s2>
+<s3>He [has→had|True] to choose whether to protect his family or make his family more [prosperity→prosperous|True] with a potential [generic→genetic|True] risk .</s3>
+<s4>He has to choose whether to protect his family or [→to|False] make his family more prosperity with a potential generic risk .</s4>

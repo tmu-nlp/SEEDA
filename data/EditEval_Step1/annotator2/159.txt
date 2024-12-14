@@ -1,0 +1,11 @@
+<Source with context>
+We should maximize the benefits of such platforms but be careful of its impacts on the actual life that we have .
+<t>Ultimately , the best way to enhance interpersonal skills is still through face-to-face meetings but social media sites are only [the] tools to enhance it .</t>
+Nowadays , social media sites are commonly used in the society .
+
+<Correction>
+<s1>Ultimately , the best way to enhance interpersonal skills is still through face-to-face meetings [→,|True] but social media sites are [only the→|True] tools to enhance [it→them|True] .</s1>
+<s2>Ultimately , the best way to enhance interpersonal skills is still through face-to-face meetings [→,|True] but social media sites are only the tools to enhance it .</s2>
+<s3>Ultimately , the best way to enhance interpersonal skills is still through face-to-face meetings [→,|True] but social media sites are only the tools to enhance [it→them|True] .</s3>
+<s4>Ultimately , the best way to enhance interpersonal skills is still through [face-to-face→face - to - face|False] meetings [→,|True] but social media sites are only the tools to enhance it .</s4>
+<s5>Ultimately , the best way to enhance interpersonal skills is still through face-to-face meetings [→,|True] [but→and|True] social media sites are [only→just|True] [the→|True] tools to [enhance→supplement|True] it .</s5>

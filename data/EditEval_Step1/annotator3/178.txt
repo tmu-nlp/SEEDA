@@ -1,0 +1,11 @@
+<Source with context>
+The children nowadays do not know what is neighbourhood games and who is staying beside them , all they know is pressing icons on the screens .
+<t>These are some concrete examples of how [the] [socia] media reduce face-to-face human contact .</t>
+When people get use of using socia media to contact other people , what will happen is that their interpersonal communicating skills will degrade and lost eventually .
+
+<Correction>
+<s1>These are some concrete examples of how the socia media reduce [face-to-face→face - to - face|False] human contact .</s1>
+<s2>These are some concrete examples of how [the→|True] [socia→social|True] media [reduce→reduces|False] face-to-face human contact .</s2>
+<s3>These are some concrete examples of how the [socia→social|True] media [reduce→reduces|False] face-to-face human contact .</s3>
+<s4>These are some concrete examples of how the [socia→social|True] media reduce face-to-face human contact .</s4>
+<s5>These are some concrete examples of how [the→|True] socia media [reduce→reduces|True] face-to-face human contact .</s5>

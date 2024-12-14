@@ -1,0 +1,10 @@
+<Source with context>
+The advancement of those social media sites makes people so rely on them that some of them rather prefer using those sites to contact each other than talking to each other face to face .
+<t>Many people argue that this is the most serious problem brought by social media sites .</t>
+The usage of social media sites indirectly causes a reduction in face-to-face human communication in real life , which will in turn cause the lost of interpersonal skills for many people .
+
+<Correction>
+<s1>Many people argue that this is the most serious problem brought by social media [sites→|True] .</s1>
+<s2>Many people argue that this is the most serious problem brought by social media sites .</s2>
+<s3>Many people argue that this is the most serious problem brought [→about|True] by social media sites .</s3>
+<s4>Many people argue that this is the most serious problem [brought→caused|True] by social media sites .</s4>

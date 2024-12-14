@@ -1,0 +1,10 @@
+<Source with context>
+As people feel more confident online where they do not have to face in real-life on the spot , they feel more comfortable and thus prefer communicating online .
+<t>This results in [] lack of interpersonal skills [in individual] , especially young students [] as they always have [] option to turn their back [to] [the] [real-life] and go online .</t>
+This becomes a huge problem when they have no choice but have to face things in real life .
+
+<Correction>
+<s1>This results in [→a|True] lack of interpersonal skills in [individual→individuals|True] , especially young students [→,|True] as they always have [→the|True] option to turn their back to [the→|True] real-life and go online .</s1>
+<s2>This results in lack of interpersonal skills in [individual→individuals|True] , especially young students [→,|True] as they always have [→an|True] option to turn their [back→backs|True] to [the real-life→real - life|True] and go online .</s2>
+<s3>This results in [→a|True] lack of interpersonal skills in [→the|True] individual , especially young students as they always have [→the|True] option to turn their back [to→on|True] the real-life and go online .</s3>
+<s4>This results in [→a|True] lack of interpersonal skills in [individual→individuals|True] , especially young students [→,|True] as they always have [→the|True] option to turn their [back→backs|True] to [the→|True] real-life and go online .</s4>

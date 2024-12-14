@@ -1,0 +1,11 @@
+<Source with context>
+From a practitioner 's perspective these findings are important because if lay constructs of the family and kinship are a social construct they may not be in line with geneticists ' views of family relationships , or about which blood ( or non-blood ) relatives should be informed and by whom ; this is also likely to be dependent on the cultural and ethnic context .
+<t>Ultimately , one must bring attention to who may benefit from such information and [assisting] those at risk to make [considered] decisions about disclosure .</t>
+Whose duty it is to inform at risk relatives or not greatly depends on the personal moral and the nature of how 'directive ' the risk is to them .
+
+<Correction>
+<s1>Ultimately , one must bring attention to who may benefit from such information and [assisting→assist|True] those at risk to make [considered→|True] decisions about disclosure .</s1>
+<s2>Ultimately , one must bring attention to who may benefit from such information and assisting those at risk to make considered decisions about disclosure .</s2>
+<s3>Ultimately , one must bring attention to who may benefit from such information and [assisting→help|True] those at risk to make considered decisions about disclosure .</s3>
+<s4>Ultimately , one must bring attention to who may benefit from such information and [assisting→assist|True] those at risk to make [considered→informed|True] decisions about disclosure .</s4>
+<s5>Ultimately , one must bring attention to who may benefit from such information [→,|False] and [assisting→to assist|False] those at risk to make [considered→thoughtful|True] decisions about disclosure .</s5>

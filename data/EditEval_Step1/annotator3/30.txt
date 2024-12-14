@@ -1,0 +1,11 @@
+<Source with context>
+However , every year the government has to spend a lot to help the disables such as medical subsidizes and builds up special schools to educate them .
+<t>[Without] increasing [] number of [disables] in a nation , the government is able to concentrate [to] [develop] [in] other [ways] like [] military and education .</t>
+As citizens of a nation , they have the responsibility to support their country in many ways .
+
+<Correction>
+<s1>Without increasing [→the|True] number of [disables→disabled|True] in a nation , the government is able to concentrate [to→on|True] [develop→developing|True] in other ways like military and education .</s1>
+<s2>Without increasing [→the|True] number of [disables→disabled|True] in a nation , the government is able to concentrate [to→on|True] [develop→developing|True] in other ways [→,|True] like [→the|True] military and education .</s2>
+<s3>Without [→an|True] increasing number of [disables→disabled|True] in a nation , the government is able to concentrate [to→on|True] [develop→developing|True] in other ways [→,|True] like [→the|True] military and education .</s3>
+<s4>Without increasing number of [disables→disabled|True] in a nation , the government is able to concentrate [to→on|True] [develop→developing|True] in other ways like military and education .</s4>
+<s5>[Without→By|True] [→not|True] increasing [→the|True] number of [disables→disabled|True] [→people|True] in a nation , the government is able to concentrate [to→on|True] [develop→developing|True] in other ways [like→, such as|True] military and education .</s5>

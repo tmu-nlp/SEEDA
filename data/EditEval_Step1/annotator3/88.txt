@@ -1,0 +1,11 @@
+<Source with context>
+Everything comes with benefits will also have their disadvantages .
+<t>On the other hand , social media sites also [bring] some negative impacts [for] [the] people and [the] society .</t>
+The advancement of those social media sites makes people so rely on them that some of them rather prefer using those sites to contact each other than talking to each other face to face .
+
+<Correction>
+<s1>On the other hand , social media sites also bring some negative impacts [for→on|True] the people and [the→|True] society .</s1>
+<s2>On the other hand , social media sites also [bring→have|True] some negative impacts [for→on|True] the people and [the→|True] society .</s2>
+<s3>On the other hand , social media sites also bring some negative impacts for [the→|True] people and [the→|True] society .</s3>
+<s4>On the other hand , social media sites also bring some negative impacts [for→on|True] the people and the society .</s4>
+<s5>On the other hand , social media sites also [bring→have|True] some negative impacts [for→on|True] [the→|True] people and [the→|True] society .</s5>

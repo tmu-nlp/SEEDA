@@ -1,0 +1,10 @@
+<Source with context>
+It started withthe invention of technology which has evolved tremendously over the past few decades .
+<t>In the past , we [travel] by ship and now we can [use airplane] to do so .</t>
+In the past , it took a few days to receive a message as we need to post our letter and now , we can use e-mail which stands for electronic message to send messages to our friends or even use our handphone to send our messages .
+
+<Correction>
+<s1>In the past , we [travel→travelled|True] by ship and now we can use airplane to do so .</s1>
+<s2>In the past , we [travel→travelled|True] by ship and now we can use [→an|False] airplane to do so .</s2>
+<s3>In the past , we [travel→traveled|False] by ship and now we can use [→an|False] airplane to do so .</s3>
+<s4>In the past , we [travel→traveled|False] by ship and now we can use airplane to do so .</s4>

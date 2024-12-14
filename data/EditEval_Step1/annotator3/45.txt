@@ -1,0 +1,10 @@
+<Source with context>
+This is because many relate genetic diseases to those such as Bubble-Boy disease , autism or down-syndrome .
+<t>[In those diseases ,] many who are affected [] do actually have different physical characteristics compared to those without [the] genetic diseases .</t>
+While we do know that we should not discriminate them based on their limitations , many people still do it with or without them realizing it .
+
+<Correction>
+<s1>In those diseases , many who are affected do actually have different physical characteristics compared to those without the genetic [diseases→disorder|True] .</s1>
+<s2>In those diseases , many who are affected do actually have different physical characteristics compared to those without [the→|True] genetic diseases .</s2>
+<s3>In those diseases , many who are affected [do→|True] actually have different physical characteristics compared to those without [the→|True] genetic diseases .</s3>
+<s4>[In those diseases , many→Many|True] who are affected [→with|True] [do→those|True] [actually→diseases|True] have different physical characteristics compared to those without the genetic diseases .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+Life is hard but people can not blame it on being unfair .
+<t>It is just because [that] [you] do not become strong enough to overcome [the] hard time .</t>
+Furthermore , living with a secret is not a good sensation , especially if the situations of other relatives become worse , you should feel guilty and depressed .
+
+<Correction>
+<s1>It is just because [that→|True] you do not become strong enough to overcome [the→a|True] hard time .</s1>
+<s2>It is just because that you do not become strong enough to overcome the hard [time→times|True] .</s2>
+<s3>It is just because [that→|True] you do not become strong enough to overcome the hard [time→times|True] .</s3>
+<s4>It is just because [that→|True] [you→they|True] do not become strong enough to overcome the hard [time→times|True] .</s4>

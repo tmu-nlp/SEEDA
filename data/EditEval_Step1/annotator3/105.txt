@@ -1,0 +1,10 @@
+<Source with context>
+In conclusion , a carrier of a known genetic risk is encouraged to tell his or her relatives about the known genetic risk .
+<t>However , there may be [some] special [case] [that] [] is hard to [be] [defined] .</t>
+Thus , advice from hospital plays the important role for this .
+
+<Correction>
+<s1>However , there may be some special case that is hard to [be defined→decide|True] .</s1>
+<s2>However , there may be some special case that is hard to [be defined→define|True] .</s2>
+<s3>However , there may be some special [case→cases|True] that [is→are|True] hard to [be defined→define|True] .</s3>
+<s4>However , there may be some special [case→cases|True] that [is→are|True] hard to be defined .</s4>

@@ -1,0 +1,7 @@
+<Source with context>
+Because if you are carrying that genetic risk , then there is great possibility that your relatives like parents or siblings are carrying the same genetic risk as well .
+<t>The genetic risk that you carry may or may not affect your health and put you in danger .</t>
+If you have n't undergone the genetic testing , it 's just odd and fate for what will happen to both of you and your relatives .
+
+<Correction>
+<s1>The genetic risk that you carry may or may not affect your health and put you in danger .</s1>

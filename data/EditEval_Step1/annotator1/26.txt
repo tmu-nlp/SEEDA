@@ -1,0 +1,11 @@
+<Source with context>
+If the parents know that one of them is a carrier and disclose the information to their relatives then they can bring their children to undergo genetic testing and do n't need to be shy of it because it is for the sake of their children 's health .
+<t>Fourthly , it is important for the parents to give [mental boost] [for] their children with genetic disorder .</t>
+When their children become teenagers , a lot of social problems may arise .
+
+<Correction>
+<s1>[Fourthly→Fourth|False] , it is important for [the→|False] parents to give [→a|True] mental boost [for→to|True] their children with genetic [disorder→disorders|True] .</s1>
+<s2>[Fourthly→Fourth|False] , it is important for [the→|False] parents to give mental [boost→boosts|False] for their children with genetic [disorder→disorders|True] .</s2>
+<s3>Fourthly , it is important for the parents to give mental [boost→support|True] [for→to|True] their children with genetic [disorder→disorders|True] .</s3>
+<s4>Fourthly , it is important for [the→|False] parents to give mental boost [for→to|True] their children with genetic [disorder→disorders|True] .</s4>
+<s5>Fourthly , it is important for [the→|False] parents to give mental [boost→boosts|False] for their children with genetic disorder .</s5>

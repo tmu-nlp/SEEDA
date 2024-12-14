@@ -1,0 +1,10 @@
+<Source with context>
+Otherwise , making it an obligation will restric the choice of carriers and bring a lot of confusion to their relatives .
+<t>For a carrier of [] genetic disorder to know the fact that he or she is a carrier , it causes more [] dilemma [rather] than getting the disorder .</t>
+I agree that a carrier of a known genetic risk is obligated to tell his or her relatives .
+
+<Correction>
+<s1>[For a→A|True] [carrier of genetic→person|True] [disorder to→'s|True] [know the fact→knowledge|True] that he or she is a carrier [→of|True] [,→a|True] [it→genetic disorder|True] causes [more→a greater|True] dilemma [rather→|True] than getting the disorder .</s1>
+<s2>For a carrier of [→a|True] genetic disorder to know the fact that he or she is a carrier , it causes more dilemma [rather→|True] than getting the disorder .</s2>
+<s3>For a carrier of genetic disorder to know the fact that he or she is a carrier , [it→|False] causes more dilemma rather than getting the disorder .</s3>
+<s4>For a carrier of [→a|True] genetic disorder to know the fact that he or she is a carrier [, it→|True] causes more [→of a|True] dilemma [rather→|True] than getting the disorder .</s4>

@@ -1,0 +1,11 @@
+<Source with context>
+However , social media may do some harm to people 's life .
+<t>It will make people spend more time [on] chatting on the [internet] rather than [communicate] face to face [] [such] [that] [the] interpersonal [skill] [will] [be] [badly] [affected] .</t>
+Some people spend a lot of time in it and forget their real life .
+
+<Correction>
+<s1>It will make people spend more time on chatting on the internet rather than [communicate→communicating|True] face to face [such→, so|False] that the interpersonal [skill→skills|True] will be badly affected .</s1>
+<s2>It will make people spend more time [on→|True] chatting on the internet rather than [communicate→communicating|True] face to face such that the interpersonal skill will be badly affected .</s2>
+<s3>It will make people spend more time on chatting on the internet rather than [communicate→communicating|True] face to face [→,|True] such that [the→|True] interpersonal [skill→skills|True] will be badly affected .</s3>
+<s4>It will make people spend more time [on→|True] chatting on the internet rather than [communicate→communicating|True] face to face [such→, thus|True] [that→affecting|True] [the→their|True] interpersonal [skill→skills|True] [will be badly affected→|True] .</s4>
+<s5>It will make people spend more time on chatting on the internet rather than [communicate→communicating|True] face to face such that the interpersonal [skill→skills|True] will be badly affected .</s5>

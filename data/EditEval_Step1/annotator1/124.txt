@@ -1,0 +1,11 @@
+<Source with context>
+Then , we need to talk about the advantages and disadvantages of using social media in your daily life and society .
+<t>As for the advantages , there are two aspects : [more convenient] to contact others [,] [easier to know] about others .</t>
+One advantage is that it is more convenience to contact others by social media .
+
+<Correction>
+<s1>As for the advantages , there are two aspects : [→it 's|True] more convenient to contact others , [→and it 's|True] easier to know about others .</s1>
+<s2>As for the advantages , there are two aspects : [→it 's|True] more convenient to contact others , easier to know about others .</s2>
+<s3>As for the advantages , there are two aspects : [→it is|True] more convenient to contact others , [→and|True] easier to know about others .</s3>
+<s4>As for the advantages , there are two aspects : [→it is|True] more convenient to contact others , [→and it is|True] easier to know about others .</s4>
+<s5>As for the advantages , there are two aspects : more convenient to contact others , [→and|True] easier to know about others .</s5>

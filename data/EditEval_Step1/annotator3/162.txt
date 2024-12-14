@@ -1,0 +1,11 @@
+<Source with context>
+More importantly , it is cheap and easy to use social media .
+<t>Secondly , social media [network] [opens] the door [of] opportunities for people due to [its] great [benefit] in connecting [] .</t>
+A lot of fresh graduates can find jobs thanks to Facebook and Twitter .
+
+<Correction>
+<s1>Secondly , social media [network→networks|True] [opens→open|True] the door [of→to|True] opportunities for people due to [its→their|True] great benefit in connecting .</s1>
+<s2>Secondly , [→the|True] social media network opens the door [of→to|True] opportunities for people due to its great benefit in connecting .</s2>
+<s3>Secondly , social media [network→networks|True] [opens→open|True] the door of opportunities for people due to its great benefit in connecting .</s3>
+<s4>Secondly , social media [network→networks|True] [opens→open|True] the door of opportunities for people due to [its→their|True] great [benefit→benefits|True] in connecting .</s4>
+<s5>[Secondly→Second|True] , [→the|True] social media network opens the door of [opportunities→opportunity|True] for people [→,|False] due to its great benefit in connecting [→them|True] .</s5>

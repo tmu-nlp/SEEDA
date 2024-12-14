@@ -1,0 +1,11 @@
+<Source with context>
+Indeed , I myself use Facebook just because of the friends ' contacts that I want to keep .
+<t>However , the friendship [on] such virtual world is so superficial [which] is not so relevant to the [real-life] .</t>
+Also , as numerous profit-driven companies realize the hugh human traffic on such social media sites , they make it as a pond to fish the customers by uploading many advertisements .
+
+<Correction>
+<s1>However , the friendship [on→in|True] such virtual [world→worlds|True] is so superficial [which is→and|True] not so relevant to [the→real|True] [real-life→life|True] .</s1>
+<s2>However , [the→|True] friendship [on→in|True] such [→a|True] virtual world is so superficial which is not so relevant to [the real-life→real - life|False] .</s2>
+<s3>However , [the→|True] friendship [on→in|True] such [→a|True] virtual world is so superficial [→,|True] which is not so relevant to [the→|True] real-life .</s3>
+<s4>However , [the→|True] friendship [on→in|True] such [→a|True] virtual world is so superficial [which is→and|True] not so relevant to [the→a|False] [real-life→real life|True] .</s4>
+<s5>However , [the→|True] friendship [on→in|True] such [→a|True] virtual world is so superficial [→that|True] [which→it|True] is not so relevant to [the→real|True] [real-life→life|True] .</s5>

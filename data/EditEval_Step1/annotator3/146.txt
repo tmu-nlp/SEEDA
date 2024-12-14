@@ -1,0 +1,11 @@
+<Source with context>
+As people spend more and more time on such social media sites , the importance of the face-to-face human contacts has decresed .
+<t>As people feel more confident online where they do not have to face [] in [real-life] on the spot , they feel more comfortable and thus prefer communicating online .</t>
+This results in lack of interpersonal skills in individual , especially young students as they always have option to turn their back to the real-life and go online .
+
+<Correction>
+<s1>As people feel more confident online where they do not have to face [→life|False] in real-life on the spot , they feel more comfortable and thus prefer communicating online .</s1>
+<s2>As people feel more confident online where they do not have to face [in→the real -|True] [real-life→life|True] on the spot , they feel more comfortable and thus prefer communicating online .</s2>
+<s3>As people feel more confident online where they do not have to face in [→a|False] real-life on the spot , they feel more comfortable and thus prefer communicating online .</s3>
+<s4>As people feel more confident online where they do not have to face [in→|False] real-life on the spot , they feel more comfortable and thus prefer communicating online .</s4>
+<s5>As people feel more confident online where they do not have to face [→each other|True] in real-life on the spot , they feel more comfortable and thus prefer communicating online .</s5>

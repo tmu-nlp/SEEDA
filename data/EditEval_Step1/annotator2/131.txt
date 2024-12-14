@@ -1,0 +1,11 @@
+<Source with context>
+Substantial cost is saved without the tiring travel from one point to another point .
+<t>With the huge amount of cost savings , this capital can be utilized in the other sectors which benefits [] company more and [boost] up the company 's profit .</t>
+However , there are two sides of stories always .
+
+<Correction>
+<s1>With the huge amount of cost savings , this capital can be utilized in the other sectors [→,|True] which benefits [→the|True] company more and [boost→boosts|True] up the company 's profit .</s1>
+<s2>With the huge amount of cost savings , this capital can be utilized in the other sectors which benefits [company→companies|True] more and [boost→boosts] [up→|True] the company 's profit .</s2>
+<s3>With the huge amount of cost savings , this capital can be utilized in the other sectors which benefits [→the|True] company more and boost up the company 's profit .</s3>
+<s4>With the huge amount of cost savings , this capital can be utilized in the other sectors which benefits company more and boost [up→|True] the company 's profit .</s4>
+<s5>With the huge amount of cost savings , this capital can be utilized in [the→|True] other sectors which [benefits→benefit|True] [→the|True] company more and boost up [the→its|True] [company 's→|True] [profit→profits|True] .</s5>

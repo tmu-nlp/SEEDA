@@ -1,0 +1,7 @@
+<Source with context>
+If the carrier does n't tell his or her relatives , it may be too late to get their support and prepare financially .
+<t>Thirdly , some diseases are not noticeable and may lead to serious health problems .</t>
+One of the diseases is sickle cell trait .
+
+<Correction>
+<s1>Thirdly , some diseases are not noticeable and may lead to serious health problems .</s1>

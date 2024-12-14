@@ -1,0 +1,11 @@
+<Source with context>
+The use of social media has largely influenced our ways in communicating with one another .
+<t>Online friends became real life friends and real life friends communicate with one another online .</t>
+Social media has changed our ways of exchanging information and interpersonal relationships profoundly .
+
+<Correction>
+<s1>Online friends became real life friends and real [→-|False] life friends communicate with one another online .</s1>
+<s2>Online friends became [real life→real-life|True] friends and [real life→real-life|True] friends communicate with one another online .</s2>
+<s3>Online friends [became→have become|False] real life friends and real life friends communicate with one another online .</s3>
+<s4>Online friends became real life friends and real life friends communicate with one another online .</s4>
+<s5>Online friends [became→become|True] real life friends and real life friends communicate with one another online .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+In this case , the carrier can eat less candies and chocolates to prevent intake to much sugars , and at the same time , if the carrier tell this information to the relatives , it will be useful for them to know that they may have diabetes in the future becouse of related genes and they can perform the same exercise to intake less sugar to prevent the disease .
+<t>Otherwise , if the other parties did not know , they may end up with [to] [have] [diabete] in the future without any prevention .</t>
+In conclusion , we could tell the benefits of telling genetic risk to the carriers relatives overweights the costs .
+
+<Correction>
+<s1>Otherwise , if the other parties [did not→were|True] [know→unaware|True] , they may end up [with→|True] [to have→having|True] [diabete→diabetes|True] in the future without any prevention .</s1>
+<s2>Otherwise , if the other parties did not know , they may end up with [to have→having|True] [diabete→diabetes|True] in the future without any prevention .</s2>
+<s3>Otherwise , if the other parties did not know , they may end up with [to have→|True] [diabete→diabetes|True] in the future without any prevention .</s3>
+<s4>[Otherwise , if→If|True] the other parties did not know , they may end up with [to have→|True] [diabete→diabetes|True] in the future [→,|True] without [any→having the chance to|True] [prevention→prevent|True] [→it|True] .</s4>

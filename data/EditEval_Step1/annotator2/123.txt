@@ -1,0 +1,11 @@
+<Source with context>
+For example , in 2012 , there were false rumors of fires , shootouts , and caravans of gunmen in a Mexico City suburb which had spread through Twitter and Facebook .
+<t>This [had] caused panic among the people who [had] flooded the local police department with numerous phone calls , and this [had] resulted [] temporarily [closed] of schools .</t>
+The spreading of false information can be a potential psychological threat to everyone , given that social media can disseminate information in a realtively fast speed .
+
+<Correction>
+<s1>This [had→|True] caused panic among the people [→,|True] who [had→|True] flooded the local police department with numerous phone calls , [and this→|True] [had resulted→resulting|True] [→in the|True] temporarily [closed→closing|True] of schools .</s1>
+<s2>This had caused panic among the people who had flooded the local police department with numerous phone calls , and this had resulted [→in|True] temporarily [closed→closing|True] of schools .</s2>
+<s3>This had caused panic among the people who had flooded the local police department with numerous phone calls , and this had resulted [→in the|True] [temporarily→temporary|True] [closed→closing|True] of schools .</s3>
+<s4>This had caused panic among the people who had flooded the local police department with numerous phone calls , and this had resulted [→in|True] temporarily [closed of→closing|True] schools .</s4>
+<s5>This had caused panic among the people who had flooded the local police department with numerous phone calls , and this had resulted [→in the|True] temporarily [closed→closing|True] of schools .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+Social media does have some other advantages beside their general benefits to human being .
+<t>First of all , people [saves] money by using internet to contact other people and reading news .</t>
+A father may be able to make a call to his daughter who is in other country via socia media software instead of making international call which costs a lot to normal salary family .
+
+<Correction>
+<s1>First of all , people [saves→save|True] money by using [→the|True] internet to contact other people and [reading→read|True] [→the|True] news .</s1>
+<s2>First of all , people [saves→save|True] money by using [→the|True] [internet→Internet|True] to contact other people and [reading→read|True] news .</s2>
+<s3>First of all , people [saves→save|True] money by using [→the|True] [internet→Internet|False] to contact other people and [reading→read|True] [→the|True] news .</s3>
+<s4>First of all , people [saves→save|True] money by using [→the|True] [internet→Internet|False] to contact other people and reading [→the|True] news .</s4>

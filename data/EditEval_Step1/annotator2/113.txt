@@ -1,0 +1,10 @@
+<Source with context>
+This benefit can not be obtained through telephone or mail because people 's particular and address may change from time to time while on Facebook , people can keep in contact with old friends just by using name and photo , for example , as the identifier .
+<t>Facebook is like a combination of [] message and chatting service , personal profile , media [of] sharing , and other entertainment [add-on] ( i.e .</t>
+social games ) which allow users to communicate with remote people , and also to update and express themselves at the same time .
+
+<Correction>
+<s1>Facebook is like a combination of message and chatting service , personal profile , media [of→|True] sharing , and other entertainment add-on ( i.e .</s1>
+<s2>Facebook is like a combination of message and chatting service , personal profile , media of sharing , and other entertainment [add-on→add - ons|False] ( [i.e .→i. e.|True]</s2>
+<s3>Facebook is [like→|True] a combination of message and chatting service , personal profile , media [of→|True] sharing , and other entertainment [add-on→add-ons|True] ( i.e .</s3>
+<s4>Facebook is like a combination of message and chatting service , personal profile , media [of→|True] sharing , and other entertainment [add-on→add-ons|True] ( i.e .</s4>

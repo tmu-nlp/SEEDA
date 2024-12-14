@@ -1,0 +1,11 @@
+<Source with context>
+Therefore , telling the relatives about the situation may avoid a lot of trouble in this way and save much time for proper treatment .
+<t>Sometimes [] life may even be saved if they are told early and [conduct] timely treatment .</t>
+So for the consideration for the other family members , the relatives should be informed .
+
+<Correction>
+<s1>Sometimes life may even be saved if they are told early and [conduct→receive|True] timely treatment .</s1>
+<s2>Sometimes [life→lives|True] may even be saved if they are told early and conduct timely treatment .</s2>
+<s3>Sometimes life may even be saved if they are told early and conduct timely treatment .</s3>
+<s4>Sometimes [life→lives|True] may even be saved if they are told early [and→enough to|True] conduct timely treatment .</s4>
+<s5>Sometimes [life→lives|True] may even be saved if they are told early and [conduct→receive|True] timely treatment .</s5>

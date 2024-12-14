@@ -1,0 +1,8 @@
+<Source with context>
+People can express themselves through pictures or emotions .
+<t>People can also get to know their friends ' [state] and [mood] by looking at their posts [on line] .</t>
+Moreover , people can be aware of what is going on in social situation and see the comments online and share their opinions on these websites .
+
+<Correction>
+<s1>People can also get to know their friends ' state and mood by looking at their posts [on line→online|True] .</s1>
+<s2>People can also get to know their friends ' [state→states|True] and [mood→moods|True] by looking at their posts [on line→online|True] .</s2>

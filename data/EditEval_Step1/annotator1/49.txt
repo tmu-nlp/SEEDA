@@ -1,0 +1,10 @@
+<Source with context>
+Third , it is hard to define relatives .
+<t>If a gene runs in the family [,] one of the family [member] test positive , whom does he need to tell .</t>
+If that is a big family , is he obliged to tell everyone ?
+
+<Correction>
+<s1>If a gene runs in the family , [→and|True] one of the family [member→members|True] [test→tests|True] positive , whom does he need to tell [.→?|True]</s1>
+<s2>If a gene runs in the family , one of the family [member→members|True] [test→tests|True] positive , whom does he need to tell .</s2>
+<s3>If a gene runs in the family , one of the family [member→members|True] [test→tests|True] positive , whom does he need to tell [.→?|True]</s3>
+<s4>If a gene runs in the family , [→and|True] one of the family [member→members]|True [test→tests|True] positive , [whom→who|False] [does→do|False] [he→they|False] need to tell [.→?|True]</s4>

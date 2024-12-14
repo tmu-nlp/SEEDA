@@ -1,0 +1,11 @@
+<Source with context>
+In the past , it took a few days to receive a message as we need to post our letter and now , we can use e-mail which stands for electronic message to send messages to our friends or even use our handphone to send our messages .
+<t>From the example that I have mentioned earlier we can see that [] distance between us and our loved [one] [are] getting further apart .</t>
+This is because by the ease of technology such as airplane , some of our friends might be going overseas to continue their studies or even you are away from your family to pursue your studies or even careers in life .
+
+<Correction>
+<s1>From the example that I have mentioned earlier [→,|True] we can see that [→the|True] distance between us and our loved one [are→is|True] getting further apart .</s1>
+<s2>From the example that I have mentioned earlier [→,|True] we can see that distance between us and our loved one [are→is|True] getting further apart .</s2>
+<s3>From the example that I have mentioned earlier [→,|True] we can see that [→the|True] distance between us and our loved [one→ones|True] are getting further apart .</s3>
+<s4>From the example that I have mentioned earlier we can see that [→the|True] distance between us and our loved one [are→is|True] getting further apart .</s4>
+<s5>From the example that I have mentioned earlier we can see that distance between us and our loved [one→ones|True] are getting further apart .</s5>

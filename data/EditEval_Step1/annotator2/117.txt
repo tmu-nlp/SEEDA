@@ -1,0 +1,8 @@
+<Source with context>
+Instead , all of them were more interested in posting pictures of this " cheerful " meeting on their social media sites .
+<t>Therefore , there is need to discuss the advantages and disadvantages of social media .</t>
+Social media enables people from different parts of the world to communicate with one another .
+
+<Correction>
+<s1>Therefore , there is need to discuss the advantages and disadvantages of social media .</s1>
+<s2>Therefore , there is [→a|True] need to discuss the advantages and disadvantages of social media .</s2>

@@ -1,0 +1,10 @@
+<Source with context>
+Social media sites like Twitter and Facebook are popular among people in order for them to connect to others even from different countries .
+<t>It also brings many negative effects such as loss of face-to-face [communicating] skills which [is] important in their working place .</t>
+This essay will discuss about the advantages and disadvantages of using social media in our daily life .
+
+<Correction>
+<s1>It also brings many negative effects such as loss of face-to-face communicating skills which [is→are|True] important in their working place .</s1>
+<s2>It also brings many negative effects [→,|True] such as [→a|True] loss of [face-to-face→face - to - face|False] communicating skills [→,|True] which [is→are|True] important in their [working place→workplace|True] .</s2>
+<s3>It also brings many negative effects [→,|True] such as loss of face-to-face communicating skills which is important in their working place .</s3>
+<s4>It also brings many negative effects [→,|True] such as loss of face-to-face [communicating→communication|True] skills which [is→are|True] important in their working place .</s4>

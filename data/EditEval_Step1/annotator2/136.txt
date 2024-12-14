@@ -1,0 +1,11 @@
+<Source with context>
+Some say that it is a necessary step for human revolution .
+<t>Social media sites like Twitter and Facebook are popular among people in order for them to connect to others even from different countries .</t>
+It also brings many negative effects such as loss of face-to-face communicating skills which is important in their working place .
+
+<Correction>
+<s1>Social media sites like Twitter and Facebook are popular among people in order for them to connect [to→with|True] others even from different countries .</s1>
+<s2>Social media sites like Twitter and Facebook are popular among people in order for them to connect to others even from different countries .</s2>
+<s3>Social media sites like Twitter and Facebook are popular among people in order [for them→|True] to connect [to→with|True] others even from different countries .</s3>
+<s4>Social media sites like Twitter and Facebook are popular among people in order for them to connect to others [→,|True] even from different countries .</s4>
+<s5>Social media sites like Twitter and Facebook are popular among people [→,|True] [in→because|True] [order→they|True] [for→allow|True] them to connect [to→with|True] others even from different countries .</s5>

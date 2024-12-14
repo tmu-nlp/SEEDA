@@ -1,0 +1,10 @@
+<Source with context>
+For the countries like Singapore , they are short of manpower to contribute to the nation .
+<t>However , every year the government has to spend a lot to help the [disables] [] such as medical subsidizes and [builds] [up] special schools to educate them .</t>
+Without increasing number of disables in a nation , the government is able to concentrate to develop in other ways like military and education .
+
+<Correction>
+<s1>However , every year the government has to spend a lot to help the [disables→disabled|True] such as medical [subsidizes→subsidies|True] and [builds→build|False] up special schools to educate them .</s1>
+<s2>[However , every→Every|True] year the government has to spend a lot to help the [disables→disabled|True] [such as→with|True] medical [subsidizes→subsidies|True] and [builds up→|True] special schools to educate them .</s2>
+<s3>However , every year the government has to spend a lot to help the [disables→disabled|True] such as medical [subsidizes→subsidies|True] and builds up special schools to educate them .</s3>
+<s4>However , every year the government has to spend a lot [to→on|True] [help→helping|True] the [disables→disabled|True] such as medical subsidizes and [builds→building|True] up special schools to educate them .</s4>

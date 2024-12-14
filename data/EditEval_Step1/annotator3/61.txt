@@ -1,0 +1,11 @@
+<Source with context>
+By making sure that they are aware of this genetic problem , they could have a full check-up for themselves and it will be better if they could even prevent it from happening to themselves .
+<t>I find that it is important to inform [] especially if it is contagious , [] the carrier could prevent the disease from spreading out to [the] society .</t>
+For every action there is always pros and cons .
+
+<Correction>
+<s1>I find that it is important to inform [→them|True] [especially→. Especially|True] if it is contagious , the carrier could prevent the disease from spreading out to [the→|True] society .</s1>
+<s2>I find that it is important to inform especially if it is contagious , the carrier could prevent the disease from spreading [out→|True] to [the→|True] society .</s2>
+<s3>I find that it is important to inform [→you ,|False] especially if it is contagious , the carrier could prevent the disease from spreading out to [the→|True] society .</s3>
+<s4>I find that it is important to inform [→,|True] especially if it is contagious , [→so|True] the carrier [could→can|True] prevent the disease from spreading [out→|True] to [the→|True] society .</s4>
+<s5>I find that it is important to inform [→,|True] especially if it is contagious , the carrier could prevent the disease from spreading out to the society .</s5>

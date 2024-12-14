@@ -1,0 +1,11 @@
+<Source with context>
+The latter requires face to face interaction where we can show our emotions to the other .
+<t>One can not truly understand a person [with] only stalking his/her [facebook] page where he/she carefully chooses what to present .</t>
+One can not truly show their emotions by another by texting some = ) signs .
+
+<Correction>
+<s1>One can not truly understand a person [with→who|True] only [stalking→stalks|True] his/her facebook page where he/she carefully chooses what to present .</s1>
+<s2>One can not truly understand a person [with→by|True] only stalking his/her [facebook→Facebook|True] page where he/she carefully chooses what to present .</s2>
+<s3>One can not truly understand a person [with→by|True] only stalking [→his or|True] [his/her→her|True] facebook page where [→he|True] [→or|True] [he/she→she|True] carefully chooses what to present .</s3>
+<s4>One can not truly understand a person [with→by|True] only stalking [his/her→their|True] [facebook→Facebook|True] page where [he/she→they|True] carefully [chooses→choose|True] what to present .</s4>
+<s5>One can not truly understand a person [with→without|False] only stalking [his/her→his / her|False] facebook page where [he/she→he / she|False] carefully chooses what to present .</s5>

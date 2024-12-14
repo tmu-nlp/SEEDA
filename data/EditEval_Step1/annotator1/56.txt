@@ -1,0 +1,11 @@
+<Source with context>
+Once his or her family or relatives know that the person does not have the relation with them .
+<t>[However happy] they were before , there [would] be some barrier [appears] which will [truly] destroy the family gradually .</t>
+The relationship between the parents and their children should not be tested only in the genetic way ; it is something much deeper and tighter .
+
+<Correction>
+<s1>However happy they were before , there [would→will|True] be some barrier appears which will truly destroy the family gradually .</s1>
+<s2>However happy they were before , there would be some [barrier→barriers|True] [→that|True] [appears→appear|True] which [will→would|True] truly destroy the family gradually .</s2>
+<s3>However happy they were before , there would be some barrier [→which|True] appears which will truly destroy the family gradually .</s3>
+<s4>However happy they were before , [there would be→|True] some barrier [→would|True] [appears→appear|True] which [will→would|True] [truly→gradually|True] destroy the family [gradually→|True] .</s4>
+<s5>However happy they were before , there would be some barrier [appears→|True] which [will→would|True] truly destroy the family gradually .</s5>

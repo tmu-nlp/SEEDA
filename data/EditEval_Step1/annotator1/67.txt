@@ -1,0 +1,10 @@
+<Source with context>
+As we all know , genetic risk carriers are likely to pass the genetics to their family members .
+<t>Once one person in the family is found to be carrying [risky genetic] , other members in his or her family may also have the risk of disease .</t>
+Some of the diseases may not show symptoms until the carrier is old enough .
+
+<Correction>
+<s1>Once one person in the family is found to be carrying [→a|True] risky genetic , other members in his or her family may also have the risk of disease .</s1>
+<s2>Once one person in the family is found to be carrying risky genetic [→diseases|True] , other members in his or her family may also have the risk of disease .</s2>
+<s3>Once one person in the family is found to be carrying [→a|True] risky [genetic→gene|True] , other members [in→of|True] his or her family may also have the risk of disease .</s3>
+<s4>Once one person in the family is found to be carrying risky [genetic→genetics|False] , other members in his or her family may also have the risk of disease .</s4>

@@ -1,0 +1,10 @@
+<Source with context>
+In the days without the social networks , people may not have the chance to know others from different countries or the ones they never meet before .
+<t>[Their] number of people that they know may only [] limited to the people they meet in daily life like classmates and working partners .</t>
+Therefore , social networks brings more and more connections between people and they may have a chance to chat with people they never known before , and this helps to develop the interpersonal skills as well .
+
+<Correction>
+<s1>[Their→The|True] number of people that they know may only [→be|True] limited to the people they meet in daily life [→,|True] like classmates and working partners .</s1>
+<s2>[Their→The|True] number of people [that→|True] they know may [→be|True] [only limited→limited only|True] to the people they meet in daily life [like→, such as|True] classmates and working partners .</s2>
+<s3>[Their→The|True] number of people that they know may only [→be|True] limited to the people they meet in daily life like classmates and working partners .</s3>
+<s4>[Their number of→The|True] people that they [know may→knew might have|True] [only→been|True] limited to [→only|True] the people they [meet→met|True] in [→their|True] daily life [→,|True] like classmates and [working partners→coworkers|True] .</s4>

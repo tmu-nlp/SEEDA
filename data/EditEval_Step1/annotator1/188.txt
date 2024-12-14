@@ -1,0 +1,10 @@
+<Source with context>
+Besides , we can make more friends by such interactions when our friends also bring their friends in .
+<t>Therefore , the popularity of social media sites [have] made it more convenient for people [ot] [update] friends ' [status] and contact with friends more frequently .</t>
+On the other side , we need to rethink about the influences brought by the social media .
+
+<Correction>
+<s1>Therefore , the popularity of social media sites [have→has|True] made it more convenient for people [ot→to|True] update friends ' status and contact with friends more frequently .</s1>
+<s2>Therefore , the popularity of social media sites have made it more convenient for people [ot→to|True] update friends ' status and [→have|True] contact with friends more frequently .</s2>
+<s3>Therefore , the popularity of social media sites [have→has|True] made it more convenient for people [ot→to|True] update [→their|True] friends [' status→|False] and contact [with friends→them|True] more frequently .</s3>
+<s4>Therefore , the popularity of social media sites [have→has|True] made it more convenient for people [ot→to|True] update [→their|True] friends ' status and contact with friends more frequently .</s4>

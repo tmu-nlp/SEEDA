@@ -1,0 +1,8 @@
+<Source with context>
+The question is whether a carrier of a known genetic risk should tell his or her relatives .
+<t>In my opinion , the carrier of a known genetic risk has to tell his or her relatives about this .</t>
+This is because his or her relatives have the right to know about this .
+
+<Correction>
+<s1>In my opinion , the carrier of a known genetic risk has to tell his or her relatives about this .</s1>
+<s2>In my opinion , the carrier of a known genetic risk has to tell [his or→|True] [her→their|True] relatives about this .</s2>

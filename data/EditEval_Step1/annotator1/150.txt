@@ -1,0 +1,10 @@
+<Source with context>
+It consists of the function of connecting , sharing , interacting and advertising .
+<t>However , there [are also some disadvantages occur] due to the social media which are [concerned] in the society .</t>
+Therefore , this article is written to explain the pros and cons of using social media in our daily life .
+
+<Correction>
+<s1>However , there are also some disadvantages [→that|True] occur due to the [→use of|True] social media [which are concerned→|True] in [the→|True] society .</s1>
+<s2>However , there are also some disadvantages [→which|True] occur due to the social media which are concerned in [the→|True] society .</s2>
+<s3>However , there are also some disadvantages [→that|True] occur due to the social media which are concerned in the society .</s3>
+<s4>However , there are also some disadvantages [→that|True] occur due to [the→|True] social media [→,|True] which [are→is|False] concerned in [the→|True] society .</s4>

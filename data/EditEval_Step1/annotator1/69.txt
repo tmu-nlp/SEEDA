@@ -1,0 +1,11 @@
+<Source with context>
+There are three reasons as follows .
+<t>Firstly , the information [concerning to the genetic] is something [personally] which is also a privacy like people 's bank card key .</t>
+Other people should not be told without the person 's permission even though they are his or her family or relatives .
+
+<Correction>
+<s1>Firstly , the information concerning [to→|True] the genetic is something [personally→personal|True] [→,|True] which is also [a→|True] privacy [→,|True] like people 's bank card [key→keys|True] .</s1>
+<s2>Firstly , the information concerning [to→|True] the genetic [→test|True] is something [personally→personal|True] which is also a privacy like people 's bank card key .</s2>
+<s3>Firstly , the information concerning [to the→|True] [genetic→genetics|True] is something [personally→personal|True] which is also a privacy like people 's bank card key .</s3>
+<s4>Firstly , the information concerning [to→|True] the genetic is something [personally→personal|True] which is also a privacy like people 's bank card key .</s4>
+<s5>Firstly , the information concerning [to→|True] the genetic is something personally which is also a privacy like people 's bank card key .</s5>

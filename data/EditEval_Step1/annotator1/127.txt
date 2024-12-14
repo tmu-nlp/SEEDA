@@ -1,0 +1,9 @@
+<Source with context>
+Last but not least , social media does affect human interpersonal skills when people increase the time on social sites and reject chances to expose to social daily life activities as well as interacting with people .
+<t>Recent research has shown that [the more] people spend time on social media sites , the less [they become ambitious] .</t>
+As a result , if the situation keep go on in this unexpected trend , it will cause a bad effect on the young generation .
+
+<Correction>
+<s1>Recent research has shown that the more [people spend time→time people spend|True] on social media sites , the less [they become ambitious→ambitious they become|True] .</s1>
+<s2>Recent research has shown that the more people spend time on social media sites , the less they become ambitious .</s2>
+<s3>Recent research has shown that the more people spend time on social media sites , the less [they become ambitious→ambitious they become|True] .</s3>

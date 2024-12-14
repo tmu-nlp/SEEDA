@@ -1,0 +1,11 @@
+<Source with context>
+A group of friends having high tea in a caf é without chatting as well , because they do not know what to talk but pressing on their display screen .
+<t>The children nowadays do not know what [is] neighbourhood games [] and who is [staying] beside them , all they know is pressing icons on [the] screens .</t>
+These are some concrete examples of how the socia media reduce face-to-face human contact .
+
+<Correction>
+<s1>The children nowadays do not know what [is→|True] neighbourhood games [→are|True] and who is [staying→standing|True] beside them [,→:|True] all they know is [→how|True] [pressing→to press|True] icons on [the→|True] screens .</s1>
+<s2>The children nowadays do not know what [is→|True] neighbourhood games [→are|True] and who [is→are|True] staying beside them , all they know is pressing icons on the screens .</s2>
+<s3>The children nowadays do not know what [is→|True] neighbourhood games [→are|True] and who is staying beside them [, all→. All|True] they know is pressing icons on the screens .</s3>
+<s4>The children nowadays do not know what [is→|True] neighbourhood games [→are|True] and who is staying beside them , all they know is pressing icons on the screens .</s4>
+<s5>The children nowadays do not know what [is→|True] [neighbourhood→neighborhood] games [→are|True] and who is staying beside them , all they know is pressing icons on the screens .</s5>

@@ -1,0 +1,10 @@
+<Source with context>
+However , if you have undergone and known that you are a carrier , you are responsible for your whole family .
+<t>Even though you can not eliminate the risk completely , you can at least try to be alert [to avoiding] getting the disease .</t>
+As for those in your family who are more likely to be affected , they can go to the hospital to do the checks regularly .
+
+<Correction>
+<s1>Even though you can not eliminate the risk completely , you can at least try to be alert to avoiding getting the disease .</s1>
+<s2>Even though you can not eliminate the risk completely , you can at least try [to be alert→|True] to [avoiding→avoid|True] [getting→developing|True] the disease .</s2>
+<s3>Even though you can not eliminate the risk completely , you can at least try to be alert [to→and|True] [avoiding→avoid|True] getting the disease .</s3>
+<s4>Even though you can not eliminate the risk completely , you can at least try to be alert to [avoiding→avoid|True] getting the disease .</s4>

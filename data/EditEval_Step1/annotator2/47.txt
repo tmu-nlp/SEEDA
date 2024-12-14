@@ -1,0 +1,11 @@
+<Source with context>
+When people want to check whether they are genetic risk carriers , they can go and approach a doctor to consult about it .
+<t>If they do not want to think too much [of] it and view it as a [trouble] , they may just ignore the possibility .</t>
+However , if a dignosed carrier is obligated to tell his or her relatives , the relatives will be forced to know their higher chance of being genetic risk carriers .
+
+<Correction>
+<s1>If they do [not→n't|True] want to think too much [of→about|True] it and view it as a trouble , they may just ignore the possibility .</s1>
+<s2>If they do not want to think too much of it and view it as a [trouble→problem|True] , they may just ignore the possibility .</s2>
+<s3>If they do not want to think too much [of→about|True] it and view it as a trouble , they may just ignore the possibility .</s3>
+<s4>If they do not want to think too much [of→about|True] it and view it as a [trouble→problem|True] , they may just ignore the possibility .</s4>
+<s5>If they do not want to think [→about it|True] too much [of→|True] [it→,|True] and view [it→the whole issue|True] as a [trouble→bother|True] , they may just ignore the possibility .</s5>

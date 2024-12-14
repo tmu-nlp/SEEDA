@@ -1,0 +1,10 @@
+<Source with context>
+They can also take immediate measures to reduce the possibility of having this disease .
+<t>If [person] has a disease C that might be a result of　[gene] A .</t>
+He runs a test and know that he has the gene AA .
+
+<Correction>
+<s1>If [→a|True] person has a disease C that might be [a→the|True] result of gene A .</s1>
+<s2>If [→a|True] person has a disease C that might be a result of gene A .</s2>
+<s3>If [→a|True] person has a disease C [→,|True] that might be a result of gene A .</s3>
+<s4>If person has a disease C [→,|True] that might be a result of gene [A .→A.|False]</s4>

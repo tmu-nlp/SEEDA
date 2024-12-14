@@ -1,0 +1,10 @@
+<Source with context>
+With the help of social media tools , we can stay in contact and keep ourselves up to date with our family and friends even though we are away from them .
+<t>Social media sites such as Facebook [has] allow us to share our pictures or even chat online with our parents while we are overseas .</t>
+This approaches help the parents to communicate with their children and know what kind of activities that their children have when they are overseas .
+
+<Correction>
+<s1>Social media sites such as Facebook [has→|True] allow us to share [our→|True] pictures or even chat online with our parents while we are overseas .</s1>
+<s2>Social media sites such as Facebook [has→|False] allow us to share our pictures or even chat online with our parents while we are overseas .</s2>
+<s3>Social media sites such as Facebook [has→have|True] allow us to share our pictures or even chat online with our parents while we are overseas .</s3>
+<s4>Social media sites such as Facebook [has→have|True] [allow→allowed|True] us to share our pictures or even chat online with our parents while we are overseas .</s4>
