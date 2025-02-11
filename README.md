@@ -2,7 +2,7 @@
 
 This repository contains the code for our TACL paper:
 
-[Revisiting Meta-evaluation for Grammatical Error Correction](https://arxiv.org/abs/2403.02674).
+[Revisiting Meta-evaluation for Grammatical Error Correction]([https://aclanthology.org/2024.tacl-1.47/]).
 
 If you use this code, please cite our paper:
 
