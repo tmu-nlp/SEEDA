@@ -84,7 +84,9 @@ def make_m_mtx(metric_score, targets):
             t2 = c[1]
             score1 = scores[i][t1]
             score2 = scores[i][t2]
-            if score1 > score2:
+            if score1 == score2:
+                sub_mtx[t1][t2] = 0  # tie; calc_corr counts it in the denominator only
+            elif score1 > score2:
                 if args.order == 'higher':
                     sub_mtx[t1][t2] = 1
                 else:
